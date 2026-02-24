@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build daily government/nonprofit ethics story tiles from English RSS results."""
+"""Build government/nonprofit ethics tiles from academic article metadata."""
 
 from __future__ import annotations
 
@@ -9,35 +9,40 @@ import ssl
 import urllib.parse
 import urllib.request
 import urllib.error
-import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = ROOT / "data" / "stories.json"
 
-GOVERNMENT_QUERIES = [
-    "government ethics",
-    "public corruption",
+ACADEMIC_QUERIES = [
+    "government corruption",
+    "public sector ethics",
     "public sector graft",
-    "ethics commission investigation",
-    "city council bribery",
-    "federal corruption case",
-]
-
-NONPROFIT_QUERIES = [
-    "nonprofit ethics",
-    "charity corruption",
-    "charity fraud case",
-    "ngo corruption",
-    "foundation embezzlement",
-    "nonprofit governance reform",
+    "political greed",
+    "nonprofit corruption",
+    "charity fraud governance",
+    "ngo ethics",
+    "civil society accountability",
+    "anti-corruption policy",
+    "anti-graft institutions",
 ]
 
 POSITIVE_KEYWORDS = {
+    "anti-corruption",
+    "anti corruption",
+    "anticorruption",
+    "anti graft",
+    "anti-graft",
+    "anti bribery",
+    "anti-bribery",
+    "anti fraud",
+    "anti-fraud",
+    "anti-greed",
+    "anti greed",
+    "integrity",
     "reform",
     "transparency",
     "oversight",
@@ -53,8 +58,12 @@ POSITIVE_KEYWORDS = {
 }
 
 NEGATIVE_KEYWORDS = {
+    "ethics",
+    "unethical",
+    "anti-ethics",
     "corruption",
     "graft",
+    "greed",
     "bribery",
     "bribe",
     "fraud",
@@ -93,14 +102,24 @@ GOVERNMENT_TERMS = {
 NONPROFIT_TERMS = {
     "nonprofit",
     "non-profit",
+    "non profit",
     "charity",
+    "charitable",
     "foundation",
     "ngo",
+    "non-governmental",
+    "civil society",
     "not-for-profit",
+    "not for profit",
     "philanthropy",
+    "donor-funded",
 }
 
 BUSINESS_TERMS = {
+    "business",
+    "corporate",
+    "corporation",
+    "company",
     "earnings",
     "quarterly results",
     "stock",
@@ -114,7 +133,8 @@ BUSINESS_TERMS = {
 }
 
 MAX_STORIES_PER_COLUMN = 60
-USER_AGENT = "ethics-news-board/1.0 (+https://github.com/rkchristensen/ethics_news_test)"
+ROWS_PER_QUERY = 40
+USER_AGENT = "nonmarket-ethics-scholarship-feed/1.0 (+https://github.com/rkchristensen/nonmarket_ethics_scholarship_feed)"
 
 
 @dataclass
@@ -129,9 +149,18 @@ class Story:
     nonprofit: bool
 
 
-def google_news_rss_url(query: str) -> str:
-    encoded = urllib.parse.quote_plus(query)
-    return f"https://news.google.com/rss/search?q={encoded}&hl=en-US&gl=US&ceid=US:en"
+def crossref_works_url(query: str) -> str:
+    params = urllib.parse.urlencode(
+        {
+            "query.bibliographic": query,
+            "rows": str(ROWS_PER_QUERY),
+            "sort": "published",
+            "order": "desc",
+            "filter": "type:journal-article",
+            "select": "DOI,title,URL,published,published-online,published-print,created,container-title,publisher,abstract",
+        }
+    )
+    return f"https://api.crossref.org/works?{params}"
 
 
 def fetch(url: str) -> bytes:
@@ -148,15 +177,25 @@ def fetch(url: str) -> bytes:
         raise
 
 
-def parse_date(raw: str | None) -> datetime:
-    if not raw:
+def parse_date_parts(raw: object) -> datetime:
+    if not isinstance(raw, dict):
         return datetime.now(timezone.utc)
+    date_parts = raw.get("date-parts")
+    if not isinstance(date_parts, list) or not date_parts:
+        return datetime.now(timezone.utc)
+    first = date_parts[0]
+    if not isinstance(first, list) or not first:
+        return datetime.now(timezone.utc)
+    year = int(first[0])
+    month = int(first[1]) if len(first) > 1 else 1
+    day = int(first[2]) if len(first) > 2 else 1
     try:
-        dt = parsedate_to_datetime(raw)
-        if dt.tzinfo is None:
-            return dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
-    except Exception:
+        dt = datetime(year, month, day, tzinfo=timezone.utc)
+        now = datetime.now(timezone.utc)
+        if dt.year < 1900 or dt.year > now.year + 1:
+            return now
+        return dt
+    except ValueError:
         return datetime.now(timezone.utc)
 
 
@@ -168,7 +207,17 @@ def short_title(title: str, limit: int = 95) -> str:
 
 
 def contains_any(text: str, terms: Iterable[str]) -> bool:
-    return any(term in text for term in terms)
+    for term in terms:
+        pattern = r"\b" + re.escape(term) + r"\b"
+        if re.search(pattern, text):
+            return True
+    return False
+
+
+def clean_text(value: str) -> str:
+    # Crossref abstracts can include lightweight markup like <jats:p>.
+    no_tags = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"\s+", " ", no_tags).strip()
 
 
 def classify_sentiment(text: str) -> str | None:
@@ -179,28 +228,55 @@ def classify_sentiment(text: str) -> str | None:
     return None
 
 
-def parse_rss_items(xml_bytes: bytes) -> list[dict]:
-    root = ET.fromstring(xml_bytes)
-    items = root.findall(".//item")
-    parsed = []
-    for item in items:
-        title = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        pub_date = (item.findtext("pubDate") or "").strip()
+def parse_crossref_items(payload_bytes: bytes) -> list[dict]:
+    parsed: list[dict] = []
+    data = json.loads(payload_bytes.decode("utf-8", errors="replace"))
+    items = data.get("message", {}).get("items", [])
+    if not isinstance(items, list):
+        return parsed
 
-        source_name = ""
-        source_el = item.find("source")
-        if source_el is not None and source_el.text:
-            source_name = source_el.text.strip()
-        if not source_name and " - " in title:
-            source_name = title.rsplit(" - ", 1)[-1].strip()
+    for item in items:
+        title_values = item.get("title") or []
+        title = ""
+        if isinstance(title_values, list) and title_values:
+            title = clean_text(str(title_values[0]))
+        elif isinstance(title_values, str):
+            title = clean_text(title_values)
+
+        url = clean_text(str(item.get("URL") or ""))
+        doi = clean_text(str(item.get("DOI") or ""))
+        abstract = clean_text(str(item.get("abstract") or ""))
+
+        source = ""
+        container_values = item.get("container-title") or []
+        if isinstance(container_values, list) and container_values:
+            source = clean_text(str(container_values[0]))
+        elif isinstance(container_values, str):
+            source = clean_text(container_values)
+        if not source:
+            source = clean_text(str(item.get("publisher") or "")) or "Unknown source"
+
+        published_at = (
+            parse_date_parts(item.get("published-online"))
+            if item.get("published-online")
+            else parse_date_parts(item.get("published-print"))
+            if item.get("published-print")
+            else parse_date_parts(item.get("published"))
+            if item.get("published")
+            else parse_date_parts(item.get("created"))
+        )
+
+        if doi and not url:
+            url = f"https://doi.org/{doi}"
 
         parsed.append(
             {
                 "title": title,
-                "url": link,
-                "published_at": parse_date(pub_date),
-                "source": source_name or "Unknown source",
+                "url": url,
+                "doi": doi,
+                "published_at": published_at,
+                "source": source,
+                "abstract": abstract,
             }
         )
     return parsed
@@ -212,11 +288,11 @@ def should_skip_business_only(text: str) -> bool:
     return has_business and not has_relevant_domain
 
 
-def normalize_story(raw: dict, default_government: bool, default_nonprofit: bool) -> Story | None:
+def normalize_story(raw: dict) -> Story | None:
     if not raw["title"] or not raw["url"]:
         return None
 
-    text = f'{raw["title"]} {raw["source"]}'.lower()
+    text = f'{raw["title"]} {raw["source"]} {raw.get("abstract", "")}'.lower()
     if should_skip_business_only(text):
         return None
 
@@ -227,10 +303,8 @@ def normalize_story(raw: dict, default_government: bool, default_nonprofit: bool
     is_government = contains_any(text, GOVERNMENT_TERMS)
     is_nonprofit = contains_any(text, NONPROFIT_TERMS)
 
-    # If query selection caught a story without explicit terms, keep broad category coverage.
     if not is_government and not is_nonprofit:
-        is_government = default_government
-        is_nonprofit = default_nonprofit
+        return None
 
     return Story(
         title=raw["title"],
@@ -246,26 +320,22 @@ def normalize_story(raw: dict, default_government: bool, default_nonprofit: bool
 
 def collect_stories() -> list[Story]:
     collected: list[Story] = []
-    seen_urls: set[str] = set()
-    grouped_queries = (
-        [(query, True, False) for query in GOVERNMENT_QUERIES]
-        + [(query, False, True) for query in NONPROFIT_QUERIES]
-    )
+    seen_keys: set[str] = set()
 
-    for query, default_government, default_nonprofit in grouped_queries:
+    for query in ACADEMIC_QUERIES:
         try:
-            feed_xml = fetch(google_news_rss_url(query))
+            response = fetch(crossref_works_url(query))
         except Exception:
             continue
 
-        for item in parse_rss_items(feed_xml):
-            url = item["url"]
-            if url in seen_urls:
+        for item in parse_crossref_items(response):
+            key = item.get("doi") or item["url"]
+            if key in seen_keys:
                 continue
-            story = normalize_story(item, default_government, default_nonprofit)
+            story = normalize_story(item)
             if story is None:
                 continue
-            seen_urls.add(url)
+            seen_keys.add(key)
             collected.append(story)
 
     return sorted(

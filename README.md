@@ -1,6 +1,6 @@
-# Ethics News Test
+# Nonmarket Ethics Scholarship Feed
 
-This project builds a daily-updated ethics news board with two columns:
+This project builds a daily-updated nonmarket ethics scholarship board with two columns:
 
 - Left column: Government
 - Right column: Nonprofit
