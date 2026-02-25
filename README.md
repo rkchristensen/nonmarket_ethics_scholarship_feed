@@ -1,3 +1,4 @@
+#  NO SUMMARIES
 # Nonmarket Ethics Scholarship Feed
 
 This project builds a daily-updated nonmarket ethics scholarship board with two columns:
