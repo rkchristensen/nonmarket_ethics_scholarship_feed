@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T16:16:33.873471+00:00",
+  "updated_at": "2026-02-25T14:15:20.309325+00:00",
   "government": [
     {
       "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
@@ -42,20 +42,20 @@
       "sentiment": "negative"
     },
     {
+      "title": "Aviation accident investigation analysis methodologies used by 12 government Safety Investigation Authorities",
+      "short_title": "Aviation accident investigation analysis methodologies used by 12 government Safety Investigat\u2026",
+      "url": "https://doi.org/10.1016/j.jsr.2026.02.001",
+      "source": "Journal of Safety Research",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framework",
       "short_title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framewo\u2026",
       "url": "https://doi.org/10.1016/j.giq.2026.102117",
       "source": "Government Information Quarterly",
       "published_at": "2026-06-01T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Rapid review: Three ways local government could improve inequality, public health and wellbeing outcomes in supported housing in England",
-      "short_title": "Rapid review: Three ways local government could improve inequality, public health and wellbein\u2026",
-      "url": "https://doi.org/10.1016/j.puhip.2025.100692",
-      "source": "Public Health in Practice",
-      "published_at": "2026-06-01T00:00:00+00:00",
-      "sentiment": "positive"
     },
     {
       "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
@@ -102,7 +102,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-02-24T16:15:53.900790+00:00",
+      "published_at": "2026-02-25T14:15:00.840647+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-24T16:15:49.430447+00:00",
+      "published_at": "2026-02-25T14:14:58.937201+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-24T16:15:49.430330+00:00",
+      "published_at": "2026-02-25T14:14:58.937059+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-24T16:15:49.430295+00:00",
+      "published_at": "2026-02-25T14:14:58.937036+00:00",
       "sentiment": "positive"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-02-24T16:15:49.430107+00:00",
+      "published_at": "2026-02-25T14:14:58.936890+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-02-24T16:15:49.430000+00:00",
+      "published_at": "2026-02-25T14:14:58.936819+00:00",
       "sentiment": "negative"
     },
     {
@@ -150,7 +150,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-02-24T16:15:49.429814+00:00",
+      "published_at": "2026-02-25T14:14:58.936722+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Perceptions of Political Corruption in State Government",
+      "short_title": "Perceptions of Political Corruption in State Government",
+      "url": "https://doi.org/10.1177/1532673x261420826",
+      "source": "American Politics Research",
+      "published_at": "2026-02-25T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "CORRUPTION IN KAZAKHSTAN: SOCIO-ECONOMIC CONSEQUENCES AND IMPLICATIONS FOR PUBLIC ADMINISTRATION",
+      "short_title": "CORRUPTION IN KAZAKHSTAN: SOCIO-ECONOMIC CONSEQUENCES AND IMPLICATIONS FOR PUBLIC ADMINISTRATI\u2026",
+      "url": "https://doi.org/10.47649/vau.25.v79.i4.36",
+      "source": "Bulletin of the Khalel Dosmukhamedov Atyrau University",
+      "published_at": "2026-02-25T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -190,22 +206,6 @@
       "short_title": "Investigation of the Alleged Corruption Case in the Rp 9.9 Trillion Education Laptop Procureme\u2026",
       "url": "https://doi.org/10.59188/eduvest.v6i2.52486",
       "source": "Eduvest - Journal of Universal Studies",
-      "published_at": "2026-02-20T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture, And Media Freedom",
-      "short_title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture,\u2026",
-      "url": "https://doi.org/10.23958/ijssei/vol12-i02/440",
-      "source": "International Journal of Social Science and Economics Invention",
-      "published_at": "2026-02-20T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture, And Media Freedom",
-      "short_title": "Understanding The Quality of Democracy in Mongolia: The Role of Corruption, Resource Capture,\u2026",
-      "url": "https://doi.org/10.23958/ijssei/vol12-i01/440",
-      "source": "International Journal of Social Science and Economics Invention",
       "published_at": "2026-02-20T00:00:00+00:00",
       "sentiment": "negative"
     }
