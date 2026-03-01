@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28T13:47:26.286574+00:00",
+  "updated_at": "2026-03-01T13:48:15.827827+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -90,6 +90,62 @@
       "sentiment": "negative"
     },
     {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-01T13:48:11.157016+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-01T13:48:10.540244+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-01T13:48:10.540162+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-01T13:48:10.540140+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-01T13:48:10.539994+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-01T13:48:10.539926+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-03-01T13:48:10.539830+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (review)",
       "short_title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (revie\u2026",
       "url": "https://doi.org/10.1353/cwe.2026.a982930",
@@ -114,59 +170,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-02-28T13:47:23.906713+00:00",
+      "title": "Corruption crimes in Ukraine and Lithuania under martial law and the state of emergency: situation and trends",
+      "short_title": "Corruption crimes in Ukraine and Lithuania under martial law and the state of emergency: situa\u2026",
+      "url": "https://doi.org/10.1057/s41599-026-06547-y",
+      "source": "Humanities and Social Sciences Communications",
+      "published_at": "2026-02-28T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-28T13:47:23.580722+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-28T13:47:23.580639+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-02-28T13:47:23.580616+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-02-28T13:47:23.580461+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-02-28T13:47:23.580393+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-02-28T13:47:23.580296+00:00",
+      "title": "Re-assessing governmental corruption of religion: Where political theory meets empirical evidence",
+      "short_title": "Re-assessing governmental corruption of religion: Where political theory meets empirical evide\u2026",
+      "url": "https://doi.org/10.1177/14687968261424659",
+      "source": "Ethnicities",
+      "published_at": "2026-02-28T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -175,22 +191,6 @@
       "url": "https://doi.org/10.30574/wjarr.2026.29.2.0446",
       "source": "World Journal of Advanced Research and Reviews",
       "published_at": "2026-02-28T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Damit der Bauturbo nicht zum Korruptionsturbo wird - Wieso es jetzt mehr Transparenz zum Eigentum braucht",
-      "short_title": "Damit der Bauturbo nicht zum Korruptionsturbo wird - Wieso es jetzt mehr Transparenz zum Eigen\u2026",
-      "url": "https://doi.org/10.14512/rur.3577",
-      "source": "Raumforschung und Raumordnung | Spatial Research and Planning",
-      "published_at": "2026-02-27T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption in Africa: Initiatives, Challenges, and the Road Map to Success",
-      "short_title": "Corruption in Africa: Initiatives, Challenges, and the Road Map to Success",
-      "url": "https://doi.org/10.11648/j.jpsir.20260901.14",
-      "source": "Journal of Political Science and International Relations",
-      "published_at": "2026-02-26T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
