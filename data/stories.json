@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-01T13:48:15.827827+00:00",
+  "updated_at": "2026-03-02T14:07:26.825390+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -82,6 +82,62 @@
       "sentiment": "negative"
     },
     {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-02T14:07:21.279966+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-02T14:07:20.100577+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-02T14:07:20.100479+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-03-02T14:07:20.100454+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-02T14:07:20.100269+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-02T14:07:20.100188+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-03-02T14:07:20.100079+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Perceived inequality and tax compliance in Ghana: the moderating roles of trust in governance, governance quality and corruption",
       "short_title": "Perceived inequality and tax compliance in Ghana: the moderating roles of trust in governance,\u2026",
       "url": "https://doi.org/10.1108/ajems-07-2025-0531",
@@ -90,66 +146,18 @@
       "sentiment": "negative"
     },
     {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-01T13:48:11.157016+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-01T13:48:10.540244+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-01T13:48:10.540162+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-01T13:48:10.540140+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-01T13:48:10.539994+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-01T13:48:10.539926+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-01T13:48:10.539830+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (review)",
       "short_title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (revie\u2026",
       "url": "https://doi.org/10.1353/cwe.2026.a982930",
       "source": "The Journal of the Civil War Era",
+      "published_at": "2026-03-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Corruption Drives Bulgaria\u2019s Cycle of Political Instability",
+      "short_title": "Corruption Drives Bulgaria\u2019s Cycle of Political Instability",
+      "url": "https://doi.org/10.1525/curh.2026.125.869.104",
+      "source": "Current History",
       "published_at": "2026-03-01T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -190,6 +198,14 @@
       "short_title": "The Role of Investigators in the Handling of Corruption Cases",
       "url": "https://doi.org/10.30574/wjarr.2026.29.2.0446",
       "source": "World Journal of Advanced Research and Reviews",
+      "published_at": "2026-02-28T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "State Capture, Symbolic Law, and the Perceived Risk of Reporting Corruption: A Multilevel Analysis of Bribery in Africa",
+      "short_title": "State Capture, Symbolic Law, and the Perceived Risk of Reporting Corruption: A Multilevel Anal\u2026",
+      "url": "https://doi.org/10.3390/laws15020015",
+      "source": "Laws",
       "published_at": "2026-02-28T00:00:00+00:00",
       "sentiment": "negative"
     }
