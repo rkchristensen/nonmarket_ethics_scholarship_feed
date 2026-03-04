@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03T14:06:37.769672+00:00",
+  "updated_at": "2026-03-04T14:03:54.203371+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -24,6 +24,14 @@
       "source": "European Journal of Law and Political Science",
       "published_at": "2026-09-18T00:00:00+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh District, Buol Regency",
+      "short_title": "Working Behavior Of Government Officials In Public Services In Dutuno Village, Paleleh Distric\u2026",
+      "url": "https://doi.org/10.37905/ppj.v6i2.2985",
+      "source": "Public Policy Journal",
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
@@ -78,15 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-03T14:05:30.014930+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-03T14:05:30.014664+00:00",
+      "published_at": "2026-03-04T14:03:46.631978+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-03T14:05:21.463569+00:00",
+      "published_at": "2026-03-04T14:03:44.873098+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-03T14:05:21.463483+00:00",
+      "published_at": "2026-03-04T14:03:44.873003+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-03T14:05:21.463456+00:00",
+      "published_at": "2026-03-04T14:03:44.872980+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,15 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-03T14:05:21.463297+00:00",
+      "published_at": "2026-03-04T14:03:44.872832+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-03-04T14:03:44.872765+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +134,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-03T14:05:21.463196+00:00",
+      "published_at": "2026-03-04T14:03:44.872655+00:00",
       "sentiment": "negative"
     },
     {
@@ -158,6 +166,22 @@
       "short_title": "Corruption Drives Bulgaria\u2019s Cycle of Political Instability",
       "url": "https://doi.org/10.1525/curh.2026.125.869.104",
       "source": "Current History",
+      "published_at": "2026-03-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approaches to AI training, ethics, and policy-making",
+      "short_title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approache\u2026",
+      "url": "https://doi.org/10.1016/j.pubrev.2025.102664",
+      "source": "Public Relations Review",
+      "published_at": "2026-03-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Perceived state capture and corruption regarding climate change: Links to mobilisation, perceptions, and climate action intentions",
+      "short_title": "Perceived state capture and corruption regarding climate change: Links to mobilisation, percep\u2026",
+      "url": "https://doi.org/10.1016/j.jenvp.2026.102937",
+      "source": "Journal of Environmental Psychology",
       "published_at": "2026-03-01T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -202,6 +226,22 @@
       "source": "American Journal of Business Science Philosophy",
       "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Corruption and economic growth: the role of country-level governance",
+      "short_title": "Corruption and economic growth: the role of country-level governance",
+      "url": "https://doi.org/10.1007/s10644-026-09985-5",
+      "source": "Economic Change and Restructuring",
+      "published_at": "2026-03-03T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approaches to AI training, ethics, and policy-making",
+      "short_title": "Self-starters and lone rangers: Municipal government and nonprofit PR practitioners\u2019 approache\u2026",
+      "url": "https://doi.org/10.1016/j.pubrev.2025.102664",
+      "source": "Public Relations Review",
+      "published_at": "2026-03-01T00:00:00+00:00",
+      "sentiment": "negative"
     }
   ]
 }
