@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05T14:06:57.568045+00:00",
+  "updated_at": "2026-03-06T14:00:52.859239+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-05T14:06:37.880545+00:00",
+      "published_at": "2026-03-06T14:00:48.927998+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-05T14:06:35.542521+00:00",
+      "published_at": "2026-03-06T14:00:48.349856+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-05T14:06:35.542423+00:00",
+      "published_at": "2026-03-06T14:00:48.349774+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-05T14:06:35.542399+00:00",
+      "published_at": "2026-03-06T14:00:48.349753+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-05T14:06:35.542251+00:00",
+      "published_at": "2026-03-06T14:00:48.349610+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-05T14:06:35.542181+00:00",
+      "published_at": "2026-03-06T14:00:48.349542+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-05T14:06:35.542082+00:00",
+      "published_at": "2026-03-06T14:00:48.349428+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Retraction Note: Relationship between wood fuel energy consumption and forest degradation at regional and sub-regional levels of sub-Saharan Africa: the role of control of corruption and government effectiveness",
+      "short_title": "Retraction Note: Relationship between wood fuel energy consumption and forest degradation at r\u2026",
+      "url": "https://doi.org/10.1007/s11356-026-37593-3",
+      "source": "Environmental Science and Pollution Research",
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Anti-corruption campaign in China and corporate finance",
+      "short_title": "Anti-corruption campaign in China and corporate finance",
+      "url": "https://doi.org/10.1108/jfc-03-2025-0066",
+      "source": "Journal of Financial Crime",
+      "published_at": "2026-03-06T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -191,14 +207,6 @@
       "url": "https://doi.org/10.1108/ajems-07-2025-0531",
       "source": "African Journal of Economic and Management Studies",
       "published_at": "2026-03-02T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (review)",
-      "short_title": "The Colfax County War: Violence and Corruption in Territorial New Mexico by Corey Recko (revie\u2026",
-      "url": "https://doi.org/10.1353/cwe.2026.a982930",
-      "source": "The Journal of the Civil War Era",
-      "published_at": "2026-03-01T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
