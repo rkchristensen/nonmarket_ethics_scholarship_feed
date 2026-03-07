@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06T14:00:52.859239+00:00",
+  "updated_at": "2026-03-07T13:48:30.269044+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-06T14:00:48.927998+00:00",
+      "published_at": "2026-03-07T13:48:23.766871+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-06T14:00:48.349856+00:00",
+      "published_at": "2026-03-07T13:48:22.429682+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-06T14:00:48.349774+00:00",
+      "published_at": "2026-03-07T13:48:22.429533+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-06T14:00:48.349753+00:00",
+      "published_at": "2026-03-07T13:48:22.429492+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-06T14:00:48.349610+00:00",
+      "published_at": "2026-03-07T13:48:22.429207+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-06T14:00:48.349542+00:00",
+      "published_at": "2026-03-07T13:48:22.429083+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-06T14:00:48.349428+00:00",
+      "published_at": "2026-03-07T13:48:22.428917+00:00",
       "sentiment": "negative"
     },
     {
@@ -162,10 +162,34 @@
       "sentiment": "negative"
     },
     {
+      "title": "Innovative Methodologies for Measuring and Analysing Corruption Risk",
+      "short_title": "Innovative Methodologies for Measuring and Analysing Corruption Risk",
+      "url": "https://doi.org/10.38146/bsz-ajia.2026.v74.i2.pp307-335",
+      "source": "Bel\u00fcgyi Szemle",
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "When do City Governance Structures Prevent Corruption? a Review of Municipal Corruption: From Policies to People",
+      "short_title": "When do City Governance Structures Prevent Corruption? a Review of Municipal Corruption: From\u2026",
+      "url": "https://doi.org/10.1080/10967494.2026.2629540",
+      "source": "International Public Management Journal",
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "An overview of the lifestyle audit as a strategy to combat corruption",
       "short_title": "An overview of the lifestyle audit as a strategy to combat corruption",
       "url": "https://doi.org/10.20525/ijrbs.v15i1.4553",
       "source": "International Journal of Research in Business and Social Science (2147- 4478)",
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Current issues of classification and pre-trial investigation of corruption criminal offenses",
+      "short_title": "Current issues of classification and pre-trial investigation of corruption criminal offenses",
+      "url": "https://doi.org/10.37749/2308-9639-2026-2(278)-6",
+      "source": "Legal Ukraine",
       "published_at": "2026-03-05T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -191,22 +215,6 @@
       "url": "https://doi.org/10.52589/bjce-ilmurgqn",
       "source": "British Journal of Contemporary Education",
       "published_at": "2026-03-04T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "EvoDropX: Evolutionary Optimization of Feature Corruption Sequences for Faithful Explanations of Transformer Models",
-      "short_title": "EvoDropX: Evolutionary Optimization of Feature Corruption Sequences for Faithful Explanations\u2026",
-      "url": "https://doi.org/10.3390/a19030187",
-      "source": "Algorithms",
-      "published_at": "2026-03-02T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Perceived inequality and tax compliance in Ghana: the moderating roles of trust in governance, governance quality and corruption",
-      "short_title": "Perceived inequality and tax compliance in Ghana: the moderating roles of trust in governance,\u2026",
-      "url": "https://doi.org/10.1108/ajems-07-2025-0531",
-      "source": "African Journal of Economic and Management Studies",
-      "published_at": "2026-03-02T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
@@ -242,14 +250,6 @@
       "source": "American Journal of Business Science Philosophy",
       "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Corruption and economic growth: the role of country-level governance",
-      "short_title": "Corruption and economic growth: the role of country-level governance",
-      "url": "https://doi.org/10.1007/s10644-026-09985-5",
-      "source": "Economic Change and Restructuring",
-      "published_at": "2026-03-03T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ]
 }
