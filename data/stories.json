@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-07T13:48:30.269044+00:00",
+  "updated_at": "2026-03-08T13:48:58.097704+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -58,18 +58,18 @@
       "sentiment": "negative"
     },
     {
-      "title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framework",
-      "short_title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framewo\u2026",
-      "url": "https://doi.org/10.1016/j.giq.2026.102117",
-      "source": "Government Information Quarterly",
-      "published_at": "2026-06-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
       "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
       "url": "https://doi.org/10.1016/j.seps.2026.102429",
       "source": "Socio-Economic Planning Sciences",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framework",
+      "short_title": "Governing Ethics for the Digital Transformation: Developing, Testing, and Validating a Framewo\u2026",
+      "url": "https://doi.org/10.1016/j.giq.2026.102117",
+      "source": "Government Information Quarterly",
       "published_at": "2026-06-01T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-07T13:48:23.766871+00:00",
+      "published_at": "2026-03-08T13:48:51.447590+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-07T13:48:22.429682+00:00",
+      "published_at": "2026-03-08T13:48:50.668554+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-07T13:48:22.429533+00:00",
+      "published_at": "2026-03-08T13:48:50.668471+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-07T13:48:22.429492+00:00",
+      "published_at": "2026-03-08T13:48:50.668447+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-07T13:48:22.429207+00:00",
+      "published_at": "2026-03-08T13:48:50.668301+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-07T13:48:22.429083+00:00",
+      "published_at": "2026-03-08T13:48:50.668233+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-07T13:48:22.428917+00:00",
+      "published_at": "2026-03-08T13:48:50.668135+00:00",
       "sentiment": "negative"
     },
     {
@@ -206,14 +206,6 @@
       "short_title": "Prosecution Authority of the Corruption Eradication Commission Prosecutor: What is Dualism in\u2026",
       "url": "https://doi.org/10.62264/ijccj.v2i2.248",
       "source": "Indonesian Journal of Crime and Criminal Justice",
-      "published_at": "2026-03-04T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Public Sector Ethics and Fight against Corruption: Lessons from Nigeria\u2019s Anti-Corruption Institutions",
-      "short_title": "Public Sector Ethics and Fight against Corruption: Lessons from Nigeria\u2019s Anti-Corruption Inst\u2026",
-      "url": "https://doi.org/10.52589/bjce-ilmurgqn",
-      "source": "British Journal of Contemporary Education",
       "published_at": "2026-03-04T00:00:00+00:00",
       "sentiment": "negative"
     }
