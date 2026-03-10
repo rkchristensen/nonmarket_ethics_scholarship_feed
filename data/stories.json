@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-09T14:12:20.894981+00:00",
+  "updated_at": "2026-03-10T14:07:36.614250+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-09T14:12:17.483216+00:00",
+      "published_at": "2026-03-10T14:07:25.691198+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-09T14:12:17.005929+00:00",
+      "published_at": "2026-03-10T14:07:23.965334+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-09T14:12:17.005846+00:00",
+      "published_at": "2026-03-10T14:07:23.965252+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-09T14:12:17.005820+00:00",
+      "published_at": "2026-03-10T14:07:23.965229+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-09T14:12:17.005656+00:00",
+      "published_at": "2026-03-10T14:07:23.965067+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-09T14:12:17.005587+00:00",
+      "published_at": "2026-03-10T14:07:23.964998+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-09T14:12:17.005492+00:00",
+      "published_at": "2026-03-10T14:07:23.964902+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Impact of Municipally Owned Enterprises on Corruption Risk in Local Governments",
+      "short_title": "The Impact of Municipally Owned Enterprises on Corruption Risk in Local Governments",
+      "url": "https://doi.org/10.1080/10999922.2026.2632987",
+      "source": "Public Integrity",
+      "published_at": "2026-03-09T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -158,6 +166,14 @@
       "short_title": "Anti-corruption campaign in China and corporate finance",
       "url": "https://doi.org/10.1108/jfc-03-2025-0066",
       "source": "Journal of Financial Crime",
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Criminalization of Corporate Business Policy as a Corruption Crime: Study of ASDP Case Ira Puspadewi (Decision No. 68/Pid.Sus-TPK/2025/PN Jkt.Pst)",
+      "short_title": "Criminalization of Corporate Business Policy as a Corruption Crime: Study of ASDP Case Ira Pus\u2026",
+      "url": "https://doi.org/10.38035/jlph.v6i3.3077",
+      "source": "Journal of Law, Politic and Humanities",
       "published_at": "2026-03-06T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -183,22 +199,6 @@
       "url": "https://doi.org/10.20525/ijrbs.v15i1.4553",
       "source": "International Journal of Research in Business and Social Science (2147- 4478)",
       "published_at": "2026-03-05T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Current issues of classification and pre-trial investigation of corruption criminal offenses",
-      "short_title": "Current issues of classification and pre-trial investigation of corruption criminal offenses",
-      "url": "https://doi.org/10.37749/2308-9639-2026-2(278)-6",
-      "source": "Legal Ukraine",
-      "published_at": "2026-03-05T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Constitutional Guarantee of Ecological Damage Restoration within the Environmental Corruption Nexus",
-      "short_title": "Constitutional Guarantee of Ecological Damage Restoration within the Environmental Corruption\u2026",
-      "url": "https://doi.org/10.62264/ijccj.v2i2.258",
-      "source": "Indonesian Journal of Crime and Criminal Justice",
-      "published_at": "2026-03-04T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
