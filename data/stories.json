@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T14:12:16.178610+00:00",
+  "updated_at": "2026-03-12T14:09:46.887673+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -50,14 +50,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "Aviation accident investigation analysis methodologies used by 12 government Safety Investigation Authorities",
-      "short_title": "Aviation accident investigation analysis methodologies used by 12 government Safety Investigat\u2026",
-      "url": "https://doi.org/10.1016/j.jsr.2026.02.001",
-      "source": "Journal of Safety Research",
-      "published_at": "2026-06-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
       "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
       "url": "https://doi.org/10.1016/j.seps.2026.102429",
@@ -94,7 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-11T14:11:46.997307+00:00",
+      "published_at": "2026-03-12T14:09:15.149989+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-11T14:11:43.341609+00:00",
+      "published_at": "2026-03-12T14:09:11.735730+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-11T14:11:43.341524+00:00",
+      "published_at": "2026-03-12T14:09:11.735643+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-11T14:11:43.341500+00:00",
+      "published_at": "2026-03-12T14:09:11.735619+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +118,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-11T14:11:43.341332+00:00",
+      "published_at": "2026-03-12T14:09:11.735467+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +126,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-11T14:11:43.341262+00:00",
+      "published_at": "2026-03-12T14:09:11.735358+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +134,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-11T14:11:43.341166+00:00",
+      "published_at": "2026-03-12T14:09:11.735254+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
+      "short_title": "Executive Non-Divestment, Systemic Corruption, and Democratic Accountability",
+      "url": "https://doi.org/10.1080/10999922.2026.2641953",
+      "source": "Public Integrity",
+      "published_at": "2026-03-11T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -150,6 +150,14 @@
       "short_title": "Legal Loopholes in the Regulation of Corruption Eradication in the Management of State-Owned E\u2026",
       "url": "https://doi.org/10.38035/jlph.v4i6.3108",
       "source": "Journal of Law, Politic and Humanities",
+      "published_at": "2026-03-10T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "FORMATION OF LEGAL CONSCIOUSNESS IN ANTI-CORRUPTION CULTURE",
+      "short_title": "FORMATION OF LEGAL CONSCIOUSNESS IN ANTI-CORRUPTION CULTURE",
+      "url": "https://doi.org/10.48501/3007-6978.2025.31.41.002",
+      "source": "\u041d\u0430\u0443\u0447\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b Legalitas",
       "published_at": "2026-03-10T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -166,30 +174,6 @@
       "short_title": "Retraction Note: Relationship between wood fuel energy consumption and forest degradation at r\u2026",
       "url": "https://doi.org/10.1007/s11356-026-37593-3",
       "source": "Environmental Science and Pollution Research",
-      "published_at": "2026-03-06T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Anti-corruption campaign in China and corporate finance",
-      "short_title": "Anti-corruption campaign in China and corporate finance",
-      "url": "https://doi.org/10.1108/jfc-03-2025-0066",
-      "source": "Journal of Financial Crime",
-      "published_at": "2026-03-06T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Criminalization of Corporate Business Policy as a Corruption Crime: Study of ASDP Case Ira Puspadewi (Decision No. 68/Pid.Sus-TPK/2025/PN Jkt.Pst)",
-      "short_title": "Criminalization of Corporate Business Policy as a Corruption Crime: Study of ASDP Case Ira Pus\u2026",
-      "url": "https://doi.org/10.38035/jlph.v6i3.3077",
-      "source": "Journal of Law, Politic and Humanities",
-      "published_at": "2026-03-06T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Innovative Methodologies for Measuring and Analysing Corruption Risk",
-      "short_title": "Innovative Methodologies for Measuring and Analysing Corruption Risk",
-      "url": "https://doi.org/10.38146/bsz-ajia.2026.v74.i2.pp307-335",
-      "source": "Bel\u00fcgyi Szemle",
       "published_at": "2026-03-06T00:00:00+00:00",
       "sentiment": "negative"
     }
