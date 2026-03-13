@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12T14:09:46.887673+00:00",
+  "updated_at": "2026-03-13T14:05:59.194594+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-12T14:09:15.149989+00:00",
+      "published_at": "2026-03-13T14:05:42.468861+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-12T14:09:11.735730+00:00",
+      "published_at": "2026-03-13T14:05:40.424062+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-12T14:09:11.735643+00:00",
+      "published_at": "2026-03-13T14:05:40.423980+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-12T14:09:11.735619+00:00",
+      "published_at": "2026-03-13T14:05:40.423957+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-12T14:09:11.735467+00:00",
+      "published_at": "2026-03-13T14:05:40.423812+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-12T14:09:11.735358+00:00",
+      "published_at": "2026-03-13T14:05:40.423743+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-12T14:09:11.735254+00:00",
+      "published_at": "2026-03-13T14:05:40.423644+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resource?",
+      "short_title": "Impact of perceived corruption on stress: Does social capital serve as an administrative resou\u2026",
+      "url": "https://doi.org/10.1080/23276665.2026.2645559",
+      "source": "Asia Pacific Journal of Public Administration",
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Anti-Corruption and Environmental Laws in Liberia: The Need for Regulatory Reform",
+      "short_title": "Anti-Corruption and Environmental Laws in Liberia: The Need for Regulatory Reform",
+      "url": "https://doi.org/10.55041/ijcope.v2i3.054",
+      "source": "International Journal of Creative and Open Research in Engineering and Management",
+      "published_at": "2026-03-12T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -167,14 +183,6 @@
       "url": "https://doi.org/10.1080/10999922.2026.2632987",
       "source": "Public Integrity",
       "published_at": "2026-03-09T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Retraction Note: Relationship between wood fuel energy consumption and forest degradation at regional and sub-regional levels of sub-Saharan Africa: the role of control of corruption and government effectiveness",
-      "short_title": "Retraction Note: Relationship between wood fuel energy consumption and forest degradation at r\u2026",
-      "url": "https://doi.org/10.1007/s11356-026-37593-3",
-      "source": "Environmental Science and Pollution Research",
-      "published_at": "2026-03-06T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
