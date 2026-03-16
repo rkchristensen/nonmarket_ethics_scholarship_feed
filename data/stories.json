@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T13:55:01.775434+00:00",
+  "updated_at": "2026-03-16T14:38:21.501591+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -39,6 +39,14 @@
       "url": "https://doi.org/10.1016/j.jcae.2026.100544",
       "source": "Journal of Contemporary Accounting &amp; Economics",
       "published_at": "2026-08-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Youth Leadership as an Ethical Imperative in Cybersecurity Governance",
+      "short_title": "Youth Leadership as an Ethical Imperative in Cybersecurity Governance",
+      "url": "https://doi.org/10.52823/djom2823",
+      "source": "Journal of Governance, Security &amp; Development",
+      "published_at": "2026-07-01T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -86,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-15T13:54:57.486224+00:00",
+      "published_at": "2026-03-16T14:38:07.329908+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-15T13:54:56.889044+00:00",
+      "published_at": "2026-03-16T14:38:05.664372+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-15T13:54:56.888958+00:00",
+      "published_at": "2026-03-16T14:38:05.664288+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-15T13:54:56.888932+00:00",
+      "published_at": "2026-03-16T14:38:05.664264+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-15T13:54:56.888774+00:00",
+      "published_at": "2026-03-16T14:38:05.664099+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-15T13:54:56.888697+00:00",
+      "published_at": "2026-03-16T14:38:05.664029+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +142,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-15T13:54:56.888576+00:00",
+      "published_at": "2026-03-16T14:38:05.663917+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Reframing State Loss Policy in Price-Related Corruption Cases: A Future Agenda",
+      "short_title": "Reframing State Loss Policy in Price-Related Corruption Cases: A Future Agenda",
+      "url": "https://doi.org/10.53955/contrarius.v2i2.274",
+      "source": "Contrarius",
+      "published_at": "2026-03-16T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -192,14 +208,6 @@
       "source": "\u041d\u0430\u0443\u0447\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b Legalitas",
       "published_at": "2026-03-10T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "The Impact of Municipally Owned Enterprises on Corruption Risk in Local Governments",
-      "short_title": "The Impact of Municipally Owned Enterprises on Corruption Risk in Local Governments",
-      "url": "https://doi.org/10.1080/10999922.2026.2632987",
-      "source": "Public Integrity",
-      "published_at": "2026-03-09T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -225,14 +233,6 @@
       "url": "https://doi.org/10.2174/0113852728367743250520191343",
       "source": "Current Organic Chemistry",
       "published_at": "2026-11-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Driving Governance Excellence in Non-Profit Organizations through Digital and Strategic Transformation",
-      "short_title": "Driving Governance Excellence in Non-Profit Organizations through Digital and Strategic Transf\u2026",
-      "url": "https://doi.org/10.70122/ajbsp.v3i1.3",
-      "source": "American Journal of Business Science Philosophy",
-      "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
