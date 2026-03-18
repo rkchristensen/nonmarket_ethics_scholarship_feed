@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T14:21:13.263757+00:00",
+  "updated_at": "2026-03-18T14:41:04.704891+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-03-17T14:21:11.886688+00:00",
+      "published_at": "2026-03-18T14:41:03.928457+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-17T14:20:57.835838+00:00",
+      "published_at": "2026-03-18T14:40:55.907987+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-17T14:20:56.849356+00:00",
+      "published_at": "2026-03-18T14:40:54.825488+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-17T14:20:56.849268+00:00",
+      "published_at": "2026-03-18T14:40:54.825392+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-17T14:20:56.849242+00:00",
+      "published_at": "2026-03-18T14:40:54.825368+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-17T14:20:56.849068+00:00",
+      "published_at": "2026-03-18T14:40:54.825215+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-17T14:20:56.848994+00:00",
+      "published_at": "2026-03-18T14:40:54.825138+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,8 +142,16 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-17T14:20:56.848890+00:00",
+      "published_at": "2026-03-18T14:40:54.825033+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Review, Framework Proposal and Policy Implications",
+      "short_title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Revie\u2026",
+      "url": "https://doi.org/10.1515/npf-2025-0005",
+      "source": "Nonprofit Policy Forum",
+      "published_at": "2026-03-17T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "ANALYSIS OF RUPIAH REDENOMINATION ON INFLATION, ANTI-CORRUPTION, AND ITS RELEVANCE FROM THE PERSPECTIVE OF MAQASHID SHARIAH",
@@ -200,22 +208,6 @@
       "source": "COMPENDIUM OF JUDGE MADE LAW",
       "published_at": "2026-03-16T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Inter-Temporal Growth Dynamics in Nigeria: Leveraging on Domestic Investment, Domestic Savings, Foreign Portfolio Investment, Economic Freedom, and Corruption",
-      "short_title": "Inter-Temporal Growth Dynamics in Nigeria: Leveraging on Domestic Investment, Domestic Savings\u2026",
-      "url": "https://doi.org/10.59653/jbmed.v4i01.2144",
-      "source": "Journal of Business Management and Economic Development",
-      "published_at": "2026-03-15T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "SUSTAINABILITY GOVERNANCE, REGULATORY QUALITY, AND ANTI-CORRUPTION CONTROLS ON GREEN FINANCE DEVELOPMENT: THE MEDIATING ROLE OF SUSTAINABILITY REPORTING QUALITY",
-      "short_title": "SUSTAINABILITY GOVERNANCE, REGULATORY QUALITY, AND ANTI-CORRUPTION CONTROLS ON GREEN FINANCE D\u2026",
-      "url": "https://doi.org/10.63878/qrjs881",
-      "source": "Qualitative Research Journal for Social Studies",
-      "published_at": "2026-03-13T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -241,6 +233,22 @@
       "url": "https://doi.org/10.2174/0113852728367743250520191343",
       "source": "Current Organic Chemistry",
       "published_at": "2026-11-01T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Review, Framework Proposal and Policy Implications",
+      "short_title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Revie\u2026",
+      "url": "https://doi.org/10.1515/npf-2025-0005",
+      "source": "Nonprofit Policy Forum",
+      "published_at": "2026-03-17T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Definitions Matter: BIPOC Nonprofits and Racial Disparities in Nonprofit Funding",
+      "short_title": "Definitions Matter: BIPOC Nonprofits and Racial Disparities in Nonprofit Funding",
+      "url": "https://doi.org/10.1002/nml.70046",
+      "source": "Nonprofit Management and Leadership",
+      "published_at": "2026-03-17T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
