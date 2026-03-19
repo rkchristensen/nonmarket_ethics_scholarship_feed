@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T14:41:04.704891+00:00",
+  "updated_at": "2026-03-19T14:12:37.702658+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-03-18T14:41:03.928457+00:00",
+      "published_at": "2026-03-19T14:12:36.175852+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-18T14:40:55.907987+00:00",
+      "published_at": "2026-03-19T14:12:31.241378+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-18T14:40:54.825488+00:00",
+      "published_at": "2026-03-19T14:12:30.903864+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-18T14:40:54.825392+00:00",
+      "published_at": "2026-03-19T14:12:30.903760+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-18T14:40:54.825368+00:00",
+      "published_at": "2026-03-19T14:12:30.903735+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-18T14:40:54.825215+00:00",
+      "published_at": "2026-03-19T14:12:30.903582+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-18T14:40:54.825138+00:00",
+      "published_at": "2026-03-19T14:12:30.903507+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,8 +142,32 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-18T14:40:54.825033+00:00",
+      "published_at": "2026-03-19T14:12:30.903403+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "The Impact of Asset Recovery Regulations on Corruption Cases in Indonesian: A Leap Forward?",
+      "short_title": "The Impact of Asset Recovery Regulations on Corruption Cases in Indonesian: A Leap Forward?",
+      "url": "https://doi.org/10.53955/contrarius.v2i3.297",
+      "source": "Contrarius",
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Achieving Efficiency with Justice in the Reform of Anti-Corruption Law Enforcement in State-Owned Enterprises",
+      "short_title": "Achieving Efficiency with Justice in the Reform of Anti-Corruption Law Enforcement in State-Ow\u2026",
+      "url": "https://doi.org/10.53955/jhcls.v6i1.898",
+      "source": "Journal of Human Rights, Culture and Legal System",
+      "published_at": "2026-03-18T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
+      "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
+      "url": "https://doi.org/10.1177/08997640261426888",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-03-18T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Review, Framework Proposal and Policy Implications",
@@ -152,62 +176,6 @@
       "source": "Nonprofit Policy Forum",
       "published_at": "2026-03-17T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "ANALYSIS OF RUPIAH REDENOMINATION ON INFLATION, ANTI-CORRUPTION, AND ITS RELEVANCE FROM THE PERSPECTIVE OF MAQASHID SHARIAH",
-      "short_title": "ANALYSIS OF RUPIAH REDENOMINATION ON INFLATION, ANTI-CORRUPTION, AND ITS RELEVANCE FROM THE PE\u2026",
-      "url": "https://doi.org/10.54783/mp89gg25",
-      "source": "Iqtishaduna : International Conference Proceeding",
-      "published_at": "2026-03-17T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AN ANALYTICAL STUDY OF RUPIAH REDENOMINATION IN RELATION TO INFLATION, ANTI-CORRUPTION EFFORTS, AND ITS RELEVANCE WITHIN THE FRAMEWORK OF MAQASHID AL-SHARIAH",
-      "short_title": "AN ANALYTICAL STUDY OF RUPIAH REDENOMINATION IN RELATION TO INFLATION, ANTI-CORRUPTION EFFORTS\u2026",
-      "url": "https://doi.org/10.54783/js9yy941",
-      "source": "Iqtishaduna : International Conference Proceeding",
-      "published_at": "2026-03-17T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Reframing State Loss Policy in Price-Related Corruption Cases: A Future Agenda",
-      "short_title": "Reframing State Loss Policy in Price-Related Corruption Cases: A Future Agenda",
-      "url": "https://doi.org/10.53955/contrarius.v2i2.274",
-      "source": "Contrarius",
-      "published_at": "2026-03-16T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Justice Collaborator In Disclosure Action Criminal Corruption",
-      "short_title": "Justice Collaborator In Disclosure Action Criminal Corruption",
-      "url": "https://doi.org/10.56087/gv16p655",
-      "source": "COMPENDIUM OF JUDGE MADE LAW",
-      "published_at": "2026-03-16T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Application Of Primum Remedium Principle in Corruption Criminal Acts In Decision (Number 46/Pid.Sus.TPK/2024/PN Mks)",
-      "short_title": "Application Of Primum Remedium Principle in Corruption Criminal Acts In Decision (Number 46/Pi\u2026",
-      "url": "https://doi.org/10.56087/8xsb5846",
-      "source": "COMPENDIUM OF JUDGE MADE LAW",
-      "published_at": "2026-03-16T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Justice Collaborator In Disclosure Action Criminal Corruption",
-      "short_title": "Justice Collaborator In Disclosure Action Criminal Corruption",
-      "url": "https://doi.org/10.56087/cojml.v1i1.959",
-      "source": "COMPENDIUM OF JUDGE MADE LAW",
-      "published_at": "2026-03-16T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Application Of Primum Remedium Principle in Corruption Criminal Acts In Decision (Number 46/Pid.Sus.TPK/2024/PN Mks)",
-      "short_title": "Application Of Primum Remedium Principle in Corruption Criminal Acts In Decision (Number 46/Pi\u2026",
-      "url": "https://doi.org/10.56087/cojml.v1i1.951",
-      "source": "COMPENDIUM OF JUDGE MADE LAW",
-      "published_at": "2026-03-16T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -236,18 +204,26 @@
       "sentiment": "positive"
     },
     {
+      "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
+      "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
+      "url": "https://doi.org/10.1177/08997640261426888",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-03-18T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Integrating Mission, Governance, and Generosity in Social Entrepreneurship: Insights from the Economy of the Gift",
+      "short_title": "Integrating Mission, Governance, and Generosity in Social Entrepreneurship: Insights from the\u2026",
+      "url": "https://doi.org/10.1017/s095787652600015x",
+      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
+      "published_at": "2026-03-17T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Review, Framework Proposal and Policy Implications",
       "short_title": "Philanthropic Foundations Strategizing Towards Sustainable Development Goals: Systematic Revie\u2026",
       "url": "https://doi.org/10.1515/npf-2025-0005",
       "source": "Nonprofit Policy Forum",
-      "published_at": "2026-03-17T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Definitions Matter: BIPOC Nonprofits and Racial Disparities in Nonprofit Funding",
-      "short_title": "Definitions Matter: BIPOC Nonprofits and Racial Disparities in Nonprofit Funding",
-      "url": "https://doi.org/10.1002/nml.70046",
-      "source": "Nonprofit Management and Leadership",
       "published_at": "2026-03-17T00:00:00+00:00",
       "sentiment": "positive"
     }
