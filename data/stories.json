@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T13:50:51.274686+00:00",
+  "updated_at": "2026-03-22T13:51:34.578654+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-03-21T13:50:50.896845+00:00",
+      "published_at": "2026-03-22T13:51:34.180696+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-21T13:50:48.383419+00:00",
+      "published_at": "2026-03-22T13:51:32.520453+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-21T13:50:47.875279+00:00",
+      "published_at": "2026-03-22T13:51:32.230411+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-21T13:50:47.875182+00:00",
+      "published_at": "2026-03-22T13:51:32.230329+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-21T13:50:47.875158+00:00",
+      "published_at": "2026-03-22T13:51:32.230303+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-21T13:50:47.875007+00:00",
+      "published_at": "2026-03-22T13:51:32.230154+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-21T13:50:47.874920+00:00",
+      "published_at": "2026-03-22T13:51:32.230073+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-21T13:50:47.874801+00:00",
+      "published_at": "2026-03-22T13:51:32.229973+00:00",
       "sentiment": "negative"
     },
     {
@@ -218,14 +218,6 @@
       "source": "Nonprofit and Voluntary Sector Quarterly",
       "published_at": "2026-03-18T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Integrating Mission, Governance, and Generosity in Social Entrepreneurship: Insights from the Economy of the Gift",
-      "short_title": "Integrating Mission, Governance, and Generosity in Social Entrepreneurship: Insights from the\u2026",
-      "url": "https://doi.org/10.1017/s095787652600015x",
-      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
-      "published_at": "2026-03-17T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ]
 }
