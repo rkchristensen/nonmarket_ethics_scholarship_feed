@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T13:51:34.578654+00:00",
+  "updated_at": "2026-03-23T14:20:13.889636+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-03-22T13:51:34.180696+00:00",
+      "published_at": "2026-03-23T14:20:12.471200+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-22T13:51:32.520453+00:00",
+      "published_at": "2026-03-23T14:20:07.205468+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-22T13:51:32.230411+00:00",
+      "published_at": "2026-03-23T14:20:06.746450+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-22T13:51:32.230329+00:00",
+      "published_at": "2026-03-23T14:20:06.746362+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-22T13:51:32.230303+00:00",
+      "published_at": "2026-03-23T14:20:06.746338+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-22T13:51:32.230154+00:00",
+      "published_at": "2026-03-23T14:20:06.746183+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-22T13:51:32.230073+00:00",
+      "published_at": "2026-03-23T14:20:06.746107+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-22T13:51:32.229973+00:00",
+      "published_at": "2026-03-23T14:20:06.746001+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Agency perspective on the politics of anti-corruption campaign in Nigeria: a mixed-method investigation of hiccups confronting economic and financial crimes commission\u2019s performance",
+      "short_title": "Agency perspective on the politics of anti-corruption campaign in Nigeria: a mixed-method inve\u2026",
+      "url": "https://doi.org/10.1080/14725843.2026.2648034",
+      "source": "African Identities",
+      "published_at": "2026-03-23T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -168,22 +176,6 @@
       "source": "Contrarius",
       "published_at": "2026-03-19T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Achieving Efficiency with Justice in the Reform of Anti-Corruption Law Enforcement in State-Owned Enterprises",
-      "short_title": "Achieving Efficiency with Justice in the Reform of Anti-Corruption Law Enforcement in State-Ow\u2026",
-      "url": "https://doi.org/10.53955/jhcls.v6i1.898",
-      "source": "Journal of Human Rights, Culture and Legal System",
-      "published_at": "2026-03-18T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
-      "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
-      "url": "https://doi.org/10.1177/08997640261426888",
-      "source": "Nonprofit and Voluntary Sector Quarterly",
-      "published_at": "2026-03-18T00:00:00+00:00",
-      "sentiment": "positive"
     }
   ],
   "nonprofit": [
@@ -209,14 +201,6 @@
       "url": "https://doi.org/10.2174/0113852728367743250520191343",
       "source": "Current Organic Chemistry",
       "published_at": "2026-11-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The Influence of Partners, Coalitions, and Technical Assistance Organizations",
-      "short_title": "Professional Data Use Among Nonprofits and Public Organizations in Collaborative Networks: The\u2026",
-      "url": "https://doi.org/10.1177/08997640261426888",
-      "source": "Nonprofit and Voluntary Sector Quarterly",
-      "published_at": "2026-03-18T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
