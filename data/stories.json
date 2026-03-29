@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T13:56:26.785521+00:00",
+  "updated_at": "2026-03-29T13:58:20.460849+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -82,6 +82,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Procedures of the Commission of Integrity in Combating Corruption in Iraq After 2003: An Analytical and Evaluative Study",
+      "short_title": "Procedures of the Commission of Integrity in Combating Corruption in Iraq After 2003: An Analy\u2026",
+      "url": "https://doi.org/10.61710/4ex5kx73",
+      "source": "Journal of Imam Al-kadhum College",
+      "published_at": "2026-03-31T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency and public trust",
       "short_title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency\u2026",
       "url": "https://doi.org/10.30574/wjarr.2026.29.3.0710",
@@ -90,11 +98,19 @@
       "sentiment": "negative"
     },
     {
+      "title": "Integrasi Kurikulum Antikorupsi dan Pendidikan Bela Negara dalam Wajib Belajar 12 Tahun: Studi Komparatif Model Denmark dan Singapura",
+      "short_title": "Integrasi Kurikulum Antikorupsi dan Pendidikan Bela Negara dalam Wajib Belajar 12 Tahun: Studi\u2026",
+      "url": "https://doi.org/10.26623/slr.v7i1.13985",
+      "source": "Semarang Law Review (SLR)",
+      "published_at": "2026-03-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "AI Regulation and Its Social Impacts on Public Policy",
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-03-28T13:56:26.010749+00:00",
+      "published_at": "2026-03-29T13:58:20.066403+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +118,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-03-28T13:56:22.986005+00:00",
+      "published_at": "2026-03-29T13:58:16.910725+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +126,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-28T13:56:22.393923+00:00",
+      "published_at": "2026-03-29T13:58:16.419182+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +134,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-28T13:56:22.393836+00:00",
+      "published_at": "2026-03-29T13:58:16.419080+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +142,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-28T13:56:22.393812+00:00",
+      "published_at": "2026-03-29T13:58:16.419054+00:00",
       "sentiment": "positive"
     },
     {
@@ -134,7 +150,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-28T13:56:22.393659+00:00",
+      "published_at": "2026-03-29T13:58:16.418865+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +158,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-03-28T13:56:22.393582+00:00",
+      "published_at": "2026-03-29T13:58:16.418712+00:00",
       "sentiment": "negative"
     },
     {
@@ -150,7 +166,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-28T13:56:22.393481+00:00",
+      "published_at": "2026-03-29T13:58:16.418570+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Power, Justice and Degeneration: A Hierarchical Network of Corruption and its Actors in 13th-Century Damascus",
+      "short_title": "Power, Justice and Degeneration: A Hierarchical Network of Corruption and its Actors in 13th-C\u2026",
+      "url": "https://doi.org/10.34082/islamiilimler.1836392",
+      "source": "\u0130slami \u0130limler Dergisi",
+      "published_at": "2026-03-29T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -166,6 +190,14 @@
       "short_title": "&lt;b&gt;Preventing Corruption in Government Bodies Under the Laws of Muslim and European Coun\u2026",
       "url": "https://doi.org/10.32332/milrev.v5i1.13201",
       "source": "MILRev: Metro Islamic Law Review",
+      "published_at": "2026-03-28T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Legal Analysis of the Supreme Court Decision Regarding the Annulment of Acquittal in Corruption Crime Case: A Study of Decision Number 1227 K/Pid.Sus/2022",
+      "short_title": "Legal Analysis of the Supreme Court Decision Regarding the Annulment of Acquittal in Corruptio\u2026",
+      "url": "https://doi.org/10.37276/sjh.v7i2.651",
+      "source": "SIGn Jurnal Hukum",
       "published_at": "2026-03-28T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -191,22 +223,6 @@
       "url": "https://doi.org/10.1177/03128962261425553",
       "source": "Australian Journal of Management",
       "published_at": "2026-03-27T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption and accountability mechanisms within Igbo Eze South Local Government Area, Enugu State",
-      "short_title": "Corruption and accountability mechanisms within Igbo Eze South Local Government Area, Enugu St\u2026",
-      "url": "https://doi.org/10.31039/bjir.v3i11.121",
-      "source": "British Journal of Interdisciplinary Research",
-      "published_at": "2026-03-26T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Essence of Corruption and Its Contributing Factors",
-      "short_title": "The Essence of Corruption and Its Contributing Factors",
-      "url": "https://doi.org/10.36073/1512-0996-2026-1-191-196",
-      "source": "Works of Georgian Technical University",
-      "published_at": "2026-03-25T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
