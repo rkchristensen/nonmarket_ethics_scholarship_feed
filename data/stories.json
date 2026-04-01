@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T14:42:33.562431+00:00",
+  "updated_at": "2026-04-01T14:44:23.409542+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -74,6 +74,86 @@
       "sentiment": "negative"
     },
     {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-04-01T14:44:22.771027+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-04-01T14:44:18.237388+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-04-01T14:44:17.560079+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-04-01T14:44:17.559891+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-04-01T14:44:17.559830+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-04-01T14:44:17.559496+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-04-01T14:44:17.559347+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-04-01T14:44:17.559116+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Internal Control Effectiveness, Internal Audit Function, Institutional Complexity, and Audit Opinions as Determinants of Corruption: Evidence from Indonesian Public Sector Institutions",
+      "short_title": "Internal Control Effectiveness, Internal Audit Function, Institutional Complexity, and Audit O\u2026",
+      "url": "https://doi.org/10.52300/jemba.v6i1.22983",
+      "source": "JEMBA: Jurnal Ekonomi Pembangunan, Manajemen &amp; Bisnis, Akuntansi",
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "BENEFICIARIES OF CORRUPTION? THE COMPLICIT ROLE OF SOUTH AFRICAN BANKS IN ILLICIT FINANCIAL FLOWS",
+      "short_title": "BENEFICIARIES OF CORRUPTION? THE COMPLICIT ROLE OF SOUTH AFRICAN BANKS IN ILLICIT FINANCIAL FL\u2026",
+      "url": "https://doi.org/10.69778/2710-0073/2026/7.1/a2",
+      "source": "African and Global Issues Quarterly",
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Raising grievances to the state: The political economic effects of anti-corruption crackdowns on labor activism in China",
       "short_title": "Raising grievances to the state: The political economic effects of anti-corruption crackdowns\u2026",
       "url": "https://doi.org/10.1016/j.jdeveco.2026.103758",
@@ -82,67 +162,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-03-31T14:42:31.993750+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-31T14:42:23.757125+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-31T14:42:22.932196+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-31T14:42:22.932107+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-03-31T14:42:22.932081+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-31T14:42:22.931904+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-03-31T14:42:22.931830+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-03-31T14:42:22.931723+00:00",
+      "title": "TRANSPARENCY, ACCOUNTABILITY, AND CORRUPTION RISK ASSESSMENT: CENTRAL BANK OF NIGERIA",
+      "short_title": "TRANSPARENCY, ACCOUNTABILITY, AND CORRUPTION RISK ASSESSMENT: CENTRAL BANK OF NIGERIA",
+      "url": "https://doi.org/10.70382/caijarss.v11i2.037",
+      "source": "International Journal of African Research Sustainability Studies",
+      "published_at": "2026-04-01T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -167,46 +191,6 @@
       "url": "https://doi.org/10.30659/jdh.v9i1.51847",
       "source": "Jurnal Daulat Hukum",
       "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption in Public Procurement: From Definition towards a Case Study (Part II)",
-      "short_title": "Corruption in Public Procurement: From Definition towards a Case Study (Part II)",
-      "url": "https://doi.org/10.5755/j01.ppaa.0.33.26882",
-      "source": "Public Policy and Administration",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "International practices and legal instruments for counteracting corruption and corruption-related criminal offenses: a comparative legal analysis",
-      "short_title": "International practices and legal instruments for counteracting corruption and corruption-rela\u2026",
-      "url": "https://doi.org/10.24144/2307-3322.2026.93.5.28",
-      "source": "Uzhhorod National University Herald. Series: Law",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency and public trust",
-      "short_title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency\u2026",
-      "url": "https://doi.org/10.30574/wjarr.2026.29.3.0710",
-      "source": "World Journal of Advanced Research and Reviews",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Anti-corruption volunteering as a tool for strengthening legal culture",
-      "short_title": "Anti-corruption volunteering as a tool for strengthening legal culture",
-      "url": "https://doi.org/10.31489/2026l1/87-95",
-      "source": "Bulletin of the Karaganda University \u201cLaw Series\u201d",
-      "published_at": "2026-03-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Chinese model of anti-corruption and the global anti-money laundering regime: asymmetric integration or a regulatory alternative?",
-      "short_title": "The Chinese model of anti-corruption and the global anti-money laundering regime: asymmetric i\u2026",
-      "url": "https://doi.org/10.24144/2307-3322.2026.93.4.19",
-      "source": "Uzhhorod National University Herald. Series: Law",
-      "published_at": "2026-03-30T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
@@ -234,22 +218,6 @@
       "source": "Current Organic Chemistry",
       "published_at": "2026-11-01T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "International practices and legal instruments for counteracting corruption and corruption-related criminal offenses: a comparative legal analysis",
-      "short_title": "International practices and legal instruments for counteracting corruption and corruption-rela\u2026",
-      "url": "https://doi.org/10.24144/2307-3322.2026.93.5.28",
-      "source": "Uzhhorod National University Herald. Series: Law",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency and public trust",
-      "short_title": "Financial accountability and governance in nonprofit organizations: Strengthening transparency\u2026",
-      "url": "https://doi.org/10.30574/wjarr.2026.29.3.0710",
-      "source": "World Journal of Advanced Research and Reviews",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ]
 }
