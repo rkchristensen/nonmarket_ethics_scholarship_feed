@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T14:44:23.409542+00:00",
+  "updated_at": "2026-04-02T14:35:43.223175+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -34,12 +34,12 @@
       "sentiment": "negative"
     },
     {
-      "title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
-      "short_title": "Mars\u2013Venus marriage: State-owned shareholders and corporate fraud in private firms",
-      "url": "https://doi.org/10.1016/j.jcae.2026.100544",
-      "source": "Journal of Contemporary Accounting &amp; Economics",
-      "published_at": "2026-08-01T00:00:00+00:00",
-      "sentiment": "negative"
+      "title": "TERM LIMIT EFFECTS IN INDONESIA: LOCAL GOVERNMENT REVENUE VS. SPENDING",
+      "short_title": "TERM LIMIT EFFECTS IN INDONESIA: LOCAL GOVERNMENT REVENUE VS. SPENDING",
+      "url": "https://doi.org/10.7454/jaki.v23i1.2186",
+      "source": "Jurnal Akuntansi dan Keuangan Indonesia",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Christian ethics today?",
@@ -78,7 +78,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-01T14:44:22.771027+00:00",
+      "published_at": "2026-04-02T14:35:42.497075+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-01T14:44:18.237388+00:00",
+      "published_at": "2026-04-02T14:35:38.784513+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-01T14:44:17.560079+00:00",
+      "published_at": "2026-04-02T14:35:38.211261+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-01T14:44:17.559891+00:00",
+      "published_at": "2026-04-02T14:35:38.211168+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-01T14:44:17.559830+00:00",
+      "published_at": "2026-04-02T14:35:38.211144+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-01T14:44:17.559496+00:00",
+      "published_at": "2026-04-02T14:35:38.210978+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-01T14:44:17.559347+00:00",
+      "published_at": "2026-04-02T14:35:38.210884+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,8 +134,16 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-01T14:44:17.559116+00:00",
+      "published_at": "2026-04-02T14:35:38.210757+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Financial Vulnerability",
+      "short_title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Fi\u2026",
+      "url": "https://doi.org/10.1111/faam.70035",
+      "source": "Financial Accountability &amp; Management",
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Internal Control Effectiveness, Internal Audit Function, Institutional Complexity, and Audit Opinions as Determinants of Corruption: Evidence from Indonesian Public Sector Institutions",
@@ -176,22 +184,6 @@
       "source": "Journal of Imam Al-kadhum College",
       "published_at": "2026-03-31T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Anti-corruption mechanisms in public procurement: international experience and directions of adaptation in Ukraine",
-      "short_title": "Anti-corruption mechanisms in public procurement: international experience and directions of a\u2026",
-      "url": "https://doi.org/10.24144/2307-3322.2026.93.5.44",
-      "source": "Uzhhorod National University Herald. Series: Law",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "State Loss as the Basis for Criminalizing Corruption by State-Owned Enterprise Employees",
-      "short_title": "State Loss as the Basis for Criminalizing Corruption by State-Owned Enterprise Employees",
-      "url": "https://doi.org/10.30659/jdh.v9i1.51847",
-      "source": "Jurnal Daulat Hukum",
-      "published_at": "2026-03-31T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -217,6 +209,14 @@
       "url": "https://doi.org/10.2174/0113852728367743250520191343",
       "source": "Current Organic Chemistry",
       "published_at": "2026-11-01T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Financial Vulnerability",
+      "short_title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Fi\u2026",
+      "url": "https://doi.org/10.1111/faam.70035",
+      "source": "Financial Accountability &amp; Management",
+      "published_at": "2026-04-01T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
