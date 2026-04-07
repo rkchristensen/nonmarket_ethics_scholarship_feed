@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T14:14:50.349570+00:00",
+  "updated_at": "2026-04-07T14:49:16.316192+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -32,14 +32,6 @@
       "source": "Public Policy Journal",
       "published_at": "2026-08-31T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "TERM LIMIT EFFECTS IN INDONESIA: LOCAL GOVERNMENT REVENUE VS. SPENDING",
-      "short_title": "TERM LIMIT EFFECTS IN INDONESIA: LOCAL GOVERNMENT REVENUE VS. SPENDING",
-      "url": "https://doi.org/10.7454/jaki.v23i1.2186",
-      "source": "Jurnal Akuntansi dan Keuangan Indonesia",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "positive"
     },
     {
       "title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Christian ethics today?",
@@ -78,7 +70,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-06T14:14:49.559930+00:00",
+      "published_at": "2026-04-07T14:49:14.521358+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +78,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-06T14:14:46.585454+00:00",
+      "published_at": "2026-04-07T14:49:06.873035+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +86,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-06T14:14:45.974453+00:00",
+      "published_at": "2026-04-07T14:49:05.790005+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +94,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-06T14:14:45.974355+00:00",
+      "published_at": "2026-04-07T14:49:05.789916+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +102,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-06T14:14:45.974322+00:00",
+      "published_at": "2026-04-07T14:49:05.789890+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +110,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-06T14:14:45.974146+00:00",
+      "published_at": "2026-04-07T14:49:05.789735+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +118,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-06T14:14:45.974037+00:00",
+      "published_at": "2026-04-07T14:49:05.789660+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,8 +126,24 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-06T14:14:45.973907+00:00",
+      "published_at": "2026-04-07T14:49:05.789543+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "CORRUPTION AND ACCOUNTABILITY ON THE PERFORMANCE OF LOCAL GOVERNMENT ADMINISTRATION IN NIGERIA: A CASE STUDY OF ILORIN-SOUTH",
+      "short_title": "CORRUPTION AND ACCOUNTABILITY ON THE PERFORMANCE OF LOCAL GOVERNMENT ADMINISTRATION IN NIGERIA\u2026",
+      "url": "https://doi.org/10.64290/gjam.v8i1.1491",
+      "source": "GOMBE JOURNAL OF ADMINISTRATION AND MANAGEMENT (GJAM)",
+      "published_at": "2026-04-07T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registration Reform",
+      "short_title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registra\u2026",
+      "url": "https://doi.org/10.1080/15309576.2026.2647878",
+      "source": "Public Performance &amp; Management Review",
+      "published_at": "2026-04-06T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "LEGAL BASIS OF ACQUITTAL IN BANKING CREDIT CORRUPTION: PANGKALPINANG DISTRICT COURT CASE",
@@ -176,22 +184,6 @@
       "source": "Poslovna izvrsnost - Business Excellence",
       "published_at": "2026-04-02T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Financial Vulnerability",
-      "short_title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Fi\u2026",
-      "url": "https://doi.org/10.1111/faam.70035",
-      "source": "Financial Accountability &amp; Management",
-      "published_at": "2026-04-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Internal Control Effectiveness, Internal Audit Function, Institutional Complexity, and Audit Opinions as Determinants of Corruption: Evidence from Indonesian Public Sector Institutions",
-      "short_title": "Internal Control Effectiveness, Internal Audit Function, Institutional Complexity, and Audit O\u2026",
-      "url": "https://doi.org/10.52300/jemba.v6i1.22983",
-      "source": "JEMBA: Jurnal Ekonomi Pembangunan, Manajemen &amp; Bisnis, Akuntansi",
-      "published_at": "2026-04-01T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -220,6 +212,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registration Reform",
+      "short_title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registra\u2026",
+      "url": "https://doi.org/10.1080/15309576.2026.2647878",
+      "source": "Public Performance &amp; Management Review",
+      "published_at": "2026-04-06T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practices and Volunteer Expectations",
       "short_title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practi\u2026",
       "url": "https://doi.org/10.1002/nml.70050",
@@ -234,14 +234,6 @@
       "source": "Innovative Research Journal of Sociology and Humanities",
       "published_at": "2026-04-02T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Financial Vulnerability",
-      "short_title": "Rethinking Liquidity in Nonprofit Organizations: The Dual Role of Excess Cash in Explaining Fi\u2026",
-      "url": "https://doi.org/10.1111/faam.70035",
-      "source": "Financial Accountability &amp; Management",
-      "published_at": "2026-04-01T00:00:00+00:00",
-      "sentiment": "positive"
     }
   ]
 }
