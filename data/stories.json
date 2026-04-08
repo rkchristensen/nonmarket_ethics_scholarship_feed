@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T14:49:16.316192+00:00",
+  "updated_at": "2026-04-08T14:49:09.023675+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -42,6 +42,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Corruption, Governance and the Challenges of the Rule of Law - Law Enforcement and Corruption - An Assessment of the Functioning of the Albanian State Police.",
+      "short_title": "Corruption, Governance and the Challenges of the Rule of Law - Law Enforcement and Corruption\u2026",
+      "url": "https://doi.org/10.58944/yayq2724",
+      "source": "JUS &amp; JUSTICIA",
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Corruption risk indicators in public procurement: Definition and evaluation with organised crime data",
       "short_title": "Corruption risk indicators in public procurement: Definition and evaluation with organised cri\u2026",
       "url": "https://doi.org/10.1016/j.seps.2026.102429",
@@ -70,7 +78,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-07T14:49:14.521358+00:00",
+      "published_at": "2026-04-08T14:49:08.355357+00:00",
       "sentiment": "positive"
     },
     {
@@ -78,7 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-07T14:49:06.873035+00:00",
+      "published_at": "2026-04-08T14:49:00.737160+00:00",
       "sentiment": "negative"
     },
     {
@@ -86,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-07T14:49:05.790005+00:00",
+      "published_at": "2026-04-08T14:48:59.730617+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-07T14:49:05.789916+00:00",
+      "published_at": "2026-04-08T14:48:59.730531+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-07T14:49:05.789890+00:00",
+      "published_at": "2026-04-08T14:48:59.730508+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +118,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-07T14:49:05.789735+00:00",
+      "published_at": "2026-04-08T14:48:59.730355+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +126,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-07T14:49:05.789660+00:00",
+      "published_at": "2026-04-08T14:48:59.730280+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +134,31 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-07T14:49:05.789543+00:00",
+      "published_at": "2026-04-08T14:48:59.730170+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Digitalization and Transparency in Efforts to Prevent and Eradicate Corruption",
+      "short_title": "Digitalization and Transparency in Efforts to Prevent and Eradicate Corruption",
+      "url": "https://doi.org/10.47577/tssj.v82i1.13570",
+      "source": "Technium Social Sciences Journal",
+      "published_at": "2026-04-08T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "From System Budgets to Lived Bonds: Reimagining Nonprofit Education Through an Autoethnographic Journey in Three Acts of Care",
+      "short_title": "From System Budgets to Lived Bonds: Reimagining Nonprofit Education Through an Autoethnographi\u2026",
+      "url": "https://doi.org/10.18666/jnel-2026-13478",
+      "source": "Journal of Nonprofit Education and Leadership",
+      "published_at": "2026-04-07T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Is It Corruption? Late Adolescents\u2019 Moral and Nonmoral Judgments and Reasoning in Different Contexts",
+      "short_title": "Is It Corruption? Late Adolescents\u2019 Moral and Nonmoral Judgments and Reasoning in Different Co\u2026",
+      "url": "https://doi.org/10.1111/sode.70057",
+      "source": "Social Development",
+      "published_at": "2026-04-07T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -135,54 +167,6 @@
       "url": "https://doi.org/10.64290/gjam.v8i1.1491",
       "source": "GOMBE JOURNAL OF ADMINISTRATION AND MANAGEMENT (GJAM)",
       "published_at": "2026-04-07T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registration Reform",
-      "short_title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registra\u2026",
-      "url": "https://doi.org/10.1080/15309576.2026.2647878",
-      "source": "Public Performance &amp; Management Review",
-      "published_at": "2026-04-06T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "LEGAL BASIS OF ACQUITTAL IN BANKING CREDIT CORRUPTION: PANGKALPINANG DISTRICT COURT CASE",
-      "short_title": "LEGAL BASIS OF ACQUITTAL IN BANKING CREDIT CORRUPTION: PANGKALPINANG DISTRICT COURT CASE",
-      "url": "https://doi.org/10.56301/awl.v8i3.2071",
-      "source": "Awang Long Law Review",
-      "published_at": "2026-04-03T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practices and Volunteer Expectations",
-      "short_title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practi\u2026",
-      "url": "https://doi.org/10.1002/nml.70050",
-      "source": "Nonprofit Management and Leadership",
-      "published_at": "2026-04-02T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Evaluating the Effect of Corruption on Nigeria's Public Service Delivery",
-      "short_title": "Evaluating the Effect of Corruption on Nigeria's Public Service Delivery",
-      "url": "https://doi.org/10.58806/irijsh.2026.v3i4n01",
-      "source": "Innovative Research Journal of Sociology and Humanities",
-      "published_at": "2026-04-02T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Instruments and Mechanisms of the European Union for Preventing and Combating Corruption",
-      "short_title": "Instruments and Mechanisms of the European Union for Preventing and Combating Corruption",
-      "url": "https://doi.org/10.37075/isa.2026.1.06",
-      "source": "Economic and social alternatives",
-      "published_at": "2026-04-02T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Institutional Trust and Sector-Specific Corruption in Greece",
-      "short_title": "Institutional Trust and Sector-Specific Corruption in Greece",
-      "url": "https://doi.org/10.22598/pi-be/2026.1.39036",
-      "source": "Poslovna izvrsnost - Business Excellence",
-      "published_at": "2026-04-02T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
@@ -212,28 +196,28 @@
       "sentiment": "positive"
     },
     {
-      "title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registration Reform",
-      "short_title": "Regulatory Gatekeeping and Nonprofit Sector Development: Evidence From China\u2019s Direct Registra\u2026",
-      "url": "https://doi.org/10.1080/15309576.2026.2647878",
-      "source": "Public Performance &amp; Management Review",
-      "published_at": "2026-04-06T00:00:00+00:00",
+      "title": "From System Budgets to Lived Bonds: Reimagining Nonprofit Education Through an Autoethnographic Journey in Three Acts of Care",
+      "short_title": "From System Budgets to Lived Bonds: Reimagining Nonprofit Education Through an Autoethnographi\u2026",
+      "url": "https://doi.org/10.18666/jnel-2026-13478",
+      "source": "Journal of Nonprofit Education and Leadership",
+      "published_at": "2026-04-07T00:00:00+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practices and Volunteer Expectations",
-      "short_title": "Bridging the Gap: A Qualitative Inquiry Into Misalignments Between Volunteer Management Practi\u2026",
-      "url": "https://doi.org/10.1002/nml.70050",
-      "source": "Nonprofit Management and Leadership",
-      "published_at": "2026-04-02T00:00:00+00:00",
+      "title": "From the Frontlines A Personal and Professional Reflexive Analysis of the U.S. Foster Care System",
+      "short_title": "From the Frontlines A Personal and Professional Reflexive Analysis of the U.S. Foster Care Sys\u2026",
+      "url": "https://doi.org/10.18666/jnel-2025-13077",
+      "source": "Journal of Nonprofit Education and Leadership",
+      "published_at": "2026-04-07T00:00:00+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Evaluating the Effect of Corruption on Nigeria's Public Service Delivery",
-      "short_title": "Evaluating the Effect of Corruption on Nigeria's Public Service Delivery",
-      "url": "https://doi.org/10.58806/irijsh.2026.v3i4n01",
-      "source": "Innovative Research Journal of Sociology and Humanities",
-      "published_at": "2026-04-02T00:00:00+00:00",
-      "sentiment": "negative"
+      "title": "Evaluating Competency-Based Learning: An Analysis of Student Performance on the Certified Nonprofit Professional (CNP) Exam Authors",
+      "short_title": "Evaluating Competency-Based Learning: An Analysis of Student Performance on the Certified Nonp\u2026",
+      "url": "https://doi.org/10.18666/jnel-2025-13504",
+      "source": "Journal of Nonprofit Education and Leadership",
+      "published_at": "2026-04-07T00:00:00+00:00",
+      "sentiment": "positive"
     }
   ]
 }
