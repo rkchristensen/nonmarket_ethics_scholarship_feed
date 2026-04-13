@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T14:03:32.219829+00:00",
+  "updated_at": "2026-04-13T14:55:47.314803+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-12T14:03:31.887210+00:00",
+      "published_at": "2026-04-13T14:55:45.089692+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-12T14:03:30.007660+00:00",
+      "published_at": "2026-04-13T14:55:32.243474+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-12T14:03:29.715506+00:00",
+      "published_at": "2026-04-13T14:55:31.825575+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-12T14:03:29.715404+00:00",
+      "published_at": "2026-04-13T14:55:31.825480+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-12T14:03:29.715335+00:00",
+      "published_at": "2026-04-13T14:55:31.825455+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-12T14:03:29.715180+00:00",
+      "published_at": "2026-04-13T14:55:31.825275+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-12T14:03:29.715107+00:00",
+      "published_at": "2026-04-13T14:55:31.825182+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,39 +142,31 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-12T14:03:29.715000+00:00",
+      "published_at": "2026-04-13T14:55:31.825057+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "The Impact of Corruption on the Effectiveness of Public Administration in Nigeria",
-      "short_title": "The Impact of Corruption on the Effectiveness of Public Administration in Nigeria",
-      "url": "https://doi.org/10.28932/jafta.v7i2.14050",
-      "source": "Journal of Accounting, Finance, Taxation, and Auditing (JAFTA)",
-      "published_at": "2026-04-10T00:00:00+00:00",
+      "title": "Institutional and legal framework for combating corruption in the criminal law of the Republic of Kazakhstan",
+      "short_title": "Institutional and legal framework for combating corruption in the criminal law of the Republic\u2026",
+      "url": "https://doi.org/10.22495/clgrv8i2p11",
+      "source": "Corporate Law &amp; Governance Review",
+      "published_at": "2026-04-13T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "DETECTION OF ILLICIT CAPITAL THROUGH THE FORENSIC METHODOLOGY OF CRIMINAL CORRUPTION INVESTIGATION",
-      "short_title": "DETECTION OF ILLICIT CAPITAL THROUGH THE FORENSIC METHODOLOGY OF CRIMINAL CORRUPTION INVESTIGA\u2026",
-      "url": "https://doi.org/10.30525/2256-0742/2026-12-2-91-104",
-      "source": "Baltic Journal of Economic Studies",
-      "published_at": "2026-04-10T00:00:00+00:00",
+      "title": "Administrative Corruption and Citizen Trust in Digital Public Services in Local Governments",
+      "short_title": "Administrative Corruption and Citizen Trust in Digital Public Services in Local Governments",
+      "url": "https://doi.org/10.11114/smc.v14i2.8421",
+      "source": "Studies in Media and Communication",
+      "published_at": "2026-04-12T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Exploring the Role of National Leadership, Education, and Technology in Combating Corruption: Global Evidence",
-      "short_title": "Exploring the Role of National Leadership, Education, and Technology in Combating Corruption:\u2026",
-      "url": "https://doi.org/10.1080/10999922.2026.2641948",
-      "source": "Public Integrity",
-      "published_at": "2026-04-10T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "MODEL OF TRUST-ORIENTED PUBLIC ADMINISTRATION: INTEGRATION OF ANTI-CORRUPTION AND HUMAN RIGHTS INSTRUMENTS",
-      "short_title": "MODEL OF TRUST-ORIENTED PUBLIC ADMINISTRATION: INTEGRATION OF ANTI-CORRUPTION AND HUMAN RIGHTS\u2026",
-      "url": "https://doi.org/10.30838/ep.211.297-304",
-      "source": "Economic Scope",
-      "published_at": "2026-04-09T00:00:00+00:00",
+      "title": "Reconstruction of Parole Rights for Corruption Convicts from the Perspective of Substantive Justice and Legal Certainty in Indonesia",
+      "short_title": "Reconstruction of Parole Rights for Corruption Convicts from the Perspective of Substantive Ju\u2026",
+      "url": "https://doi.org/10.64753/jcasc.v11i1.4764",
+      "source": "Journal of Cultural Analysis and Social Change",
+      "published_at": "2026-04-12T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
