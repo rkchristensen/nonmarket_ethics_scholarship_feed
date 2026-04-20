@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T14:03:58.761838+00:00",
+  "updated_at": "2026-04-20T14:57:04.603838+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-19T14:03:58.293422+00:00",
+      "published_at": "2026-04-20T14:57:03.444204+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-19T14:03:55.449469+00:00",
+      "published_at": "2026-04-20T14:56:56.501545+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-19T14:03:55.259488+00:00",
+      "published_at": "2026-04-20T14:56:55.522738+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-19T14:03:55.259399+00:00",
+      "published_at": "2026-04-20T14:56:55.522552+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-19T14:03:55.259374+00:00",
+      "published_at": "2026-04-20T14:56:55.522494+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-19T14:03:55.259200+00:00",
+      "published_at": "2026-04-20T14:56:55.522189+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-19T14:03:55.259126+00:00",
+      "published_at": "2026-04-20T14:56:55.522020+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,8 +142,16 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-19T14:03:55.259022+00:00",
+      "published_at": "2026-04-20T14:56:55.521837+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Research Note: Form 990 Data Quality and Reliability",
+      "short_title": "Research Note: Form 990 Data Quality and Reliability",
+      "url": "https://doi.org/10.1177/08997640261434934",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-04-20T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "MECHANISMS OF FORMATION OF INTEGRITY AND ANTI-CORRUPTION CULTURE IN PENITENTIARY INSTITUTIONS",
@@ -204,19 +212,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "How Board Characteristics Shape Funding Access: Evidence from Saudi Nonprofit Organizations",
-      "short_title": "How Board Characteristics Shape Funding Access: Evidence from Saudi Nonprofit Organizations",
-      "url": "https://doi.org/10.33642/ijbass.v12n4p1",
-      "source": "International Journal of Business and Applied Social Science",
-      "published_at": "2026-04-16T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Mapping Research on Christian Volunteer Motivation in Church and Civil Society Volunteering: A Scoping Review",
-      "short_title": "Mapping Research on Christian Volunteer Motivation in Church and Civil Society Volunteering: A\u2026",
-      "url": "https://doi.org/10.1017/s0957876526000288",
-      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
-      "published_at": "2026-04-16T00:00:00+00:00",
+      "title": "Research Note: Form 990 Data Quality and Reliability",
+      "short_title": "Research Note: Form 990 Data Quality and Reliability",
+      "url": "https://doi.org/10.1177/08997640261434934",
+      "source": "Nonprofit and Voluntary Sector Quarterly",
+      "published_at": "2026-04-20T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
