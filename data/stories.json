@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T15:21:32.975659+00:00",
+  "updated_at": "2026-04-24T14:49:08.475042+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -78,7 +78,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-23T15:21:32.274484+00:00",
+      "published_at": "2026-04-24T14:49:07.592453+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-23T15:21:26.441921+00:00",
+      "published_at": "2026-04-24T14:49:02.055080+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-23T15:21:25.881844+00:00",
+      "published_at": "2026-04-24T14:49:00.805960+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-23T15:21:25.881748+00:00",
+      "published_at": "2026-04-24T14:49:00.805870+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-23T15:21:25.881723+00:00",
+      "published_at": "2026-04-24T14:49:00.805845+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-23T15:21:25.881562+00:00",
+      "published_at": "2026-04-24T14:49:00.805688+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-23T15:21:25.881478+00:00",
+      "published_at": "2026-04-24T14:49:00.805613+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-23T15:21:25.881361+00:00",
+      "published_at": "2026-04-24T14:49:00.805506+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "From Tax Law to Anti-Corruption Enforcement: Adapting the Una via Principle for Village Fund Corruption Cases in Indonesia",
+      "short_title": "From Tax Law to Anti-Corruption Enforcement: Adapting the Una via Principle for Village Fund C\u2026",
+      "url": "https://doi.org/10.25041/corruptio.v6i2.4513",
+      "source": "Corruptio",
+      "published_at": "2026-04-24T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -158,14 +166,6 @@
       "short_title": "A quantitatively validated Latin American model for open-data corruption risk detection in pub\u2026",
       "url": "https://doi.org/10.1590/0034-761220250356x",
       "source": "Revista de Administra\u00e7\u00e3o P\u00fablica",
-      "published_at": "2026-04-22T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Preventing corruption risks in the judiciary through the lens of biblical morality and contemporary ethical standards",
-      "short_title": "Preventing corruption risks in the judiciary through the lens of biblical morality and contemp\u2026",
-      "url": "https://doi.org/10.37566/2707-6849-2026-1(54)-4",
-      "source": "Slovo of the National School of Judges of Ukraine",
       "published_at": "2026-04-22T00:00:00+00:00",
       "sentiment": "negative"
     }
@@ -196,20 +196,20 @@
       "sentiment": "positive"
     },
     {
+      "title": "The Quantitative Fallacy: Metric\u2010Driven Management and Workplace Bullying in Nonprofit Fundraising",
+      "short_title": "The Quantitative Fallacy: Metric\u2010Driven Management and Workplace Bullying in Nonprofit Fundrai\u2026",
+      "url": "https://doi.org/10.1002/nvsm.70056",
+      "source": "Journal of Philanthropy",
+      "published_at": "2026-04-24T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Coordination Network Mechanism in Preventing Criminal Acts of Corruption in Teluk Bintuni Regency",
       "short_title": "Coordination Network Mechanism in Preventing Criminal Acts of Corruption in Teluk Bintuni Rege\u2026",
       "url": "https://doi.org/10.25258/ijddt.16.16s.57",
       "source": "International Journal of Drug Delivery Technology",
       "published_at": "2026-04-23T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Third Space, Hybridity, and the Third Sector: Postcolonial Perspectives on Collective Identity in Global Social Welfare",
-      "short_title": "Third Space, Hybridity, and the Third Sector: Postcolonial Perspectives on Collective Identity\u2026",
-      "url": "https://doi.org/10.1017/s0957876526000331",
-      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
-      "published_at": "2026-04-22T00:00:00+00:00",
-      "sentiment": "positive"
     }
   ]
 }
