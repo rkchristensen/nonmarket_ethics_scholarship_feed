@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T14:49:08.475042+00:00",
+  "updated_at": "2026-04-25T14:07:21.831950+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -32,6 +32,14 @@
       "source": "Public Policy Journal",
       "published_at": "2026-08-31T00:00:00+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Government integrity, government\u2013business collaboration, and corporate patient capital",
+      "short_title": "Government integrity, government\u2013business collaboration, and corporate patient capital",
+      "url": "https://doi.org/10.1016/j.frl.2026.110034",
+      "source": "Finance Research Letters",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "The concept \u2018light from light\u2019 in the Nicene creed: Is the metaphor still appropriate for Christian ethics today?",
@@ -74,11 +82,19 @@
       "sentiment": "negative"
     },
     {
+      "title": "Ethical Leadership and Public Sector Integrity:Governance Frameworks for Combating Corruption and Rebuilding Institutional Trust",
+      "short_title": "Ethical Leadership and Public Sector Integrity:Governance Frameworks for Combating Corruption\u2026",
+      "url": "https://doi.org/10.63090/ijamrs/3107.9695.0024",
+      "source": "International Journal of Administration and Management Research Studies (IJAMRS)",
+      "published_at": "2026-04-26T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "AI Regulation and Its Social Impacts on Public Policy",
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-04-24T14:49:07.592453+00:00",
+      "published_at": "2026-04-25T14:07:21.277614+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +102,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-04-24T14:49:02.055080+00:00",
+      "published_at": "2026-04-25T14:07:15.519889+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +110,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-24T14:49:00.805960+00:00",
+      "published_at": "2026-04-25T14:07:14.692140+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +118,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-24T14:49:00.805870+00:00",
+      "published_at": "2026-04-25T14:07:14.692051+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +126,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-04-24T14:49:00.805845+00:00",
+      "published_at": "2026-04-25T14:07:14.692028+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +134,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-24T14:49:00.805688+00:00",
+      "published_at": "2026-04-25T14:07:14.691873+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +142,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-04-24T14:49:00.805613+00:00",
+      "published_at": "2026-04-25T14:07:14.691797+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +150,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-04-24T14:49:00.805506+00:00",
+      "published_at": "2026-04-25T14:07:14.691642+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Five Ways to Get a Grip on Using the Corruption Perceptions Index to Support Internationally Trained Physicians",
+      "short_title": "Five Ways to Get a Grip on Using the Corruption Perceptions Index to Support Internationally T\u2026",
+      "url": "https://doi.org/10.1093/haschl/qxag093",
+      "source": "Health Affairs Scholar",
+      "published_at": "2026-04-25T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -151,22 +175,6 @@
       "url": "https://doi.org/10.25258/ijddt.16.16s.57",
       "source": "International Journal of Drug Delivery Technology",
       "published_at": "2026-04-23T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Breaking Systematic Corruption Through a Strategic Intelligence-Based Job Rotation Policy (A Study on Cross-Institutional Government Agencies at the Central Government Level in Indonesia)",
-      "short_title": "Breaking Systematic Corruption Through a Strategic Intelligence-Based Job Rotation Policy (A S\u2026",
-      "url": "https://doi.org/10.59188/eduvest.v6i4.52736",
-      "source": "Eduvest - Journal of Universal Studies",
-      "published_at": "2026-04-23T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "A quantitatively validated Latin American model for open-data corruption risk detection in public procurement",
-      "short_title": "A quantitatively validated Latin American model for open-data corruption risk detection in pub\u2026",
-      "url": "https://doi.org/10.1590/0034-761220250356x",
-      "source": "Revista de Administra\u00e7\u00e3o P\u00fablica",
-      "published_at": "2026-04-22T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
