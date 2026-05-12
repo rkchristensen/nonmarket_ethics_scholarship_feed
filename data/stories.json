@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T16:10:44.033956+00:00",
+  "updated_at": "2026-05-12T15:45:23.611336+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-05-11T16:10:42.123355+00:00",
+      "published_at": "2026-05-12T15:45:20.752191+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-05-11T16:10:31.292307+00:00",
+      "published_at": "2026-05-12T15:45:03.042473+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-11T16:10:29.148385+00:00",
+      "published_at": "2026-05-12T15:45:00.610160+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-11T16:10:29.148302+00:00",
+      "published_at": "2026-05-12T15:45:00.610072+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-11T16:10:29.148278+00:00",
+      "published_at": "2026-05-12T15:45:00.610048+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-05-11T16:10:29.148125+00:00",
+      "published_at": "2026-05-12T15:45:00.609897+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-05-11T16:10:29.148044+00:00",
+      "published_at": "2026-05-12T15:45:00.609822+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,39 +142,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-05-11T16:10:29.147873+00:00",
+      "published_at": "2026-05-12T15:45:00.609719+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "The Current Situation, Challenges, and Countermeasures of International Cooperation against Corruption",
-      "short_title": "The Current Situation, Challenges, and Countermeasures of International Cooperation against Co\u2026",
-      "url": "https://doi.org/10.54254/2753-7048/2026.33338",
-      "source": "Lecture Notes in Education Psychology and Public Media",
-      "published_at": "2026-05-11T00:00:00+00:00",
+      "title": "Corrupting U?: Workplace Bullying, Ethical Erosion, and Corruption Contagion in Public Higher Education",
+      "short_title": "Corrupting U?: Workplace Bullying, Ethical Erosion, and Corruption Contagion in Public Higher\u2026",
+      "url": "https://doi.org/10.1007/s11115-026-01002-7",
+      "source": "Public Organization Review",
+      "published_at": "2026-05-12T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "From Corruption to Compassion? A Comparative Study of Christianity in South Korea\u2019s Newspapers Between 2011 and 2022",
-      "short_title": "From Corruption to Compassion? A Comparative Study of Christianity in South Korea\u2019s Newspapers\u2026",
-      "url": "https://doi.org/10.3390/journalmedia7020100",
-      "source": "Journalism and Media",
-      "published_at": "2026-05-10T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "No Strings Attached: An Examination of Board-Designated Endowments in Nonprofit Organizations",
-      "short_title": "No Strings Attached: An Examination of Board-Designated Endowments in Nonprofit Organizations",
-      "url": "https://doi.org/10.1177/08997640261442189",
-      "source": "Nonprofit and Voluntary Sector Quarterly",
-      "published_at": "2026-05-09T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The Role of Risk Management and Good Corporate Governance (GCG) In Eliminating Corruption at PT. Asabri, A State-Owned Insurance Company.",
-      "short_title": "The Role of Risk Management and Good Corporate Governance (GCG) In Eliminating Corruption at P\u2026",
-      "url": "https://doi.org/10.47191/jefms/v9-i5-09",
-      "source": "Journal of Economics, Finance And Management Studies",
-      "published_at": "2026-05-09T00:00:00+00:00",
+      "title": "Bureaucratic Reform to Improve the Integrity of Government Officials as an Effort to Eradicate Corruption and Illegal Levies in Indonesia",
+      "short_title": "Bureaucratic Reform to Improve the Integrity of Government Officials as an Effort to Eradicate\u2026",
+      "url": "https://doi.org/10.58806/ijiissh.2026.v3i5n05",
+      "source": "International Journal of innovative inventions in Social Science and Humanities",
+      "published_at": "2026-05-12T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
@@ -212,11 +196,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "No Strings Attached: An Examination of Board-Designated Endowments in Nonprofit Organizations",
-      "short_title": "No Strings Attached: An Examination of Board-Designated Endowments in Nonprofit Organizations",
-      "url": "https://doi.org/10.1177/08997640261442189",
-      "source": "Nonprofit and Voluntary Sector Quarterly",
-      "published_at": "2026-05-09T00:00:00+00:00",
+      "title": "Lack of \u201csevere or pervasive\u201d misconduct sinks employee claim",
+      "short_title": "Lack of \u201csevere or pervasive\u201d misconduct sinks employee claim",
+      "url": "https://doi.org/10.1002/nba.33186",
+      "source": "Nonprofit Business Advisor",
+      "published_at": "2026-05-12T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Value-Based Drivers of Humanitarian Donation Intentions in a Muslim Context: The Moderating Role of Religiosity",
+      "short_title": "Value-Based Drivers of Humanitarian Donation Intentions in a Muslim Context: The Moderating Ro\u2026",
+      "url": "https://doi.org/10.1017/s0957876526000458",
+      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
+      "published_at": "2026-05-12T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
