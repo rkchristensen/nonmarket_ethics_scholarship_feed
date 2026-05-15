@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T15:30:40.067231+00:00",
+  "updated_at": "2026-05-15T15:28:16.247644+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -78,7 +78,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-05-14T15:30:38.047624+00:00",
+      "published_at": "2026-05-15T15:28:15.416784+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-05-14T15:30:26.471591+00:00",
+      "published_at": "2026-05-15T15:28:04.186559+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-14T15:30:23.881589+00:00",
+      "published_at": "2026-05-15T15:28:01.524485+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-14T15:30:23.881503+00:00",
+      "published_at": "2026-05-15T15:28:01.524340+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-05-14T15:30:23.881479+00:00",
+      "published_at": "2026-05-15T15:28:01.524300+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-05-14T15:30:23.881330+00:00",
+      "published_at": "2026-05-15T15:28:01.524050+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-05-14T15:30:23.881255+00:00",
+      "published_at": "2026-05-15T15:28:01.523973+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-05-14T15:30:23.881150+00:00",
+      "published_at": "2026-05-15T15:28:01.523864+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "CRIMINAL LAW MEASURES TO PREVENT CORRUPTION OFFENSES COMMITTED BY PUBLIC SERVICE PROVIDERS",
+      "short_title": "CRIMINAL LAW MEASURES TO PREVENT CORRUPTION OFFENSES COMMITTED BY PUBLIC SERVICE PROVIDERS",
+      "url": "https://doi.org/10.32782/chern.v2.2026.22",
+      "source": "Juris Europensis Scientia",
+      "published_at": "2026-05-15T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,6 +150,14 @@
       "short_title": "THE INTERACTION OF PUBLIC AUTHORITIES IN THE FIELD OF COUNTERING CORRUPTION IN COUNTRIES OF TH\u2026",
       "url": "https://doi.org/10.32842/2078-3736/2026.2.2.23",
       "source": "Law and Society",
+      "published_at": "2026-05-14T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Anti-Corruption Policy of the Modern State: European Guidelines and Directions of Development",
+      "short_title": "Anti-Corruption Policy of the Modern State: European Guidelines and Directions of Development",
+      "url": "https://doi.org/10.32782/pyuv.v1.2026.7",
+      "source": "\u041f\u0440\u0438\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0438\u0439 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0438\u0439 \u0432\u0456\u0441\u043d\u0438\u043a",
       "published_at": "2026-05-14T00:00:00+00:00",
       "sentiment": "negative"
     }
