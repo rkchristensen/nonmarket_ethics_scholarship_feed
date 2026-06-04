@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T18:03:30.143238+00:00",
+  "updated_at": "2026-06-04T16:28:22.238847+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -7,6 +7,14 @@
       "url": "https://doi.org/10.47259/ijrebs.2026.711",
       "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
       "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Using Open-Source Intelligence and a Top Down/Bottom up Approach to Improve Supply Chain Risk Management in a Government Agency",
+      "short_title": "Using Open-Source Intelligence and a Top Down/Bottom up Approach to Improve Supply Chain Risk\u2026",
+      "url": "https://doi.org/10.1504/ijvcm.2027.10078983",
+      "source": "International Journal of Value Chain Management",
+      "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive"
     },
     {
@@ -62,7 +70,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-06-03T18:03:29.948883+00:00",
+      "published_at": "2026-06-04T16:28:20.473907+00:00",
       "sentiment": "positive"
     },
     {
@@ -70,7 +78,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-06-03T18:03:26.675366+00:00",
+      "published_at": "2026-06-04T16:28:07.050146+00:00",
       "sentiment": "negative"
     },
     {
@@ -78,7 +86,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-03T18:03:26.501026+00:00",
+      "published_at": "2026-06-04T16:28:04.870291+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +94,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-03T18:03:26.500870+00:00",
+      "published_at": "2026-06-04T16:28:04.870200+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +102,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-03T18:03:26.500820+00:00",
+      "published_at": "2026-06-04T16:28:04.870176+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +110,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-03T18:03:26.500551+00:00",
+      "published_at": "2026-06-04T16:28:04.870012+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +118,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-03T18:03:26.500400+00:00",
+      "published_at": "2026-06-04T16:28:04.869895+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +126,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-03T18:03:26.500214+00:00",
+      "published_at": "2026-06-04T16:28:04.869767+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "ERADICATION OF CRIMINAL ACTS OF CORRUPTION: SYSTEMIC STRATEGY AND RECONSTRUCTION OF THE EVIDENCE PARADIGM IN INDONESIAN CRIMINAL LAW",
+      "short_title": "ERADICATION OF CRIMINAL ACTS OF CORRUPTION: SYSTEMIC STRATEGY AND RECONSTRUCTION OF THE EVIDEN\u2026",
+      "url": "https://doi.org/10.32832/abdidos.v10i2.3459",
+      "source": "Abdi Dosen : Jurnal Pengabdian Pada Masyarakat",
+      "published_at": "2026-06-04T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -130,20 +146,20 @@
       "sentiment": "negative"
     },
     {
-      "title": "Policy Brief on the Draft Association Act, 2025 of Nepal",
-      "short_title": "Policy Brief on the Draft Association Act, 2025 of Nepal",
-      "url": "https://doi.org/10.1515/npf-2025-0054",
-      "source": "Nonprofit Policy Forum",
-      "published_at": "2026-06-03T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
       "title": "Board Ethnic Diversity and the Value Relevance of Antibribery and Corruption Disclosure",
       "short_title": "Board Ethnic Diversity and the Value Relevance of Antibribery and Corruption Disclosure",
       "url": "https://doi.org/10.1002/bse.71069",
       "source": "Business Strategy and the Environment",
       "published_at": "2026-06-03T00:00:00+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Policy Brief on the Draft Association Act, 2025 of Nepal",
+      "short_title": "Policy Brief on the Draft Association Act, 2025 of Nepal",
+      "url": "https://doi.org/10.1515/npf-2025-0054",
+      "source": "Nonprofit Policy Forum",
+      "published_at": "2026-06-03T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Examining the influence of corruption practices on the efficiency of county health systems in Kenya",
@@ -158,6 +174,14 @@
       "short_title": "Political power and wealth distribution: how anti-corruption reforms reshape inequality",
       "url": "https://doi.org/10.1007/s11127-026-01408-3",
       "source": "Public Choice",
+      "published_at": "2026-06-02T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Anti-Corruption Enforcement in India: A Critical Study of Legal Mechanisms and Anti-Corruption Bureau Faridabad Operational Effectiveness",
+      "short_title": "Anti-Corruption Enforcement in India: A Critical Study of Legal Mechanisms and Anti-Corruption\u2026",
+      "url": "https://doi.org/10.25258/ijddt.16.44s.127",
+      "source": "International Journal of Drug Delivery Technology",
       "published_at": "2026-06-02T00:00:00+00:00",
       "sentiment": "negative"
     },
