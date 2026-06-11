@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T16:45:10.143432+00:00",
+  "updated_at": "2026-06-11T17:00:56.917694+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -34,14 +34,6 @@
       "sentiment": "positive"
     },
     {
-      "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
-      "short_title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision\u2026",
-      "url": "https://doi.org/10.47191/etj/v11i02.27",
-      "source": "Engineering and Technology Journal",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
       "title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implications of Autonomous Weapons Systems",
       "short_title": "The Impact of Digital Technology on International Humanitarian Law: Ethical and Legal Implicat\u2026",
       "url": "https://doi.org/10.24018/ejpolitics.2025.4.4.182",
@@ -62,7 +54,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-06-10T16:45:06.987680+00:00",
+      "published_at": "2026-06-11T17:00:55.923506+00:00",
       "sentiment": "positive"
     },
     {
@@ -70,7 +62,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-06-10T16:44:49.681315+00:00",
+      "published_at": "2026-06-11T17:00:48.632849+00:00",
       "sentiment": "negative"
     },
     {
@@ -78,7 +70,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-10T16:44:46.160009+00:00",
+      "published_at": "2026-06-11T17:00:47.441777+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +78,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-10T16:44:46.159904+00:00",
+      "published_at": "2026-06-11T17:00:47.441688+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +86,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-10T16:44:46.159876+00:00",
+      "published_at": "2026-06-11T17:00:47.441664+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +94,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-10T16:44:46.159696+00:00",
+      "published_at": "2026-06-11T17:00:47.441512+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +102,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-10T16:44:46.159594+00:00",
+      "published_at": "2026-06-11T17:00:47.441439+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +110,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-10T16:44:46.159462+00:00",
+      "published_at": "2026-06-11T17:00:47.441333+00:00",
       "sentiment": "negative"
     },
     {
@@ -160,22 +152,6 @@
       "source": "Cogent Social Sciences",
       "published_at": "2026-06-08T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Board of Commissioners Size, Government Ownership, and Anti-Corruption Disclosure: Evidence from Indonesian SOEs (2017-2024)",
-      "short_title": "Board of Commissioners Size, Government Ownership, and Anti-Corruption Disclosure: Evidence fr\u2026",
-      "url": "https://doi.org/10.55047/transekonomika.v6i2.1174",
-      "source": "TRANSEKONOMIKA: AKUNTANSI, BISNIS DAN KEUANGAN",
-      "published_at": "2026-06-06T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "ENHANCING EMPLOYEE PERFORMANCE IN EDUCATIONAL NONPROFIT ORGANIZATIONS: THE STRATEGIC ROLE OF INFORMATION SYSTEMS AND INTERNAL CONTROL",
-      "short_title": "ENHANCING EMPLOYEE PERFORMANCE IN EDUCATIONAL NONPROFIT ORGANIZATIONS: THE STRATEGIC ROLE OF I\u2026",
-      "url": "https://doi.org/10.47686/ashjd245",
-      "source": "Jurnal Akuntansi dan Bisnis",
-      "published_at": "2026-06-06T00:00:00+00:00",
-      "sentiment": "positive"
     }
   ],
   "nonprofit": [
@@ -188,27 +164,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision Practices",
-      "short_title": "Review of Risk Based Financial Governance Literature Shaping Institutional Investment Decision\u2026",
-      "url": "https://doi.org/10.47191/etj/v11i02.27",
-      "source": "Engineering and Technology Journal",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
       "title": "Climate Citizens\u2019 Assemblies in Poland: Activists\u2019 Nuanced Perspectives",
       "short_title": "Climate Citizens\u2019 Assemblies in Poland: Activists\u2019 Nuanced Perspectives",
       "url": "https://doi.org/10.1017/s0957876526000380",
       "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
       "published_at": "2026-06-08T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "ENHANCING EMPLOYEE PERFORMANCE IN EDUCATIONAL NONPROFIT ORGANIZATIONS: THE STRATEGIC ROLE OF INFORMATION SYSTEMS AND INTERNAL CONTROL",
-      "short_title": "ENHANCING EMPLOYEE PERFORMANCE IN EDUCATIONAL NONPROFIT ORGANIZATIONS: THE STRATEGIC ROLE OF I\u2026",
-      "url": "https://doi.org/10.47686/ashjd245",
-      "source": "Jurnal Akuntansi dan Bisnis",
-      "published_at": "2026-06-06T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
