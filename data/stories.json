@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T16:42:18.622888+00:00",
+  "updated_at": "2026-06-19T16:13:33.542475+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -70,7 +70,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-06-18T16:42:18.288831+00:00",
+      "published_at": "2026-06-19T16:13:32.255306+00:00",
       "sentiment": "positive"
     },
     {
@@ -78,7 +78,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-06-18T16:42:15.268165+00:00",
+      "published_at": "2026-06-19T16:13:23.538648+00:00",
       "sentiment": "negative"
     },
     {
@@ -86,7 +86,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-18T16:42:14.847411+00:00",
+      "published_at": "2026-06-19T16:13:22.478016+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-18T16:42:14.847294+00:00",
+      "published_at": "2026-06-19T16:13:22.477900+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-18T16:42:14.847271+00:00",
+      "published_at": "2026-06-19T16:13:22.477877+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-18T16:42:14.847115+00:00",
+      "published_at": "2026-06-19T16:13:22.477720+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-18T16:42:14.847041+00:00",
+      "published_at": "2026-06-19T16:13:22.477643+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +126,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-18T16:42:14.846930+00:00",
+      "published_at": "2026-06-19T16:13:22.477532+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
+      "short_title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
+      "url": "https://doi.org/10.1007/s44282-026-00463-x",
+      "source": "Discover Global Society",
+      "published_at": "2026-06-19T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,6 +150,14 @@
       "short_title": "How ethical leadership reduces corruption in Pakistan\u2019s public sector: job satisfaction as a m\u2026",
       "url": "https://doi.org/10.1108/pap-03-2025-0028",
       "source": "Public Administration and Policy",
+      "published_at": "2026-06-18T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "\u00c9lectricit\u00e9 du Liban between Financial Collapse and Allegations of Corruption: A Legal Study in Light of Ongoing Administrative and Financial Irregularities",
+      "short_title": "\u00c9lectricit\u00e9 du Liban between Financial Collapse and Allegations of Corruption: A Legal Study i\u2026",
+      "url": "https://doi.org/10.59992/ijfaes.2026.v5n6p8",
+      "source": "International Journal of Financial, Administrative, and Economic Sciences",
       "published_at": "2026-06-18T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -152,38 +176,6 @@
       "source": "SIGn Jurnal Hukum",
       "published_at": "2026-06-17T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Policy Reconstruction in Combating Petty Corruption: Towards Progressive, Economic, and Utilitarian Justice",
-      "short_title": "Policy Reconstruction in Combating Petty Corruption: Towards Progressive, Economic, and Utilit\u2026",
-      "url": "https://doi.org/10.37276/sjh.v8i1.701",
-      "source": "SIGn Jurnal Hukum",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Recalibration of Authority in Handling Corruption Crimes after Law Number 20 of 2025: A KPK-Centered Investigation and Prosecution Model",
-      "short_title": "Recalibration of Authority in Handling Corruption Crimes after Law Number 20 of 2025: A KPK-Ce\u2026",
-      "url": "https://doi.org/10.37276/sjh.v8i1.699",
-      "source": "SIGn Jurnal Hukum",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Qualified Mens Rea Model: Layered Culpability in General Commodity Smuggling Offenses Implicating Corruption",
-      "short_title": "The Qualified Mens Rea Model: Layered Culpability in General Commodity Smuggling Offenses Impl\u2026",
-      "url": "https://doi.org/10.37276/sjh.v8i1.702",
-      "source": "SIGn Jurnal Hukum",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria\u2019s Development Conundrum: The Interplay Between Corruption, Economy, and Social Welfare (A Politico-Economy Analysis)",
-      "short_title": "Nigeria\u2019s Development Conundrum: The Interplay Between Corruption, Economy, and Social Welfare\u2026",
-      "url": "https://doi.org/10.24036/ecogen.v9.i2.54",
-      "source": "Jurnal Ecogen",
-      "published_at": "2026-06-16T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -194,6 +186,30 @@
       "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
       "published_at": "2027-01-11T00:00:00+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
+      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
+      "source": "Journal of Public and Nonprofit Affairs",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
+      "short_title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
+      "url": "https://doi.org/10.1007/s44282-026-00463-x",
+      "source": "Discover Global Society",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "&lt;b&gt;Trust and Responsibility in Islam: Integrating Qur\u2019anic and Hadith Perspectives with Family Issues, Anti-Corruption Leadership, and Islamophobia&lt;/b&gt;",
+      "short_title": "&lt;b&gt;Trust and Responsibility in Islam: Integrating Qur\u2019anic and Hadith Perspectives with\u2026",
+      "url": "https://doi.org/10.65793/e-jppkm.2026.101",
+      "source": "Edupro: Jurnal Pendidikan dan Pengabdian Kepada Masyarakat",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "Pattern of Digital Platform Uses by New Generation Civil Society Organizations in Bangladesh",
