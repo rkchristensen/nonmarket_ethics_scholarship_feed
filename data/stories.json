@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T17:47:48.890826+00:00",
+  "updated_at": "2026-06-23T16:06:38.522350+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-06-22T17:47:46.391441+00:00",
+      "published_at": "2026-06-23T16:06:33.199193+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-06-22T17:47:25.867834+00:00",
+      "published_at": "2026-06-23T16:05:58.893360+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-22T17:47:21.648306+00:00",
+      "published_at": "2026-06-23T16:05:53.464534+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-22T17:47:21.648215+00:00",
+      "published_at": "2026-06-23T16:05:53.464444+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-22T17:47:21.648191+00:00",
+      "published_at": "2026-06-23T16:05:53.464420+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-22T17:47:21.648023+00:00",
+      "published_at": "2026-06-23T16:05:53.464267+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-22T17:47:21.647948+00:00",
+      "published_at": "2026-06-23T16:05:53.464193+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-22T17:47:21.647841+00:00",
+      "published_at": "2026-06-23T16:05:53.464085+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Simultaneous Model Discovery and State Estimation under High Data Corruption",
+      "short_title": "Simultaneous Model Discovery and State Estimation under High Data Corruption",
+      "url": "https://doi.org/10.1137/24m1681008",
+      "source": "SIAM Journal on Applied Dynamical Systems",
+      "published_at": "2026-06-23T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Finding explanations for low levels of citizens\u2019 happiness in resource-rich African economies: exploring the roles of unchecked corruption and natural resource endowments",
+      "short_title": "Finding explanations for low levels of citizens\u2019 happiness in resource-rich African economies:\u2026",
+      "url": "https://doi.org/10.1007/s13563-026-00668-1",
+      "source": "Mineral Economics",
+      "published_at": "2026-06-23T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -150,6 +166,14 @@
       "short_title": "Factors Influencing Political Stability in South America: The Roles of Rule of Law, Regulatory\u2026",
       "url": "https://doi.org/10.38035/gijlss.v4i2.821",
       "source": "Greenation International Journal of Law and Social Sciences",
+      "published_at": "2026-06-22T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Enhancing Police and Judicial Accountability in Gender-Based Violence Cases: Addressing Corruption, Inefficiency, and Victim-Blaming in Law Enforcement and the Judiciary",
+      "short_title": "Enhancing Police and Judicial Accountability in Gender-Based Violence Cases: Addressing Corrup\u2026",
+      "url": "https://doi.org/10.64211/oidaijsd190708",
+      "source": "OIDA International Journal of Sustainable Development",
       "published_at": "2026-06-22T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -170,6 +194,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "E-Government to Combat Corruption Worldwide: Dominant Factors and a Holistic Model Emerging From Structured Literature Review",
+      "short_title": "E-Government to Combat Corruption Worldwide: Dominant Factors and a Holistic Model Emerging Fr\u2026",
+      "url": "https://doi.org/10.1080/1097198x.2026.2690887",
+      "source": "Journal of Global Information Technology Management",
+      "published_at": "2026-06-22T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Corruption, collective moral harm, and the limits of the non-prosecution agreement as a reparatory mechanism for vulnerable groups",
       "short_title": "Corruption, collective moral harm, and the limits of the non-prosecution agreement as a repara\u2026",
       "url": "https://doi.org/10.55905/cuadv18n6-027",
@@ -184,38 +216,6 @@
       "source": "Oxford Bulletin of Economics and Statistics",
       "published_at": "2026-06-19T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
-      "source": "Journal of Public and Nonprofit Affairs",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
-      "short_title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
-      "url": "https://doi.org/10.1007/s44282-026-00463-x",
-      "source": "Discover Global Society",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Negotiating Postcolonial Realities: Corruption, Power, and Resistance in Adamu Kyuka Usman\u2019s Bivan\u2019s House",
-      "short_title": "Negotiating Postcolonial Realities: Corruption, Power, and Resistance in Adamu Kyuka Usman\u2019s B\u2026",
-      "url": "https://doi.org/10.36349/alqajolls.2026.v01i02.020",
-      "source": "AL-QALAMA Journal of Languages and Literary Studies",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How ethical leadership reduces corruption in Pakistan\u2019s public sector: job satisfaction as a mediator",
-      "short_title": "How ethical leadership reduces corruption in Pakistan\u2019s public sector: job satisfaction as a m\u2026",
-      "url": "https://doi.org/10.1108/pap-03-2025-0028",
-      "source": "Public Administration and Policy",
-      "published_at": "2026-06-18T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -226,30 +226,6 @@
       "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
       "published_at": "2027-01-11T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "short_title": "The Determinants of Voter Turnout in Croatian Local Government Elections",
-      "url": "https://doi.org/10.20899/jpna.gdmpzd87",
-      "source": "Journal of Public and Nonprofit Affairs",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
-      "short_title": "Determinants of corruption control in public sectors in Northwestern Ethiopia",
-      "url": "https://doi.org/10.1007/s44282-026-00463-x",
-      "source": "Discover Global Society",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "&lt;b&gt;Trust and Responsibility in Islam: Integrating Qur\u2019anic and Hadith Perspectives with Family Issues, Anti-Corruption Leadership, and Islamophobia&lt;/b&gt;",
-      "short_title": "&lt;b&gt;Trust and Responsibility in Islam: Integrating Qur\u2019anic and Hadith Perspectives with\u2026",
-      "url": "https://doi.org/10.65793/e-jppkm.2026.101",
-      "source": "Edupro: Jurnal Pendidikan dan Pengabdian Kepada Masyarakat",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ]
 }
