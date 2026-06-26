@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T15:45:06.458123+00:00",
+  "updated_at": "2026-06-26T15:31:25.584981+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -58,6 +58,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "\u201cBeyond the state: First-person ethics and the governance of targeted therapies in China\u201d",
+      "short_title": "\u201cBeyond the state: First-person ethics and the governance of targeted therapies in China\u201d",
+      "url": "https://doi.org/10.1016/j.socscimed.2026.119484",
+      "source": "Social Science &amp; Medicine",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "International Anti-Corruption Commissions: Explaining Institutional Design and Autonomy",
       "short_title": "International Anti-Corruption Commissions: Explaining Institutional Design and Autonomy",
       "url": "https://doi.org/10.5129/001041526x17686834944182",
@@ -74,6 +82,70 @@
       "sentiment": "negative"
     },
     {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-06-26T15:31:18.734316+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-06-26T15:30:29.997554+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-06-26T15:30:23.690281+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-06-26T15:30:23.690183+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-06-26T15:30:23.690160+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-06-26T15:30:23.690016+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-06-26T15:30:23.689951+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-06-26T15:30:23.689847+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "International Anti-Corruption Models and Mechanisms",
       "short_title": "International Anti-Corruption Models and Mechanisms",
       "url": "https://doi.org/10.36073/1512-0996-2026-2-31-36",
@@ -82,67 +154,27 @@
       "sentiment": "negative"
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-06-25T15:45:02.840106+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-06-25T15:44:34.326552+00:00",
+      "title": "Navigating interlaced spaces: the corruption\u2013crime nexus and the erosion of democratic governance",
+      "short_title": "Navigating interlaced spaces: the corruption\u2013crime nexus and the erosion of democratic governa\u2026",
+      "url": "https://doi.org/10.3389/fpos.2026.1780702",
+      "source": "Frontiers in Political Science",
+      "published_at": "2026-06-26T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-25T15:44:31.306643+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-25T15:44:31.306536+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-25T15:44:31.306512+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-06-25T15:44:31.306330+00:00",
+      "title": "Religion and corruption prevention from the perspective of Islamic organizations",
+      "short_title": "Religion and corruption prevention from the perspective of Islamic organizations",
+      "url": "https://doi.org/10.18326/ijims.v16i1.109-141",
+      "source": "Indonesian Journal of Islam and Muslim Societies",
+      "published_at": "2026-06-26T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-06-25T15:44:31.306236+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-25T15:44:31.306105+00:00",
+      "title": "Corruption Perceptions and Their Impact on Macroeconomic Performance in Iraq: Institutional Transmission Channels and ARDL Evidence from the Model (2010\u20132022)",
+      "short_title": "Corruption Perceptions and Their Impact on Macroeconomic Performance in Iraq: Institutional Tr\u2026",
+      "url": "https://doi.org/10.59992/ijsr.2026.v5n6p29",
+      "source": "International Journal for Scientific Research",
+      "published_at": "2026-06-26T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -160,30 +192,6 @@
       "source": "Advances in Social Behavior Research",
       "published_at": "2026-06-24T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Corruption and state legitimacy in Vietnam: evidence from citizen and firm perspectives",
-      "short_title": "Corruption and state legitimacy in Vietnam: evidence from citizen and firm perspectives",
-      "url": "https://doi.org/10.23900/ra.v24i114.1132",
-      "source": "Aposta: Revista de Ciencias Sociales",
-      "published_at": "2026-06-24T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Simultaneous Model Discovery and State Estimation under High Data Corruption",
-      "short_title": "Simultaneous Model Discovery and State Estimation under High Data Corruption",
-      "url": "https://doi.org/10.1137/24m1681008",
-      "source": "SIAM Journal on Applied Dynamical Systems",
-      "published_at": "2026-06-23T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Finding explanations for low levels of citizens\u2019 happiness in resource-rich African economies: exploring the roles of unchecked corruption and natural resource endowments",
-      "short_title": "Finding explanations for low levels of citizens\u2019 happiness in resource-rich African economies:\u2026",
-      "url": "https://doi.org/10.1007/s13563-026-00668-1",
-      "source": "Mineral Economics",
-      "published_at": "2026-06-23T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -193,14 +201,6 @@
       "url": "https://doi.org/10.47259/ijrebs.2026.711",
       "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
       "published_at": "2027-01-11T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The Lived Experience, Health, and Wellbeing of Volunteers Supporting those Seeking Asylum in the UK: The Bibby Stockholm Barge",
-      "short_title": "The Lived Experience, Health, and Wellbeing of Volunteers Supporting those Seeking Asylum in t\u2026",
-      "url": "https://doi.org/10.1017/s0957876526000574",
-      "source": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
-      "published_at": "2026-06-24T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
