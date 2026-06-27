@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T15:31:25.584981+00:00",
+  "updated_at": "2026-06-27T14:54:30.050804+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -86,7 +86,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-06-26T15:31:18.734316+00:00",
+      "published_at": "2026-06-27T14:54:28.576969+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-06-26T15:30:29.997554+00:00",
+      "published_at": "2026-06-27T14:54:19.787390+00:00",
       "sentiment": "negative"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-26T15:30:23.690281+00:00",
+      "published_at": "2026-06-27T14:54:17.618333+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-26T15:30:23.690183+00:00",
+      "published_at": "2026-06-27T14:54:17.618247+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-26T15:30:23.690160+00:00",
+      "published_at": "2026-06-27T14:54:17.618224+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-26T15:30:23.690016+00:00",
+      "published_at": "2026-06-27T14:54:17.618082+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-06-26T15:30:23.689951+00:00",
+      "published_at": "2026-06-27T14:54:17.617995+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-26T15:30:23.689847+00:00",
+      "published_at": "2026-06-27T14:54:17.617898+00:00",
       "sentiment": "negative"
     },
     {
@@ -151,46 +151,6 @@
       "url": "https://doi.org/10.36073/1512-0996-2026-2-31-36",
       "source": "Works of Georgian Technical University",
       "published_at": "2026-06-26T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Navigating interlaced spaces: the corruption\u2013crime nexus and the erosion of democratic governance",
-      "short_title": "Navigating interlaced spaces: the corruption\u2013crime nexus and the erosion of democratic governa\u2026",
-      "url": "https://doi.org/10.3389/fpos.2026.1780702",
-      "source": "Frontiers in Political Science",
-      "published_at": "2026-06-26T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Religion and corruption prevention from the perspective of Islamic organizations",
-      "short_title": "Religion and corruption prevention from the perspective of Islamic organizations",
-      "url": "https://doi.org/10.18326/ijims.v16i1.109-141",
-      "source": "Indonesian Journal of Islam and Muslim Societies",
-      "published_at": "2026-06-26T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption Perceptions and Their Impact on Macroeconomic Performance in Iraq: Institutional Transmission Channels and ARDL Evidence from the Model (2010\u20132022)",
-      "short_title": "Corruption Perceptions and Their Impact on Macroeconomic Performance in Iraq: Institutional Tr\u2026",
-      "url": "https://doi.org/10.59992/ijsr.2026.v5n6p29",
-      "source": "International Journal for Scientific Research",
-      "published_at": "2026-06-26T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How Does Corruption Relate to Libya\u2019s Economy",
-      "short_title": "How Does Corruption Relate to Libya\u2019s Economy",
-      "url": "https://doi.org/10.47191/jefms/v9-i6-34",
-      "source": "Journal of Economics, Finance And Management Studies",
-      "published_at": "2026-06-24T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption governance in the chinese context: a logical approach investigation based on a top-tier tertiary hospital case",
-      "short_title": "Corruption governance in the chinese context: a logical approach investigation based on a top-\u2026",
-      "url": "https://doi.org/10.54254/2753-7102/2026.34804",
-      "source": "Advances in Social Behavior Research",
-      "published_at": "2026-06-24T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
