@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:41:56.249808+00:00",
+  "updated_at": "2026-06-30T15:41:04.396350+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -66,6 +66,70 @@
       "sentiment": "negative"
     },
     {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-06-30T15:40:58.150341+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-06-30T15:40:22.632141+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-06-30T15:40:17.411675+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-06-30T15:40:17.411585+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-06-30T15:40:17.411561+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-06-30T15:40:17.411406+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-06-30T15:40:17.411334+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-06-30T15:40:17.411225+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Governance, Democracy &amp; Psychological Wellbeing Psychology of a Corruption",
       "short_title": "Governance, Democracy &amp; Psychological Wellbeing Psychology of a Corruption",
       "url": "https://doi.org/10.61440/jbes.2026.v3.123",
@@ -74,67 +138,27 @@
       "sentiment": "negative"
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-06-29T16:41:52.784363+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-06-29T16:41:07.760719+00:00",
+      "title": "INTEGRITY AS A PRINCIPLE OF ANTI-CORRUPTION EFFORTS IN PUBLIC ADMINISTRATION: THE EXPERIENCE OF UKRAINE AND EUROPEAN UNION COUNTRIES",
+      "short_title": "INTEGRITY AS A PRINCIPLE OF ANTI-CORRUPTION EFFORTS IN PUBLIC ADMINISTRATION: THE EXPERIENCE O\u2026",
+      "url": "https://doi.org/10.55643/fcaptp.3.68.2026.5254",
+      "source": "Financial and credit activity problems of theory and practice",
+      "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-29T16:41:00.940447+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-29T16:41:00.940384+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-06-29T16:41:00.940367+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-06-29T16:41:00.940245+00:00",
+      "title": "The Effect of Corruption on the Nexus Between Public Health Expenditure and Economic Growth in Sub-Saharan Africa",
+      "short_title": "The Effect of Corruption on the Nexus Between Public Health Expenditure and Economic Growth in\u2026",
+      "url": "https://doi.org/10.26493/1854-6935.24.227-254",
+      "source": "Managing Global Transitions",
+      "published_at": "2026-06-30T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-06-29T16:41:00.940194+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-06-29T16:41:00.940119+00:00",
+      "title": "Quantification of State Financial Losses in Action Criminal Corruption: Approach Economic Analysis of Law and Its Implications for Effectiveness Criminalization",
+      "short_title": "Quantification of State Financial Losses in Action Criminal Corruption: Approach Economic Anal\u2026",
+      "url": "https://doi.org/10.31289/mercatoria.v19i1.17471",
+      "source": "JURNAL MERCATORIA",
+      "published_at": "2026-06-29T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -160,22 +184,6 @@
       "source": "Palakka : Media and Islamic Communication",
       "published_at": "2026-06-29T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "THE EFFECTIVENESS OF PUBLIC SERVICE DIGITALIZATION IN CORRUPTION PREVENTION FOR GOOD GOVERNANCE IN INDONESIA",
-      "short_title": "THE EFFECTIVENESS OF PUBLIC SERVICE DIGITALIZATION IN CORRUPTION PREVENTION FOR GOOD GOVERNANC\u2026",
-      "url": "https://doi.org/10.61543/equ.v4i1.173",
-      "source": "EQUALEGUM International Law Journal",
-      "published_at": "2026-06-28T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Teacher Engagement in Education for Sustainability: Integrating Anti-Corruption Values into Learning in Remote Areas",
-      "short_title": "Teacher Engagement in Education for Sustainability: Integrating Anti-Corruption Values into Le\u2026",
-      "url": "https://doi.org/10.24036/88514121012026978",
-      "source": "Journal of Moral and Civic Education",
-      "published_at": "2026-06-26T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -186,6 +194,14 @@
       "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
       "published_at": "2027-01-11T00:00:00+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Wired for Corruption: Inter\u2010Brain Synchrony Encodes Bribery\u2010Related Value Information and Predicts Bribery Agreement",
+      "short_title": "Wired for Corruption: Inter\u2010Brain Synchrony Encodes Bribery\u2010Related Value Information and Pred\u2026",
+      "url": "https://doi.org/10.1111/nyas.70327",
+      "source": "Annals of the New York Academy of Sciences",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sentiment": "negative"
     }
   ]
 }
