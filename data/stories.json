@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T15:49:34.662810+00:00",
+  "updated_at": "2026-07-02T15:29:58.183512+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -50,19 +50,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "Anti-corruption governance in Islamic banking: lessons from Section 17A corporate liability in Malaysia",
-      "short_title": "Anti-corruption governance in Islamic banking: lessons from Section 17A corporate liability in\u2026",
-      "url": "https://doi.org/10.1108/ijoes-02-2026-0112",
-      "source": "International Journal of Ethics and Systems",
-      "published_at": "2026-07-02T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "AI Regulation and Its Social Impacts on Public Policy",
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-07-01T15:49:28.106350+00:00",
+      "published_at": "2026-07-02T15:29:54.188616+00:00",
       "sentiment": "positive"
     },
     {
@@ -70,7 +62,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-01T15:48:33.532733+00:00",
+      "published_at": "2026-07-02T15:29:02.575350+00:00",
       "sentiment": "negative"
     },
     {
@@ -78,7 +70,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-01T15:48:27.220962+00:00",
+      "published_at": "2026-07-02T15:28:55.509780+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +78,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-01T15:48:27.220882+00:00",
+      "published_at": "2026-07-02T15:28:55.509697+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +86,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-01T15:48:27.220859+00:00",
+      "published_at": "2026-07-02T15:28:55.509675+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +94,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-01T15:48:27.220718+00:00",
+      "published_at": "2026-07-02T15:28:55.509532+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +102,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-01T15:48:27.220641+00:00",
+      "published_at": "2026-07-02T15:28:55.509468+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +110,31 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-01T15:48:27.220534+00:00",
+      "published_at": "2026-07-02T15:28:55.509362+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "PORTRAYAL OF CORRUPTION IN THE XYZ SHOW IN KENYA",
+      "short_title": "PORTRAYAL OF CORRUPTION IN THE XYZ SHOW IN KENYA",
+      "url": "https://doi.org/10.51317/ecjmcs.v7i1.723",
+      "source": "Editon Consortium Journal of Media and Communication Studies",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "POLITICAL ECONOMY OF CORRUPTION IN NIGERIA: THE WAY FORWARD",
+      "short_title": "POLITICAL ECONOMY OF CORRUPTION IN NIGERIA: THE WAY FORWARD",
+      "url": "https://doi.org/10.70382/caijlphr.v12i6.0103",
+      "source": "International Journal of Law, Politics and Humanities Research",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Anti-corruption governance in Islamic banking: lessons from Section 17A corporate liability in Malaysia",
+      "short_title": "Anti-corruption governance in Islamic banking: lessons from Section 17A corporate liability in\u2026",
+      "url": "https://doi.org/10.1108/ijoes-02-2026-0112",
+      "source": "International Journal of Ethics and Systems",
+      "published_at": "2026-07-02T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -138,19 +154,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "The Autonomy Trap: Corruption by Regional Heads Through Grease Payments and Phantom Projects That Impoverish the People",
-      "short_title": "The Autonomy Trap: Corruption by Regional Heads Through Grease Payments and Phantom Projects T\u2026",
-      "url": "https://doi.org/10.32505/jurisprudensi.v8i2.13601",
-      "source": "Jurisprudensi: Jurnal Ilmu Syariah, Perundang-Undangan dan Ekonomi Islam",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Impact of the Implementation of Accrual Accounting and Corruption Control on the SDGs Globally",
-      "short_title": "The Impact of the Implementation of Accrual Accounting and Corruption Control on the SDGs Glob\u2026",
-      "url": "https://doi.org/10.70716/emis.v4i2.569",
-      "source": "Jurnal Ekonomi, Manajemen, dan Bisnis",
-      "published_at": "2026-06-30T00:00:00+00:00",
+      "title": "Corruption, Anti-Corruption, Vigilance, and State Building from Early to Late Modern Times , ed. Ricard Torra-Prat, Joan Pubill-Brugu\u00e9s and Arndt Brendecke",
+      "short_title": "Corruption, Anti-Corruption, Vigilance, and State Building from Early to Late Modern Times , e\u2026",
+      "url": "https://doi.org/10.1093/ehr/ceag158",
+      "source": "The English Historical Review",
+      "published_at": "2026-07-01T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
@@ -162,22 +170,6 @@
       "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
       "published_at": "2027-01-11T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "The Ethics of Islamic Philanthropy",
-      "short_title": "The Ethics of Islamic Philanthropy",
-      "url": "https://doi.org/10.1177/08997640261457388",
-      "source": "Nonprofit and Voluntary Sector Quarterly",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Wired for Corruption: Inter\u2010Brain Synchrony Encodes Bribery\u2010Related Value Information and Predicts Bribery Agreement",
-      "short_title": "Wired for Corruption: Inter\u2010Brain Synchrony Encodes Bribery\u2010Related Value Information and Pred\u2026",
-      "url": "https://doi.org/10.1111/nyas.70327",
-      "source": "Annals of the New York Academy of Sciences",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ]
 }
