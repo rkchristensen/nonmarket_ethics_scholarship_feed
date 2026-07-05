@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T14:44:31.063486+00:00",
+  "updated_at": "2026-07-05T14:51:51.914287+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -62,7 +62,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-07-04T14:44:29.561032+00:00",
+      "published_at": "2026-07-05T14:51:51.671826+00:00",
       "sentiment": "positive"
     },
     {
@@ -70,7 +70,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-04T14:44:13.660444+00:00",
+      "published_at": "2026-07-05T14:51:48.032836+00:00",
       "sentiment": "negative"
     },
     {
@@ -78,7 +78,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-04T14:44:11.061540+00:00",
+      "published_at": "2026-07-05T14:51:47.150347+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +86,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-04T14:44:11.061459+00:00",
+      "published_at": "2026-07-05T14:51:47.150268+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-04T14:44:11.061420+00:00",
+      "published_at": "2026-07-05T14:51:47.150244+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-04T14:44:11.061278+00:00",
+      "published_at": "2026-07-05T14:51:47.150099+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-04T14:44:11.061214+00:00",
+      "published_at": "2026-07-05T14:51:47.150035+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +118,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-04T14:44:11.061115+00:00",
+      "published_at": "2026-07-05T14:51:47.149930+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "THE INTERNALISATION OF ANTI-CORRUPTION VALUES THROUGH CHARACTER EDUCATION IN HIGHER EDUCATION",
+      "short_title": "THE INTERNALISATION OF ANTI-CORRUPTION VALUES THROUGH CHARACTER EDUCATION IN HIGHER EDUCATION",
+      "url": "https://doi.org/10.61578/jh.5.2.73-80",
+      "source": "Jurnal Honai",
+      "published_at": "2026-07-05T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -174,14 +182,6 @@
       "short_title": "Female Executive Leadership and Governance Outcomes: A Cross- Continental Quantitative Study o\u2026",
       "url": "https://doi.org/10.21608/esalexu.2026.463877.1356",
       "source": "\u0627\u0644\u0645\u062c\u0644\u0629 \u0627\u0644\u0639\u0644\u0645\u064a\u0629 \u0644\u06a9\u0644\u064a\u0629 \u0627\u0644\u062f\u0631\u0627\u0633\u0627\u062a \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0648 \u0627\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0633\u064a\u0627\u0633\u064a\u0629",
-      "published_at": "2026-07-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption, Anti-Corruption, Vigilance, and State Building from Early to Late Modern Times , ed. Ricard Torra-Prat, Joan Pubill-Brugu\u00e9s and Arndt Brendecke",
-      "short_title": "Corruption, Anti-Corruption, Vigilance, and State Building from Early to Late Modern Times , e\u2026",
-      "url": "https://doi.org/10.1093/ehr/ceag158",
-      "source": "The English Historical Review",
       "published_at": "2026-07-01T00:00:00+00:00",
       "sentiment": "negative"
     }
