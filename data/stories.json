@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T15:39:37.078137+00:00",
+  "updated_at": "2026-07-11T14:31:54.470357+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -78,7 +78,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-07-10T15:39:36.151401+00:00",
+      "published_at": "2026-07-11T14:31:54.248952+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +86,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-10T15:39:30.654042+00:00",
+      "published_at": "2026-07-11T14:31:51.923989+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +94,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-10T15:39:29.950073+00:00",
+      "published_at": "2026-07-11T14:31:51.557139+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-10T15:39:29.949992+00:00",
+      "published_at": "2026-07-11T14:31:51.557046+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-10T15:39:29.949970+00:00",
+      "published_at": "2026-07-11T14:31:51.557000+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-10T15:39:29.949815+00:00",
+      "published_at": "2026-07-11T14:31:51.556852+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-10T15:39:29.949751+00:00",
+      "published_at": "2026-07-11T14:31:51.556787+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-10T15:39:29.949641+00:00",
+      "published_at": "2026-07-11T14:31:51.556688+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Does local corruption influence corporate risk-taking? Evidence from Vietnam\u2019s anti-corruption campaigns",
+      "short_title": "Does local corruption influence corporate risk-taking? Evidence from Vietnam\u2019s anti-corruption\u2026",
+      "url": "https://doi.org/10.1007/s40821-025-00334-6",
+      "source": "Eurasian Business Review",
+      "published_at": "2026-07-11T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Deconstructing the US Administration\u2019s Conceptualization of Strategic Corruption",
+      "short_title": "Deconstructing the US Administration\u2019s Conceptualization of Strategic Corruption",
+      "url": "https://doi.org/10.18848/2324-755x/cgp/a170",
+      "source": "The International Journal of Interdisciplinary Global Studies",
+      "published_at": "2026-07-10T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,6 +158,22 @@
       "short_title": "The Boundaries of Criminal Liability of Cooperative Management and Cooperatives as Corporation\u2026",
       "url": "https://doi.org/10.62951/ijsl.v3i3.1009",
       "source": "International Journal of Sociology and Law",
+      "published_at": "2026-07-10T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "A Case Study on Executive\u2013Legislative Conflict in the Amendment of the Corruption Eradication Commission (KPK) Law in Indonesia",
+      "short_title": "A Case Study on Executive\u2013Legislative Conflict in the Amendment of the Corruption Eradication\u2026",
+      "url": "https://doi.org/10.60153/dpvbeb19",
+      "source": "Journal of Multidisciplinary Law Studies",
+      "published_at": "2026-07-10T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Reconstruction of the Application of the Business Judgment Rule Principle from the Perspective of Corruption Crimes as an Effort to Overcome the Ambiguity of Norms in the Accountability of Directors",
+      "short_title": "Reconstruction of the Application of the Business Judgment Rule Principle from the Perspective\u2026",
+      "url": "https://doi.org/10.46799/ijssr.v6i7.1428",
+      "source": "International Journal of Social Service and Research",
       "published_at": "2026-07-10T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -166,22 +198,6 @@
       "short_title": "Rule of Law or Rule of Politics? Understanding Varieties of Judicial Anti-Corruption Campaigns",
       "url": "https://doi.org/10.1146/annurev-lawsocsci-062124-122349",
       "source": "Annual Review of Law and Social Science",
-      "published_at": "2026-07-09T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Responsibility of the Company's Board of Directors as Perpetrators of Corruption Crimes in Case Decision Number: 17/Pid.Sus-Tpk/2020/Pn.Plk",
-      "short_title": "Responsibility of the Company's Board of Directors as Perpetrators of Corruption Crimes in Cas\u2026",
-      "url": "https://doi.org/10.46799/ijssr.v6i7.1429",
-      "source": "International Journal of Social Service and Research",
-      "published_at": "2026-07-09T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Institutional Quality and the Corruption-Growth Nexus: A Panel Data Analysis for Developing Countries",
-      "short_title": "Institutional Quality and the Corruption-Growth Nexus: A Panel Data Analysis for Developing Co\u2026",
-      "url": "https://doi.org/10.66857/091e",
-      "source": "Journal of Innovative Research and Technology",
       "published_at": "2026-07-09T00:00:00+00:00",
       "sentiment": "negative"
     }
@@ -210,6 +226,14 @@
       "source": "International Journal of Science and Research Archive",
       "published_at": "2026-07-31T00:00:00+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Deconstructing the US Administration\u2019s Conceptualization of Strategic Corruption",
+      "short_title": "Deconstructing the US Administration\u2019s Conceptualization of Strategic Corruption",
+      "url": "https://doi.org/10.18848/2324-755x/cgp/a170",
+      "source": "The International Journal of Interdisciplinary Global Studies",
+      "published_at": "2026-07-10T00:00:00+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "Developmental Humanitarianism: The Rise of Chinese NGOs in Africa and Their Reshaping of the Global Humanitarian Landscape",
