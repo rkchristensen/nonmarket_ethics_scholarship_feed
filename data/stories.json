@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T15:12:07.125463+00:00",
+  "updated_at": "2026-07-17T14:52:03.820973+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -94,7 +94,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-07-16T15:12:06.266461+00:00",
+      "published_at": "2026-07-17T14:52:03.076116+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +102,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-16T15:11:58.279692+00:00",
+      "published_at": "2026-07-17T14:52:00.159350+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +110,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-16T15:11:56.884839+00:00",
+      "published_at": "2026-07-17T14:51:59.624720+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +118,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-16T15:11:56.884761+00:00",
+      "published_at": "2026-07-17T14:51:59.624625+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-16T15:11:56.884738+00:00",
+      "published_at": "2026-07-17T14:51:59.624602+00:00",
       "sentiment": "positive"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-16T15:11:56.884595+00:00",
+      "published_at": "2026-07-17T14:51:59.624452+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-16T15:11:56.884530+00:00",
+      "published_at": "2026-07-17T14:51:59.624350+00:00",
       "sentiment": "negative"
     },
     {
@@ -150,7 +150,15 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-16T15:11:56.884435+00:00",
+      "published_at": "2026-07-17T14:51:59.624231+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Anti-Corruption Research Dissemination and Private Sector Sustainability: Evidence from African Anti-Corruption Agencies",
+      "short_title": "Anti-Corruption Research Dissemination and Private Sector Sustainability: Evidence from Africa\u2026",
+      "url": "https://doi.org/10.51583/ijltemas.2026.150600147",
+      "source": "International Journal of Latest Technology in Engineering Management &amp; Applied Science",
+      "published_at": "2026-07-17T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -162,27 +170,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "Disastrous Corruption",
-      "short_title": "Disastrous Corruption",
-      "url": "https://doi.org/10.1177/10911421261466723",
-      "source": "Public Finance Review",
-      "published_at": "2026-07-14T00:00:00+00:00",
+      "title": "Beyond Clean Audits: Do Positive Audit Opinions Translate into Improved Service Delivery? Evidence from Anti-Corruption Agencies in the SADC Region",
+      "short_title": "Beyond Clean Audits: Do Positive Audit Opinions Translate into Improved Service Delivery? Evid\u2026",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.83818",
+      "source": "International Journal For Multidisciplinary Research",
+      "published_at": "2026-07-16T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "The Function of Education in Cultivating an Anti-Corruption Mindset Among Youth at SMA APIPSU Medan",
-      "short_title": "The Function of Education in Cultivating an Anti-Corruption Mindset Among Youth at SMA APIPSU\u2026",
-      "url": "https://doi.org/10.62712/juribmas.v5i1.1405",
-      "source": "Jurnal Hasil Pengabdian Masyarakat (JURIBMAS)",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Effectiveness of Official Development Assistance Within Human Security Framework: A Focus on the Role of Corruption",
-      "short_title": "The Effectiveness of Official Development Assistance Within Human Security Framework: A Focus\u2026",
-      "url": "https://doi.org/10.1002/pad.70105",
-      "source": "Public Administration and Development",
-      "published_at": "2026-07-14T00:00:00+00:00",
+      "title": "Modern Anti-Corruption Policy in the USA, EU, and Ukraine: Medico-Pharmaceutical Law as the Basic of Forensic Pharmaceutical and Criminal Research on the Exclusion of Criminal Actions in Healthcare Institutions",
+      "short_title": "Modern Anti-Corruption Policy in the USA, EU, and Ukraine: Medico-Pharmaceutical Law as the Ba\u2026",
+      "url": "https://doi.org/10.53933/fsr0fb46",
+      "source": "SSP Modern Economics, State and Public Administration",
+      "published_at": "2026-07-16T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
