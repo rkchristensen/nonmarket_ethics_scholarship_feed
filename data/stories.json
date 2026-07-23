@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-07-22T15:15:12.056966+00:00",
+  "updated_at": "2026-07-23T15:22:19.409063+00:00",
   "government": [
+    {
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Value orient QoS-maximisation scheduling with IoT devices for improved data security in cloud",
+      "short_title": "Value orient QoS-maximisation scheduling with IoT devices for improved data security in cloud",
+      "url": "https://doi.org/10.1504/eg.2027.10080157",
+      "source": "Electronic Government, an International Journal",
+      "published_at": "2027-01-01T00:00:00+00:00",
+      "sentiment": "positive"
+    },
     {
       "title": "Using Open-Source Intelligence and a Top Down/Bottom up Approach to Improve Supply Chain Risk Management in a Government Agency",
       "short_title": "Using Open-Source Intelligence and a Top Down/Bottom up Approach to Improve Supply Chain Risk\u2026",
@@ -23,6 +39,14 @@
       "url": "https://doi.org/10.59568/jasic-2025-6-2-04",
       "source": "Journal of Applied Science, Information and Computing",
       "published_at": "2026-12-29T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATION",
+      "short_title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATI\u2026",
+      "url": "https://doi.org/10.32687/0869-866x-2026-34-3-592-597",
+      "source": "Problems of Social Hygiene, Public Health and History of Medicine",
+      "published_at": "2026-12-15T00:00:00+00:00",
       "sentiment": "positive"
     },
     {
@@ -74,11 +98,27 @@
       "sentiment": "positive"
     },
     {
+      "title": "Trust as the bridge: unpacking the impact of perceptions of corruption on voluntary tax compliance",
+      "short_title": "Trust as the bridge: unpacking the impact of perceptions of corruption on voluntary tax compli\u2026",
+      "url": "https://doi.org/10.1108/ijse-12-2025-1196",
+      "source": "International Journal of Social Economics",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-07-23T15:22:18.991665+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-22T15:15:08.749324+00:00",
+      "published_at": "2026-07-23T15:22:16.380871+00:00",
       "sentiment": "negative"
     },
     {
@@ -86,7 +126,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-22T15:15:07.536616+00:00",
+      "published_at": "2026-07-23T15:22:15.711385+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +134,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-22T15:15:07.536533+00:00",
+      "published_at": "2026-07-23T15:22:15.711307+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +142,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-22T15:15:07.536509+00:00",
+      "published_at": "2026-07-23T15:22:15.711284+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +150,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-22T15:15:07.536341+00:00",
+      "published_at": "2026-07-23T15:22:15.711138+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +158,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-22T15:15:07.536255+00:00",
+      "published_at": "2026-07-23T15:22:15.711064+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,8 +166,48 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-22T15:15:07.536137+00:00",
+      "published_at": "2026-07-23T15:22:15.710937+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "The Paradox of anti-Corruption Policy-Making in Contexts of Systemic Corruption: A Conceptual Introduction to the Special Issue",
+      "short_title": "The Paradox of anti-Corruption Policy-Making in Contexts of Systemic Corruption: A Conceptual\u2026",
+      "url": "https://doi.org/10.1080/10999922.2026.2654323",
+      "source": "Public Integrity",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Probative Value of KPPU Decisions in Bid Rigging Corruption under Law Number 20 of 2025",
+      "short_title": "Probative Value of KPPU Decisions in Bid Rigging Corruption under Law Number 20 of 2025",
+      "url": "https://doi.org/10.25041/corruptio.v7i1.5317",
+      "source": "Corruptio",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Challenges to Attaining the SDG 2 (Zero Hunger) and Future Projections: The Criticality of Types of Corruption, Human Rights, and Greenhouse Gas Emissions for Selected Asian Countries",
+      "short_title": "Challenges to Attaining the SDG 2 (Zero Hunger) and Future Projections: The Criticality of Typ\u2026",
+      "url": "https://doi.org/10.1002/sd.71512",
+      "source": "Sustainable Development",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Explaining corruption in the Australian construction union: A critical perspective",
+      "short_title": "Explaining corruption in the Australian construction union: A critical perspective",
+      "url": "https://doi.org/10.1177/00221856261470139",
+      "source": "Journal of Industrial Relations",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Do Small Financial Thresholds and Merit-Based Incentives Increase Primary Students\u2019 Perceived Value and Engagement? Evidence from a Nonprofit English Program",
+      "short_title": "Do Small Financial Thresholds and Merit-Based Incentives Increase Primary Students\u2019 Perceived\u2026",
+      "url": "https://doi.org/10.59543/jidmis.v3.784",
+      "source": "Journal of Intelligent Decision Making and Information Science",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Unwarranted or Warranted? A Jurimetric Analysis of Custodial-Sentence Disparity in Indonesian Corruption Cases after the 2020 Supreme Court Sentencing Guideline",
@@ -144,33 +224,25 @@
       "source": "International Journal of Environmental Design and Construction Management",
       "published_at": "2026-07-21T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "THE ANALYSIS OF ECONOMIC MOTIVES IN CORRUPTION WITHIN THE INVESTIGATION OF CORRUPTION CRIMES",
-      "short_title": "THE ANALYSIS OF ECONOMIC MOTIVES IN CORRUPTION WITHIN THE INVESTIGATION OF CORRUPTION CRIMES",
-      "url": "https://doi.org/10.33102/mjsl.vol14no2.1561",
-      "source": "Malaysian Journal of Syariah and Law",
-      "published_at": "2026-07-20T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Comparative Legal Study on the Death Penalty for Corruption Crimes in China and Indonesia",
-      "short_title": "Comparative Legal Study on the Death Penalty for Corruption Crimes in China and Indonesia",
-      "url": "https://doi.org/10.33506/jlj.v4i2.5351",
-      "source": "Journal of Law Justice (JLJ)",
-      "published_at": "2026-07-20T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "MORAL EDUCATION AND GUIDANCE-SERVICES: PANACEA FOR REDUCING CORRUPTION IN NIGERIAN SCHOOLS",
-      "short_title": "MORAL EDUCATION AND GUIDANCE-SERVICES: PANACEA FOR REDUCING CORRUPTION IN NIGERIAN SCHOOLS",
-      "url": "https://doi.org/10.67295/cjess.v1i1.401",
-      "source": "Contemporary Journal of Education and Social Sciences",
-      "published_at": "2026-07-19T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ],
   "nonprofit": [
+    {
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATION",
+      "short_title": "THE CYBERNETIC DIAGNOSTIC OF ANTI-NARCOTIC SYSTEM: MODEL RAS-VI AS A TOOL OF SYSTEMIC EVALUATI\u2026",
+      "url": "https://doi.org/10.32687/0869-866x-2026-34-3-592-597",
+      "source": "Problems of Social Hygiene, Public Health and History of Medicine",
+      "published_at": "2026-12-15T00:00:00+00:00",
+      "sentiment": "positive"
+    },
     {
       "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
       "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
@@ -188,11 +260,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "A Revolution of Rules: The Regulatory Reform of India\u2019s Nonprofit Sector",
-      "short_title": "A Revolution of Rules: The Regulatory Reform of India\u2019s Nonprofit Sector",
-      "url": "https://doi.org/10.1080/0030851x.2026.2700142",
-      "source": "Pacific Affairs",
-      "published_at": "2026-07-20T00:00:00+00:00",
+      "title": "Do Small Financial Thresholds and Merit-Based Incentives Increase Primary Students\u2019 Perceived Value and Engagement? Evidence from a Nonprofit English Program",
+      "short_title": "Do Small Financial Thresholds and Merit-Based Incentives Increase Primary Students\u2019 Perceived\u2026",
+      "url": "https://doi.org/10.59543/jidmis.v3.784",
+      "source": "Journal of Intelligent Decision Making and Information Science",
+      "published_at": "2026-07-23T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
