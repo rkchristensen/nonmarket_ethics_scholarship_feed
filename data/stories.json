@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T15:21:19.772526+00:00",
+  "updated_at": "2026-07-31T15:27:41.549176+00:00",
   "government": [
     {
       "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
@@ -26,11 +26,75 @@
       "sentiment": "positive"
     },
     {
+      "title": "Digital innovation for strategic decision-making in the Ministry of Foreign Affairs: integrating ERP systems, data analytics, and digital governance",
+      "short_title": "Digital innovation for strategic decision-making in the Ministry of Foreign Affairs: integrati\u2026",
+      "url": "https://doi.org/10.35429/jed.2026.13.33.3.1.18",
+      "source": "Revista de Desarrollo Econ\u00f3mico",
+      "published_at": "2026-12-30T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Strengthening Coastal Resilience through Science-Based Mangrove Governance in Davao Occidental, Philippines",
+      "short_title": "Strengthening Coastal Resilience through Science-Based Mangrove Governance in Davao Occidental\u2026",
+      "url": "https://doi.org/10.64656/spamastrj.v9i1.45",
+      "source": "SPAMAST Research Journal",
+      "published_at": "2026-12-30T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Decoding Moral Vulnerability in AI Environments:A Case Study of Algorithmic Governance and Policy Implications",
+      "short_title": "Decoding Moral Vulnerability in AI Environments:A Case Study of Algorithmic Governance and Pol\u2026",
+      "url": "https://doi.org/10.63355/iab1827",
+      "source": "Aledari",
+      "published_at": "2026-12-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
+      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
+      "url": "https://doi.org/10.69548/jisrev.2.2.83",
+      "source": "JISRev: Journal of Islamic Studies Review",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
+      "short_title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
+      "url": "https://doi.org/10.1016/j.healthpol.2026.105693",
+      "source": "Health Policy",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Combating Corruption in the Migration Sector: The History and the Present Time",
+      "short_title": "Combating Corruption in the Migration Sector: The History and the Present Time",
+      "url": "https://doi.org/10.18572/2071-1182-2026-3-22-26",
+      "source": "Migration LAW",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised machine learning",
+      "short_title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised mach\u2026",
+      "url": "https://doi.org/10.1016/j.giq.2026.102158",
+      "source": "Government Information Quarterly",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Role of Digital Technologies in Minimizing the Causes and Conditions of Corruption",
+      "short_title": "The Role of Digital Technologies in Minimizing the Causes and Conditions of Corruption",
+      "url": "https://doi.org/10.18572/1812-3791-2026-8-46-48",
+      "source": "RUSSIAN JUDGE",
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "AI Regulation and Its Social Impacts on Public Policy",
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-07-30T15:21:17.915709+00:00",
+      "published_at": "2026-07-31T15:27:40.872826+00:00",
       "sentiment": "positive"
     },
     {
@@ -38,7 +102,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-07-30T15:21:15.438524+00:00",
+      "published_at": "2026-07-31T15:27:36.984926+00:00",
       "sentiment": "negative"
     },
     {
@@ -46,7 +110,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-30T15:21:14.600546+00:00",
+      "published_at": "2026-07-31T15:27:35.610691+00:00",
       "sentiment": "positive"
     },
     {
@@ -54,7 +118,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-30T15:21:14.600440+00:00",
+      "published_at": "2026-07-31T15:27:35.610612+00:00",
       "sentiment": "positive"
     },
     {
@@ -62,7 +126,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-07-30T15:21:14.600412+00:00",
+      "published_at": "2026-07-31T15:27:35.610589+00:00",
       "sentiment": "positive"
     },
     {
@@ -70,7 +134,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-30T15:21:14.600235+00:00",
+      "published_at": "2026-07-31T15:27:35.610438+00:00",
       "sentiment": "negative"
     },
     {
@@ -78,7 +142,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-07-30T15:21:14.600149+00:00",
+      "published_at": "2026-07-31T15:27:35.610373+00:00",
       "sentiment": "negative"
     },
     {
@@ -86,7 +150,55 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-07-30T15:21:14.600025+00:00",
+      "published_at": "2026-07-31T15:27:35.610273+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "AI-based functional expense classification for nonprofit financial reporting and form 990 compliance",
+      "short_title": "AI-based functional expense classification for nonprofit financial reporting and form 990 comp\u2026",
+      "url": "https://doi.org/10.30574/ijsra.2026.20.1.1437",
+      "source": "International Journal of Science and Research Archive",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Anti-Corruption Law In Vietnam: Limitations In Design And Implementation, Orientations For Improving The Legal System",
+      "short_title": "Anti-Corruption Law In Vietnam: Limitations In Design And Implementation, Orientations For Imp\u2026",
+      "url": "https://doi.org/10.62810/jssh.v3i3.196",
+      "source": "Journal of Social Sciences and Humanities",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "40 Years of Corruption Research in China: Theory, Evidence, and Future Directions",
+      "short_title": "40 Years of Corruption Research in China: Theory, Evidence, and Future Directions",
+      "url": "https://doi.org/10.1177/15396754261465832",
+      "source": "Chinese Public Administration Review",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Development of Anti-Corruption Law in Post-Soviet Countries: Russia and the Baltics",
+      "short_title": "The Development of Anti-Corruption Law in Post-Soviet Countries: Russia and the Baltics",
+      "url": "https://doi.org/10.18572/1812-3767-2026-7-59-63",
+      "source": "CONSTITUTIONAL AND MUNICIPAL LAW",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Role Of The Prosecutor in Optimizing The Implementation of Criminal Sentences in Additional to the Payment of Supervisory Money by Convicted Corruption Criminal Acts (The Dilemmatic of Supervisory Money Recorded as State Receivables)",
+      "short_title": "The Role Of The Prosecutor in Optimizing The Implementation of Criminal Sentences in Additiona\u2026",
+      "url": "https://doi.org/10.62710/0ds71g33",
+      "source": "Jurnal Ragam Pengabdian",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Culture of Integrity and Anti-Corruption Perception in The Governance of Religious Universities: An Analysis of the Anti-Corruption Perception Index at UIN Prof. K.H. Saifuddin Zuhri Purwokerto",
+      "short_title": "Culture of Integrity and Anti-Corruption Perception in The Governance of Religious Universitie\u2026",
+      "url": "https://doi.org/10.47191/ijsshr/v9-i7-53",
+      "source": "International Journal of Social Science and Human Research",
+      "published_at": "2026-07-29T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
@@ -98,6 +210,38 @@
       "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
       "published_at": "2027-01-11T00:00:00+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
+      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
+      "url": "https://doi.org/10.69548/jisrev.2.2.83",
+      "source": "JISRev: Journal of Islamic Studies Review",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "AI-based functional expense classification for nonprofit financial reporting and form 990 compliance",
+      "short_title": "AI-based functional expense classification for nonprofit financial reporting and form 990 comp\u2026",
+      "url": "https://doi.org/10.30574/ijsra.2026.20.1.1437",
+      "source": "International Journal of Science and Research Archive",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "40 Years of Corruption Research in China: Theory, Evidence, and Future Directions",
+      "short_title": "40 Years of Corruption Research in China: Theory, Evidence, and Future Directions",
+      "url": "https://doi.org/10.1177/15396754261465832",
+      "source": "Chinese Public Administration Review",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Culture of Integrity and Anti-Corruption Perception in The Governance of Religious Universities: An Analysis of the Anti-Corruption Perception Index at UIN Prof. K.H. Saifuddin Zuhri Purwokerto",
+      "short_title": "Culture of Integrity and Anti-Corruption Perception in The Governance of Religious Universitie\u2026",
+      "url": "https://doi.org/10.47191/ijsshr/v9-i7-53",
+      "source": "International Journal of Social Science and Human Research",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "sentiment": "negative"
     }
   ]
 }
