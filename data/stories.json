@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-02T14:42:11.088376+00:00",
+  "updated_at": "2026-08-03T15:50:11.279237+00:00",
   "government": [
+    {
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
+      "sentiment": "positive"
+    },
     {
       "title": "Value orient QoS-maximisation scheduling with IoT devices for improved data security in cloud",
       "short_title": "Value orient QoS-maximisation scheduling with IoT devices for improved data security in cloud",
@@ -42,59 +50,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
-      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
-      "url": "https://doi.org/10.69548/jisrev.2.2.83",
-      "source": "JISRev: Journal of Islamic Studies Review",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
-      "short_title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
-      "url": "https://doi.org/10.1016/j.healthpol.2026.105693",
-      "source": "Health Policy",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Combating Corruption in the Migration Sector: The History and the Present Time",
-      "short_title": "Combating Corruption in the Migration Sector: The History and the Present Time",
-      "url": "https://doi.org/10.18572/2071-1182-2026-3-22-26",
-      "source": "Migration LAW",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised machine learning",
-      "short_title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised mach\u2026",
-      "url": "https://doi.org/10.1016/j.giq.2026.102158",
-      "source": "Government Information Quarterly",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Role of Digital Technologies in Minimizing the Causes and Conditions of Corruption",
-      "short_title": "The Role of Digital Technologies in Minimizing the Causes and Conditions of Corruption",
-      "url": "https://doi.org/10.18572/1812-3791-2026-8-46-48",
-      "source": "RUSSIAN JUDGE",
-      "published_at": "2026-08-13T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-02T14:42:08.212313+00:00",
-      "sentiment": "negative"
+      "title": "AI Regulation and Its Social Impacts on Public Policy",
+      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
+      "url": "https://doi.org/10.55737/rl.v5i1.26181",
+      "source": "Regional Lens",
+      "published_at": "2026-08-03T15:50:10.686015+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Data Science as a Catalyst for Audit Transformation",
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-02T14:42:07.595262+00:00",
+      "published_at": "2026-08-03T15:50:07.012004+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +70,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-02T14:42:07.595196+00:00",
+      "published_at": "2026-08-03T15:50:07.011924+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +78,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-02T14:42:07.595178+00:00",
+      "published_at": "2026-08-03T15:50:07.011899+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +86,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-02T14:42:07.595058+00:00",
+      "published_at": "2026-08-03T15:50:07.011736+00:00",
       "sentiment": "negative"
     },
     {
@@ -126,7 +94,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-02T14:42:07.594987+00:00",
+      "published_at": "2026-08-03T15:50:07.011671+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,65 +102,17 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-02T14:42:07.594900+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Anti-Corruption Law in Vietnam : Limitations in Design and Implementation, Orientations for Improving the Legal System",
-      "short_title": "Anti-Corruption Law in Vietnam : Limitations in Design and Implementation, Orientations for Im\u2026",
-      "url": "https://doi.org/10.62810/jssh.v3i3.196",
-      "source": "Journal of Social Sciences and Humanities",
-      "published_at": "2026-08-02T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Which stage of pharmaceutical procurement is perceived to be most vulnerable to corruption in public tertiary hospitals in Enugu State, Nigeria?",
-      "short_title": "Which stage of pharmaceutical procurement is perceived to be most vulnerable to corruption in\u2026",
-      "url": "https://doi.org/10.1186/s13561-026-00837-6",
-      "source": "Health Economics Review",
-      "published_at": "2026-08-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Engineering Expertise as a Legal Tool for Combating Corruption in Projects of Entities Subject to the Provisions of Federal Decree-Law No. (56) of 2023 Regarding the UAE Accountability Authority",
-      "short_title": "Engineering Expertise as a Legal Tool for Combating Corruption in Projects of Entities Subject\u2026",
-      "url": "https://doi.org/10.53796/hnsj78/10",
-      "source": "Humanitarian and Natural Sciences Journal",
-      "published_at": "2026-08-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AI-based functional expense classification for nonprofit financial reporting and form 990 compliance",
-      "short_title": "AI-based functional expense classification for nonprofit financial reporting and form 990 comp\u2026",
-      "url": "https://doi.org/10.30574/ijsra.2026.20.1.1437",
-      "source": "International Journal of Science and Research Archive",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "A Critical Study of National Solidarity, Patriotism and Corruption in Imran Khan's Address to the Nation",
-      "short_title": "A Critical Study of National Solidarity, Patriotism and Corruption in Imran Khan's Address to\u2026",
-      "url": "https://doi.org/10.63056/jllsa.2.7.2026.222",
-      "source": "Journal of Language, Literature &amp; Social Affairs",
-      "published_at": "2026-07-31T00:00:00+00:00",
+      "published_at": "2026-08-03T15:50:07.011573+00:00",
       "sentiment": "negative"
     }
   ],
   "nonprofit": [
     {
-      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
-      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
-      "url": "https://doi.org/10.69548/jisrev.2.2.83",
-      "source": "JISRev: Journal of Islamic Studies Review",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AI-based functional expense classification for nonprofit financial reporting and form 990 compliance",
-      "short_title": "AI-based functional expense classification for nonprofit financial reporting and form 990 comp\u2026",
-      "url": "https://doi.org/10.30574/ijsra.2026.20.1.1437",
-      "source": "International Journal of Science and Research Archive",
-      "published_at": "2026-07-31T00:00:00+00:00",
+      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
+      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
+      "url": "https://doi.org/10.47259/ijrebs.2026.711",
+      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
+      "published_at": "2027-01-11T00:00:00+00:00",
       "sentiment": "positive"
     }
   ]
