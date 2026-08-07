@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-08-05T15:25:23.587833+00:00",
+  "updated_at": "2026-08-07T14:17:27.234547+00:00",
   "government": [
-    {
-      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
-      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
-      "url": "https://doi.org/10.47259/ijrebs.2026.711",
-      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
-      "published_at": "2027-01-11T00:00:00+00:00",
-      "sentiment": "positive"
-    },
     {
       "title": "The Role of Government Structure in the Emergence of Crimes Against Humanity",
       "short_title": "The Role of Government Structure in the Emergence of Crimes Against Humanity",
@@ -58,22 +50,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on Sustainable Development Standards",
-      "short_title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on S\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.338",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
       "title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of Relevant Regulations under the Civil Code",
       "short_title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of R\u2026",
       "url": "https://doi.org/10.61838/jhrlp.308",
@@ -82,36 +58,12 @@
       "sentiment": "positive"
     },
     {
-      "title": "The Effects of Domestic Policies of Governments Before and After the Revolution in Alignment with the Command Economy Model",
-      "short_title": "The Effects of Domestic Policies of Governments Before and After the Revolution in Alignment w\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.268",
+      "title": "Evaluation of Iran's Legislative Criminal Policy on the Smuggling of Goods and Currency via Official Channels: A Critical Analysis of the 2013 Anti\u2011Smuggling Law and Its 2021 Amendments",
+      "short_title": "Evaluation of Iran's Legislative Criminal Policy on the Smuggling of Goods and Currency via Of\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.361",
       "source": "Journal of Historical Research, Law and Policy",
       "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "A Legal Analysis of Land Reform in Iran: Historical and Socio-Legal Perspectives",
-      "short_title": "A Legal Analysis of Land Reform in Iran: Historical and Socio-Legal Perspectives",
-      "url": "https://doi.org/10.61838/jhrlp.374",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Digital innovation for strategic decision-making in the Ministry of Foreign Affairs: integrating ERP systems, data analytics, and digital governance",
-      "short_title": "Digital innovation for strategic decision-making in the Ministry of Foreign Affairs: integrati\u2026",
-      "url": "https://doi.org/10.35429/jed.2026.13.33.3.1.18",
-      "source": "Revista de Desarrollo Econ\u00f3mico",
-      "published_at": "2026-12-30T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Strengthening Coastal Resilience through Science-Based Mangrove Governance in Davao Occidental, Philippines",
-      "short_title": "Strengthening Coastal Resilience through Science-Based Mangrove Governance in Davao Occidental\u2026",
-      "url": "https://doi.org/10.64656/spamastrj.v9i1.45",
-      "source": "SPAMAST Research Journal",
-      "published_at": "2026-12-30T00:00:00+00:00",
-      "sentiment": "positive"
+      "sentiment": "negative"
     },
     {
       "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
@@ -134,6 +86,14 @@
       "short_title": "The Role of Ethics in the Implementation of Anti-Corruption Standards for Civil Servants in Ru\u2026",
       "url": "https://doi.org/10.18572/1812-3910-2026-3-42-46",
       "source": "Public International and Private International Law",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Concept of Anti-Corruption Propaganda",
+      "short_title": "The Concept of Anti-Corruption Propaganda",
+      "url": "https://doi.org/10.18572/2072-3636-2026-3-36-39",
+      "source": "COURT ADMINISTRATOR",
       "published_at": "2026-09-03T00:00:00+00:00",
       "sentiment": "negative"
     },
@@ -162,6 +122,78 @@
       "sentiment": "negative"
     },
     {
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-08-07T14:17:23.815574+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Data Science as a Catalyst for Audit Transformation",
+      "short_title": "Data Science as a Catalyst for Audit Transformation",
+      "url": "https://doi.org/10.56251/clyp9463",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-08-07T14:17:23.154654+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
+      "url": "https://doi.org/10.56251/tydf1981",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-08-07T14:17:23.154576+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Killer Robots \u2013 A Case for SAIs",
+      "short_title": "Killer Robots \u2013 A Case for SAIs",
+      "url": "https://doi.org/10.56251/ojyp9121",
+      "source": "International Journal of Government Auditing",
+      "published_at": "2026-08-07T14:17:23.154555+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
+      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-08-07T14:17:23.154417+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
+      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0018",
+      "source": "Gestion et management public",
+      "published_at": "2026-08-07T14:17:23.154353+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
+      "url": "https://doi.org/10.12747/bejr2013.01.08",
+      "source": "Business Ethics Journal Review",
+      "published_at": "2026-08-07T14:17:23.154257+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Corporate Corruption: A Scoping Review and a Dynamic Model of Its Antecedents",
+      "short_title": "Corporate Corruption: A Scoping Review and a Dynamic Model of Its Antecedents",
+      "url": "https://doi.org/10.1007/s10551-026-06431-4",
+      "source": "Journal of Business Ethics",
+      "published_at": "2026-08-07T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Role of Governance in Combating Administrative Corruption in Lebanon",
+      "short_title": "The Role of Governance in Combating Administrative Corruption in Lebanon",
+      "url": "https://doi.org/10.59992/ijlrs.2026.v5n8p1",
+      "source": "International Journal of Law Research and Studies",
+      "published_at": "2026-08-06T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Digital trust and its influence on combating corruption and sustainable ICT: an application of novel bootstrap quantile regression approach",
       "short_title": "Digital trust and its influence on combating corruption and sustainable ICT: an application of\u2026",
       "url": "https://doi.org/10.1108/jices-06-2025-0139",
@@ -170,123 +202,27 @@
       "sentiment": "negative"
     },
     {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-08-05T15:25:23.329085+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-05T15:25:19.120199+00:00",
+      "title": "Saving \u2018the Savior\u2019: The Mediating Role of Illegitimacy on the Relationship between Two Modes of Patriotism and Anti-Corruption Collective Protest Among Law Students",
+      "short_title": "Saving \u2018the Savior\u2019: The Mediating Role of Illegitimacy on the Relationship between Two Modes\u2026",
+      "url": "https://doi.org/10.24425/ppb.2026.153998",
+      "source": "Polish Psychological Bulletin",
+      "published_at": "2026-08-05T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Data Science as a Catalyst for Audit Transformation",
-      "short_title": "Data Science as a Catalyst for Audit Transformation",
-      "url": "https://doi.org/10.56251/clyp9463",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-05T15:25:18.304820+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
-      "url": "https://doi.org/10.56251/tydf1981",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-05T15:25:18.304627+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Killer Robots \u2013 A Case for SAIs",
-      "short_title": "Killer Robots \u2013 A Case for SAIs",
-      "url": "https://doi.org/10.56251/ojyp9121",
-      "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-05T15:25:18.304571+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The dark side of public service motivation : Analysis of noble cause corruption based on the Lebanese case",
-      "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
-      "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-05T15:25:18.304277+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause noble \u00e0 partir du cas libanais",
-      "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0018",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-05T15:25:18.304146+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Market Failure or Government Failure? A Response to Jaworski",
-      "short_title": "Market Failure or Government Failure? A Response to Jaworski",
-      "url": "https://doi.org/10.12747/bejr2013.01.08",
-      "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-05T15:25:18.303968+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Collaborative Governance in Palm Oil Permit Enforcement: Anti-Corruption Supervision, Indigenous Rights, and Sustainable Development in West Papua",
-      "short_title": "Collaborative Governance in Palm Oil Permit Enforcement: Anti-Corruption Supervision, Indigeno\u2026",
-      "url": "https://doi.org/10.59261/jbt.v7i3.702",
-      "source": "Journal of Business, Social and Technology",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "A LEGAL AND CONSTITUTIONAL ANALYSIS OF MAJOR INSTITUTIONAL EMBEZZLEMENT AND CAPTURE SCHEMES IN LIGHT OF THE FEDERAL CONSTITUTION, ANTI-CORRUPTION LEGISLATION, AND THE JURISPRUDENCE OF THE SUPERIOR COURTS",
-      "short_title": "A LEGAL AND CONSTITUTIONAL ANALYSIS OF MAJOR INSTITUTIONAL EMBEZZLEMENT AND CAPTURE SCHEMES IN\u2026",
-      "url": "https://doi.org/10.51249/gei.v7i04.3125",
-      "source": "Revista G\u00eanero e Interdisciplinaridade",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Can information backfire? How corruption experience and media information shape anti-corruption willingness",
-      "short_title": "Can information backfire? How corruption experience and media information shape anti-corruptio\u2026",
-      "url": "https://doi.org/10.1080/23276665.2026.2713435",
-      "source": "Asia Pacific Journal of Public Administration",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Pedagogy of Anti-Corruption Education: Conceptual Foundations and Implementation Tools",
-      "short_title": "Pedagogy of Anti-Corruption Education: Conceptual Foundations and Implementation Tools",
-      "url": "https://doi.org/10.12737/2500-0543-2026-11-3-42-56",
-      "source": "Applied psychology and pedagogy",
-      "published_at": "2026-08-03T00:00:00+00:00",
+      "title": "The Hollowing Out of Nonprofit News: An Ethnographic Investigation into the Implications of Exploited News Workers",
+      "short_title": "The Hollowing Out of Nonprofit News: An Ethnographic Investigation into the Implications of Ex\u2026",
+      "url": "https://doi.org/10.1177/10776990261472457",
+      "source": "Journalism &amp; Mass Communication Quarterly",
+      "published_at": "2026-08-05T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
   "nonprofit": [
     {
-      "title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy Implications",
-      "short_title": "Customer Experiences with Airline Refunds: An Analysis of Procedures, Challenges, and Policy I\u2026",
-      "url": "https://doi.org/10.47259/ijrebs.2026.711",
-      "source": "International Journal of Research in Entrepreneurship &amp; Business Studies",
-      "published_at": "2027-01-11T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
       "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
       "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
       "url": "https://doi.org/10.61838/jhrlp.380",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
       "source": "Journal of Historical Research, Law and Policy",
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive"
@@ -300,20 +236,12 @@
       "sentiment": "negative"
     },
     {
-      "title": "Collaborative Governance in Palm Oil Permit Enforcement: Anti-Corruption Supervision, Indigenous Rights, and Sustainable Development in West Papua",
-      "short_title": "Collaborative Governance in Palm Oil Permit Enforcement: Anti-Corruption Supervision, Indigeno\u2026",
-      "url": "https://doi.org/10.59261/jbt.v7i3.702",
-      "source": "Journal of Business, Social and Technology",
-      "published_at": "2026-08-04T00:00:00+00:00",
+      "title": "The Hollowing Out of Nonprofit News: An Ethnographic Investigation into the Implications of Exploited News Workers",
+      "short_title": "The Hollowing Out of Nonprofit News: An Ethnographic Investigation into the Implications of Ex\u2026",
+      "url": "https://doi.org/10.1177/10776990261472457",
+      "source": "Journalism &amp; Mass Communication Quarterly",
+      "published_at": "2026-08-05T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Application of the balanced scorecard (BSC) model in performance management of nonprofit organizations: the case of UNICEF&lt;b&gt;&lt;/b&gt;",
-      "short_title": "Application of the balanced scorecard (BSC) model in performance management of nonprofit organ\u2026",
-      "url": "https://doi.org/10.71159/bizinfo260019d",
-      "source": "BizInfo Blace",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "sentiment": "positive"
     }
   ]
 }
