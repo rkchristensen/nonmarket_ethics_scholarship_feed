@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:50:55.760477+00:00",
+  "updated_at": "2026-08-18T13:54:38.872536+00:00",
   "government": [
     {
       "title": "The Role of Government Structure in the Emergence of Crimes Against Humanity",
@@ -34,14 +34,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption in Afghanistan during the Republican Period (2004\u20132021)",
-      "short_title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.383",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
       "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
       "url": "https://doi.org/10.61838/jhrlp.389",
@@ -58,131 +50,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of Relevant Regulations under the Civil Code",
-      "short_title": "Identifying Legal Solutions to Resolve Conflicts of Property Rights in the Implementation of R\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.308",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Corporate corruption under local government financial stress: The role of land finance in China",
-      "short_title": "Corporate corruption under local government financial stress: The role of land finance in China",
-      "url": "https://doi.org/10.1016/j.jcae.2026.100583",
-      "source": "Journal of Contemporary Accounting &amp; Economics",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, rule of law, and women in parliament",
-      "short_title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, r\u2026",
-      "url": "https://doi.org/10.1016/j.ssaho.2026.103357",
-      "source": "Social Sciences &amp; Humanities Open",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
-      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
-      "url": "https://doi.org/10.69548/jisrev.2.2.83",
-      "source": "JISRev: Journal of Islamic Studies Review",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
-      "short_title": "Corruption and public healthcare quality in the European Union: Evidence from Europe\u2019s regions",
-      "url": "https://doi.org/10.1016/j.healthpol.2026.105693",
-      "source": "Health Policy",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Role of Ethics in the Implementation of Anti-Corruption Standards for Civil Servants in Russia and China",
-      "short_title": "The Role of Ethics in the Implementation of Anti-Corruption Standards for Civil Servants in Ru\u2026",
-      "url": "https://doi.org/10.18572/1812-3910-2026-3-42-46",
-      "source": "Public International and Private International Law",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The Concept of Anti-Corruption Propaganda",
-      "short_title": "The Concept of Anti-Corruption Propaganda",
-      "url": "https://doi.org/10.18572/2072-3636-2026-3-36-39",
-      "source": "COURT ADMINISTRATOR",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Combating Corruption in the Migration Sector: The History and the Present Time",
-      "short_title": "Combating Corruption in the Migration Sector: The History and the Present Time",
-      "url": "https://doi.org/10.18572/2071-1182-2026-3-22-26",
-      "source": "Migration LAW",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
-      "short_title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial\u2026",
-      "url": "https://doi.org/10.1016/j.giq.2026.102167",
-      "source": "Government Information Quarterly",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised machine learning",
-      "short_title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised mach\u2026",
-      "url": "https://doi.org/10.1016/j.giq.2026.102158",
-      "source": "Government Information Quarterly",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Enforceability of Court Judgements in Anti-Corruption Claims: Cross-Border and National Dimensions",
-      "short_title": "Enforceability of Court Judgements in Anti-Corruption Claims: Cross-Border and National Dimens\u2026",
-      "url": "https://doi.org/10.18572/1812-383x-2026-8-42-45",
-      "source": "Arbitrazh-Civil Procedure",
-      "published_at": "2026-08-20T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Some Features of Determining the Proper Defendants in Anti-Corruption Lawsuits",
-      "short_title": "Some Features of Determining the Proper Defendants in Anti-Corruption Lawsuits",
-      "url": "https://doi.org/10.18572/1812-383x-2026-8-22-25",
-      "source": "Arbitrazh-Civil Procedure",
-      "published_at": "2026-08-20T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Cross-Border Public Order in International Civil Proceedings: The Example of the Principle of \u201cNon-Acceptance of Corruption\u201d",
-      "short_title": "Cross-Border Public Order in International Civil Proceedings: The Example of the Principle of\u2026",
-      "url": "https://doi.org/10.18572/1812-383x-2026-8-32-34",
-      "source": "Arbitrazh-Civil Procedure",
-      "published_at": "2026-08-20T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-08-17T13:50:55.490465+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-08-17T13:50:52.000641+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Data Science as a Catalyst for Audit Transformation",
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-17T13:50:50.618051+00:00",
+      "published_at": "2026-08-18T13:54:34.573299+00:00",
       "sentiment": "positive"
     },
     {
@@ -190,7 +62,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-17T13:50:50.617972+00:00",
+      "published_at": "2026-08-18T13:54:34.573218+00:00",
       "sentiment": "positive"
     },
     {
@@ -198,7 +70,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-17T13:50:50.617950+00:00",
+      "published_at": "2026-08-18T13:54:34.573195+00:00",
       "sentiment": "positive"
     },
     {
@@ -206,7 +78,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-17T13:50:50.617809+00:00",
+      "published_at": "2026-08-18T13:54:34.573046+00:00",
       "sentiment": "negative"
     },
     {
@@ -214,7 +86,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-17T13:50:50.617744+00:00",
+      "published_at": "2026-08-18T13:54:34.572978+00:00",
       "sentiment": "negative"
     },
     {
@@ -222,7 +94,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-17T13:50:50.617642+00:00",
+      "published_at": "2026-08-18T13:54:34.572873+00:00",
       "sentiment": "negative"
     }
   ],
@@ -242,14 +114,6 @@
       "source": "Journal of Historical Research, Law and Policy",
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
-      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
-      "url": "https://doi.org/10.69548/jisrev.2.2.83",
-      "source": "JISRev: Journal of Islamic Studies Review",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ]
 }
