@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T13:56:04.845478+00:00",
+  "updated_at": "2026-08-22T13:42:50.352334+00:00",
   "government": [
     {
       "title": "The Role of Government Structure in the Emergence of Crimes Against Humanity",
@@ -134,7 +134,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-08-21T13:56:01.687752+00:00",
+      "published_at": "2026-08-22T13:42:47.287521+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-21T13:56:00.586249+00:00",
+      "published_at": "2026-08-22T13:42:46.699515+00:00",
       "sentiment": "positive"
     },
     {
@@ -150,7 +150,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-21T13:56:00.586169+00:00",
+      "published_at": "2026-08-22T13:42:46.699428+00:00",
       "sentiment": "positive"
     },
     {
@@ -158,7 +158,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-21T13:56:00.586147+00:00",
+      "published_at": "2026-08-22T13:42:46.699404+00:00",
       "sentiment": "positive"
     },
     {
@@ -166,7 +166,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-21T13:56:00.585985+00:00",
+      "published_at": "2026-08-22T13:42:46.699250+00:00",
       "sentiment": "negative"
     },
     {
@@ -174,7 +174,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-21T13:56:00.585918+00:00",
+      "published_at": "2026-08-22T13:42:46.699180+00:00",
       "sentiment": "negative"
     },
     {
@@ -182,43 +182,51 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-21T13:56:00.585816+00:00",
+      "published_at": "2026-08-22T13:42:46.699079+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Corruption and Economic Growth in Nigeria",
-      "short_title": "Corruption and Economic Growth in Nigeria",
-      "url": "https://doi.org/10.56201/ijebm.vol.12.no5.2026.pg269.299",
-      "source": "IIARD INTERNATIONAL JOURNAL OF ECONOMICS AND BUSINESS MANAGEMENT",
-      "published_at": "2026-08-20T00:00:00+00:00",
+      "title": "Corruption and growth: lessons from Kenya and South Sudan: a systematic review",
+      "short_title": "Corruption and growth: lessons from Kenya and South Sudan: a systematic review",
+      "url": "https://doi.org/10.1186/s43093-026-00960-0",
+      "source": "Future Business Journal",
+      "published_at": "2026-08-21T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Enforceability of Court Judgements in Anti-Corruption Claims: Cross-Border and National Dimensions",
-      "short_title": "Enforceability of Court Judgements in Anti-Corruption Claims: Cross-Border and National Dimens\u2026",
-      "url": "https://doi.org/10.18572/1812-383x-2026-8-42-45",
-      "source": "Arbitrazh-Civil Procedure",
-      "published_at": "2026-08-20T00:00:00+00:00",
+      "title": "Corruption and Its Implication for Development in Nigeria",
+      "short_title": "Corruption and Its Implication for Development in Nigeria",
+      "url": "https://doi.org/10.56201/ijefm.v10.no2.2025.pg58.77",
+      "source": "International Journal of Economics and Financial Management",
+      "published_at": "2026-08-21T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Why Comply? Explaining Sectoral Patterns in GRECO 'S Anti\u2010Corruption Recommendations",
-      "short_title": "Why Comply? Explaining Sectoral Patterns in GRECO 'S Anti\u2010Corruption Recommendations",
-      "url": "https://doi.org/10.1111/rego.70198",
-      "source": "Regulation &amp; Governance",
-      "published_at": "2026-08-20T00:00:00+00:00",
+      "title": "Pengembalian Aset Hasil Tindak Pidana Korupsi Melalui Instrumen Hukum Perdata: Analisis Normatif Pasca Ratifikasi United Nations Convention Against Corruption",
+      "short_title": "Pengembalian Aset Hasil Tindak Pidana Korupsi Melalui Instrumen Hukum Perdata: Analisis Normat\u2026",
+      "url": "https://doi.org/10.55681/seikat.v5i4.3214",
+      "source": "SEIKAT: Jurnal Ilmu Sosial, Politik dan Hukum",
+      "published_at": "2026-08-21T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Some Features of Determining the Proper Defendants in Anti-Corruption Lawsuits",
-      "short_title": "Some Features of Determining the Proper Defendants in Anti-Corruption Lawsuits",
-      "url": "https://doi.org/10.18572/1812-383x-2026-8-22-25",
-      "source": "Arbitrazh-Civil Procedure",
-      "published_at": "2026-08-20T00:00:00+00:00",
+      "title": "William Hanson and the Texas-Mexico Border: Violence, Corruption, and the Making of the Gatekeeper State. By John Weber",
+      "short_title": "William Hanson and the Texas-Mexico Border: Violence, Corruption, and the Making of the Gateke\u2026",
+      "url": "https://doi.org/10.1093/whq/whag051",
+      "source": "The Western Historical Quarterly",
+      "published_at": "2026-08-21T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
   "nonprofit": [
+    {
+      "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
+      "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.380",
+      "source": "Journal of Historical Research, Law and Policy",
+      "published_at": "2027-01-01T00:00:00+00:00",
+      "sentiment": "positive"
+    },
     {
       "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
       "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
