@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:02:01.847869+00:00",
+  "updated_at": "2026-08-27T22:56:57.129647+00:00",
   "government": [
     {
       "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
@@ -42,35 +42,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on Sustainable Development Standards",
-      "short_title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on S\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.338",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-08-26T14:02:01.241389+00:00",
-      "sentiment": "positive"
-    },
-    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-08-26T14:01:57.922257+00:00",
+      "published_at": "2026-08-27T22:56:54.336106+00:00",
       "sentiment": "negative"
     },
     {
@@ -78,7 +54,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-26T14:01:57.560462+00:00",
+      "published_at": "2026-08-27T22:56:53.704478+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +62,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-26T14:01:57.560391+00:00",
+      "published_at": "2026-08-27T22:56:53.704410+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +70,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-08-26T14:01:57.560382+00:00",
+      "published_at": "2026-08-27T22:56:53.704402+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +78,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-26T14:01:57.560260+00:00",
+      "published_at": "2026-08-27T22:56:53.704284+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +86,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-08-26T14:01:57.560204+00:00",
+      "published_at": "2026-08-27T22:56:53.704199+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,7 +94,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-08-26T14:01:57.560118+00:00",
+      "published_at": "2026-08-27T22:56:53.704105+00:00",
       "sentiment": "negative"
     }
   ],
@@ -127,14 +103,6 @@
       "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
       "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
       "url": "https://doi.org/10.61838/jhrlp.380",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
       "source": "Journal of Historical Research, Law and Policy",
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive"
