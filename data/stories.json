@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:00:55.464195+00:00",
+  "updated_at": "2026-09-12T16:17:35.660893+00:00",
   "government": [
     {
       "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
@@ -118,7 +118,7 @@
       "short_title": "AI Regulation and Its Social Impacts on Public Policy",
       "url": "https://doi.org/10.55737/rl.v5i1.26181",
       "source": "Regional Lens",
-      "published_at": "2026-09-11T17:00:53.627808+00:00",
+      "published_at": "2026-09-12T16:17:34.103229+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +126,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-09-11T17:00:41.435406+00:00",
+      "published_at": "2026-09-12T16:17:24.124199+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +134,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-09-11T17:00:40.126381+00:00",
+      "published_at": "2026-09-12T16:17:22.934545+00:00",
       "sentiment": "positive"
     },
     {
@@ -142,7 +142,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-11T17:00:40.126302+00:00",
+      "published_at": "2026-09-12T16:17:22.934431+00:00",
       "sentiment": "positive"
     },
     {
@@ -150,7 +150,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-11T17:00:40.126237+00:00",
+      "published_at": "2026-09-12T16:17:22.934331+00:00",
       "sentiment": "positive"
     },
     {
@@ -158,7 +158,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-11T17:00:40.126228+00:00",
+      "published_at": "2026-09-12T16:17:22.934317+00:00",
       "sentiment": "positive"
     },
     {
@@ -166,7 +166,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-11T17:00:40.126112+00:00",
+      "published_at": "2026-09-12T16:17:22.934151+00:00",
       "sentiment": "negative"
     },
     {
@@ -174,7 +174,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-11T17:00:40.126045+00:00",
+      "published_at": "2026-09-12T16:17:22.934053+00:00",
       "sentiment": "negative"
     },
     {
@@ -182,7 +182,23 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-09-11T17:00:40.125947+00:00",
+      "published_at": "2026-09-12T16:17:22.933943+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Rethinking Anti-Corruption Reform in Sierra Leone: A Typology of Local Agency in Hybrid Accountability Systems",
+      "short_title": "Rethinking Anti-Corruption Reform in Sierra Leone: A Typology of Local Agency in Hybrid Accoun\u2026",
+      "url": "https://doi.org/10.1177/00027642261484344",
+      "source": "American Behavioral Scientist",
+      "published_at": "2026-09-12T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Implications of Corruption on Indonesia\u2019s Investment Climate Are Reviewed from the Theory of the Legal System and Business Ethics",
+      "short_title": "The Implications of Corruption on Indonesia\u2019s Investment Climate Are Reviewed from the Theory\u2026",
+      "url": "https://doi.org/10.47191/ijsshr/v9-i9-06",
+      "source": "International Journal of Social Science and Human Research",
+      "published_at": "2026-09-12T00:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -206,14 +222,6 @@
       "short_title": "Interaction between the Investigator and the Operational Units of the Department for Economic\u2026",
       "url": "https://doi.org/10.18572/2072-3644-2026-3-46-50",
       "source": "BUSINESS SECURITY",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Practical Aspects of Assessing Legal Norms for Corruption-Prone Provisions in the Conduct of Anti-Corruption Expertise",
-      "short_title": "Practical Aspects of Assessing Legal Norms for Corruption-Prone Provisions in the Conduct of A\u2026",
-      "url": "https://doi.org/10.18572/2071-1166-2026-9-72-75",
-      "source": "ADMINISTRATIVE LAW AND PROCEDURE",
       "published_at": "2026-09-10T00:00:00+00:00",
       "sentiment": "negative"
     }
@@ -241,6 +249,14 @@
       "url": "https://doi.org/10.69548/jisrev.2.2.83",
       "source": "JISRev: Journal of Islamic Studies Review",
       "published_at": "2026-10-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Rethinking Anti-Corruption Reform in Sierra Leone: A Typology of Local Agency in Hybrid Accountability Systems",
+      "short_title": "Rethinking Anti-Corruption Reform in Sierra Leone: A Typology of Local Agency in Hybrid Accoun\u2026",
+      "url": "https://doi.org/10.1177/00027642261484344",
+      "source": "American Behavioral Scientist",
+      "published_at": "2026-09-12T00:00:00+00:00",
       "sentiment": "negative"
     }
   ]
