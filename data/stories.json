@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-09-29T18:36:59.412589+00:00",
+  "updated_at": "2026-09-30T18:25:50.402514+00:00",
   "government": [
-    {
-      "title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS 3910",
-      "short_title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS\u2026",
-      "url": "https://doi.org/10.1061/jladah.ladr-1648",
-      "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
-      "published_at": "2027-02-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
     {
       "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
       "short_title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Pu\u2026",
@@ -40,22 +32,6 @@
       "source": "Journal of Historical Research, Law and Policy",
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on Sustainable Development Standards",
-      "short_title": "Challenges of Environmental Governance in Iraq and Strategies for Its Strengthening Based on S\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.338",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
     },
     {
       "title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, rule of law, and women in parliament",
@@ -130,35 +106,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "Corruption in a Closed System and Combating Strategies",
-      "short_title": "Corruption in a Closed System and Combating Strategies",
-      "url": "https://doi.org/10.54105/ijssl.a1249.06010926",
-      "source": "Indian Journal of Social Science and Literature",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Fighting Corruption and Transparency of Political Parties Finances as Prerequisites of the EU\u2019s Accession: The Case of the Republic of Moldova",
-      "short_title": "Fighting Corruption and Transparency of Political Parties Finances as Prerequisites of the EU\u2019\u2026",
-      "url": "https://doi.org/10.58603/ruzg3970",
-      "source": "Analele Universit\u0103\u021bii din Oradea. Seria: Rela\u021bii Interna\u021bionale \u0219i Studii Europene",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-09-29T18:36:58.296638+00:00",
-      "sentiment": "positive"
-    },
-    {
       "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-09-29T18:36:50.632007+00:00",
+      "published_at": "2026-09-30T18:25:48.813201+00:00",
       "sentiment": "negative"
     },
     {
@@ -166,7 +118,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-09-29T18:36:49.274235+00:00",
+      "published_at": "2026-09-30T18:25:47.704648+00:00",
       "sentiment": "positive"
     },
     {
@@ -174,7 +126,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-29T18:36:49.274137+00:00",
+      "published_at": "2026-09-30T18:25:47.704525+00:00",
       "sentiment": "positive"
     },
     {
@@ -182,7 +134,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-29T18:36:49.274054+00:00",
+      "published_at": "2026-09-30T18:25:47.704440+00:00",
       "sentiment": "positive"
     },
     {
@@ -190,7 +142,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-09-29T18:36:49.274043+00:00",
+      "published_at": "2026-09-30T18:25:47.704428+00:00",
       "sentiment": "positive"
     },
     {
@@ -198,7 +150,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-29T18:36:49.273891+00:00",
+      "published_at": "2026-09-30T18:25:47.704283+00:00",
       "sentiment": "negative"
     },
     {
@@ -206,7 +158,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-09-29T18:36:49.273826+00:00",
+      "published_at": "2026-09-30T18:25:47.704214+00:00",
       "sentiment": "negative"
     },
     {
@@ -214,27 +166,27 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-09-29T18:36:49.273725+00:00",
+      "published_at": "2026-09-30T18:25:47.704115+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Progressive and Conservative Imaginaries of Discontent: Anti-Corruption Agendas in Chile and the United States",
+      "short_title": "Progressive and Conservative Imaginaries of Discontent: Anti-Corruption Agendas in Chile and t\u2026",
+      "url": "https://doi.org/10.1177/00027642261484354",
+      "source": "American Behavioral Scientist",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Corruption in a Closed System and Combating Strategies",
+      "short_title": "Corruption in a Closed System and Combating Strategies",
+      "url": "https://doi.org/10.54105/ijssl.a1249.06010926",
+      "source": "Indian Journal of Social Science and Literature",
+      "published_at": "2026-09-30T00:00:00+00:00",
       "sentiment": "negative"
     }
   ],
   "nonprofit": [
-    {
-      "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
-      "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.380",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
-      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.389",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
     {
       "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
       "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
