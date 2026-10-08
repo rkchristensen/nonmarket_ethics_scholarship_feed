@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-07T19:18:59.867878+00:00",
+  "updated_at": "2026-10-08T19:15:36.616276+00:00",
   "government": [
+    {
+      "title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS 3910",
+      "short_title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS\u2026",
+      "url": "https://doi.org/10.1061/jladah.ladr-1648",
+      "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+      "published_at": "2027-02-01T00:00:00+00:00",
+      "sentiment": "positive"
+    },
     {
       "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
       "short_title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Pu\u2026",
@@ -26,59 +34,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption in Afghanistan during the Republican Period (2004\u20132021)",
-      "short_title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.383",
+      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
+      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.389",
       "source": "Journal of Historical Research, Law and Policy",
       "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, rule of law, and women in parliament",
-      "short_title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, r\u2026",
-      "url": "https://doi.org/10.1016/j.ssaho.2026.103357",
-      "source": "Social Sciences &amp; Humanities Open",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Perceptions of government and health-sector corruption and inappropriate professional conduct during the COVID-19 pandemic among workers in 13 Latin American countries: a multicountry cross-sectional study",
-      "short_title": "Perceptions of government and health-sector corruption and inappropriate professional conduct\u2026",
-      "url": "https://doi.org/10.1016/j.ssaho.2026.103479",
-      "source": "Social Sciences &amp; Humanities Open",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corporate corruption under local government financial stress: The role of land finance in China",
-      "short_title": "Corporate corruption under local government financial stress: The role of land finance in China",
-      "url": "https://doi.org/10.1016/j.jcae.2026.100583",
-      "source": "Journal of Contemporary Accounting &amp; Economics",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
-      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
-      "url": "https://doi.org/10.69548/jisrev.2.2.83",
-      "source": "JISRev: Journal of Islamic Studies Review",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Ethical Foundations of Anti-Corruption in the Civil Service System of the People\u2019s Republic of China",
-      "short_title": "Ethical Foundations of Anti-Corruption in the Civil Service System of the People\u2019s Republic of\u2026",
-      "url": "https://doi.org/10.18572/1813-1247-2026-10-43-48",
-      "source": "State power and local self-government",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AI Regulation and Its Social Impacts on Public Policy",
-      "short_title": "AI Regulation and Its Social Impacts on Public Policy",
-      "url": "https://doi.org/10.55737/rl.v5i1.26181",
-      "source": "Regional Lens",
-      "published_at": "2026-10-07T19:18:59.515717+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +46,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-10-07T19:18:57.435813+00:00",
+      "published_at": "2026-10-08T19:15:36.051400+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +54,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-10-07T19:18:56.869770+00:00",
+      "published_at": "2026-10-08T19:15:35.844575+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +62,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-07T19:18:56.869669+00:00",
+      "published_at": "2026-10-08T19:15:35.844491+00:00",
       "sentiment": "positive"
     },
     {
@@ -110,7 +70,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-07T19:18:56.869582+00:00",
+      "published_at": "2026-10-08T19:15:35.844418+00:00",
       "sentiment": "positive"
     },
     {
@@ -118,7 +78,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-07T19:18:56.869570+00:00",
+      "published_at": "2026-10-08T19:15:35.844409+00:00",
       "sentiment": "positive"
     },
     {
@@ -126,7 +86,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-10-07T19:18:56.869417+00:00",
+      "published_at": "2026-10-08T19:15:35.844286+00:00",
       "sentiment": "negative"
     },
     {
@@ -134,7 +94,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-10-07T19:18:56.869339+00:00",
+      "published_at": "2026-10-08T19:15:35.844230+00:00",
       "sentiment": "negative"
     },
     {
@@ -142,74 +102,18 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-10-07T19:18:56.869208+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Ethical Orientation: Key to the Sustenance of the Fight Against Corruption in the Power Sector in Nigeria",
-      "short_title": "Ethical Orientation: Key to the Sustenance of the Fight Against Corruption in the Power Sector\u2026",
-      "url": "https://doi.org/10.56201/jpaswr.v11.no9.2026.pg99.113",
-      "source": "JOURNAL OF PUBLIC ADMINISTRATION AND SOCIAL WELFARE RESEARCH",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corruption and National Development in Nigeria: 1999 - 2024",
-      "short_title": "Corruption and National Development in Nigeria: 1999 - 2024",
-      "url": "https://doi.org/10.56201/jpslr.vol.12.no9.2026.pg29.41",
-      "source": "JOURNAL OF POLITICAL SCIENCE AND LEADERSHIP RESEARCH",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Maqasid al-Sharia and Anti-Corruption Governance: An Operational Framework for Evaluating State Officials' Wealth Disclosure in Indonesia",
-      "short_title": "Maqasid al-Sharia and Anti-Corruption Governance: An Operational Framework for Evaluating Stat\u2026",
-      "url": "https://doi.org/10.21580/wishel.2026.2.2.32247",
-      "source": "Walisongo Journal of Sharia Economic Law",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Normalization Versus Criminalization: Bureaucratic Corruption and Kickbacks in Nigeria and China, 2015-2025",
-      "short_title": "Normalization Versus Criminalization: Bureaucratic Corruption and Kickbacks in Nigeria and Chi\u2026",
-      "url": "https://doi.org/10.56201/jlgp.vol.10.no5.2025.pg1.11",
-      "source": "JOURNAL OF LAW AND GLOBAL POLICY",
-      "published_at": "2026-10-06T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Public perception of corruption in the federal road safety commission (FRSC) in Enugu State of Nigeria",
-      "short_title": "Public perception of corruption in the federal road safety commission (FRSC) in Enugu State of\u2026",
-      "url": "https://doi.org/10.1007/s10611-026-10310-4",
-      "source": "Crime, Law and Social Change",
-      "published_at": "2026-10-06T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "From Banking Prudence to Government Procurement: Reconstructing Provider Risk Assessment to Prevent Corruption in Indonesia",
-      "short_title": "From Banking Prudence to Government Procurement: Reconstructing Provider Risk Assessment to Pr\u2026",
-      "url": "https://doi.org/10.32505/politica.v13i2.16335",
-      "source": "Politica: Jurnal Hukum Tata Negara dan Politik Islam",
-      "published_at": "2026-10-05T00:00:00+00:00",
+      "published_at": "2026-10-08T19:15:35.844144+00:00",
       "sentiment": "negative"
     }
   ],
   "nonprofit": [
     {
-      "title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relations",
-      "short_title": "The New Middle Class of Iran and the Demand for Reforming Domestic and Foreign Political Relat\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.380",
+      "title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Intelligence Strategy",
+      "short_title": "Responsible AI Governance in Iran: A Program-Theory Evaluation of the National Artificial Inte\u2026",
+      "url": "https://doi.org/10.61838/jhrlp.389",
       "source": "Journal of Historical Research, Law and Policy",
       "published_at": "2027-01-01T00:00:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary After Indonesian Constitutional Court Decision No. 66/PUU-XXIV/2026: A Fiqh Siyasah Perspective",
-      "short_title": "Where Does Maladministration End and Corruption Begin? Delineating the Constitutional Boundary\u2026",
-      "url": "https://doi.org/10.69548/jisrev.2.2.83",
-      "source": "JISRev: Journal of Islamic Studies Review",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "sentiment": "negative"
     }
   ]
 }
