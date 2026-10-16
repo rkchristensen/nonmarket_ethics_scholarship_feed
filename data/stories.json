@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-15T17:45:10.036568+00:00",
+  "updated_at": "2026-10-16T17:22:19.201168+00:00",
   "government": [
+    {
+      "title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS 3910",
+      "short_title": "Institutional Legitimacy and Standard-Form Construction Contracts: Governance Lessons from NZS\u2026",
+      "url": "https://doi.org/10.1061/jladah.ladr-1648",
+      "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+      "published_at": "2027-02-01T00:00:00+00:00",
+      "sentiment": "positive"
+    },
     {
       "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
       "short_title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Pu\u2026",
@@ -18,35 +26,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "Medicine between ethics and politics: a historical and bioethical interpretation of the Russian medical tradition",
-      "short_title": "Medicine between ethics and politics: a historical and bioethical interpretation of the Russia\u2026",
-      "url": "https://doi.org/10.32687/1561-5936-2026-30-3-375-377",
-      "source": "REMEDIUM",
-      "published_at": "2026-12-15T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Behavioral Orientations and Self-Rated Performance Among University Employees in Vietnam",
-      "short_title": "Behavioral Orientations and Self-Rated Performance Among University Employees in Vietnam",
-      "url": "https://doi.org/10.65696/001c.172537",
-      "source": "North American Journal of Psychology",
-      "published_at": "2026-12-02T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
-      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
-      "url": "https://doi.org/10.3917/gmp.pr1.0009",
-      "source": "Gestion et management public",
-      "published_at": "2026-10-15T17:45:08.555413+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-10-15T17:45:07.848127+00:00",
+      "published_at": "2026-10-16T17:22:16.707239+00:00",
       "sentiment": "positive"
     },
     {
@@ -54,7 +38,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-15T17:45:07.848029+00:00",
+      "published_at": "2026-10-16T17:22:16.707158+00:00",
       "sentiment": "positive"
     },
     {
@@ -62,7 +46,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-15T17:45:07.847945+00:00",
+      "published_at": "2026-10-16T17:22:16.707089+00:00",
       "sentiment": "positive"
     },
     {
@@ -70,7 +54,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-10-15T17:45:07.847933+00:00",
+      "published_at": "2026-10-16T17:22:16.707079+00:00",
       "sentiment": "positive"
     },
     {
@@ -78,7 +62,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-10-15T17:45:07.847789+00:00",
+      "published_at": "2026-10-16T17:22:16.706958+00:00",
       "sentiment": "negative"
     },
     {
@@ -86,7 +70,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-10-15T17:45:07.847706+00:00",
+      "published_at": "2026-10-16T17:22:16.706901+00:00",
       "sentiment": "negative"
     },
     {
@@ -94,7 +78,7 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-10-15T17:45:07.847605+00:00",
+      "published_at": "2026-10-16T17:22:16.706815+00:00",
       "sentiment": "negative"
     }
   ],
