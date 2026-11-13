@@ -1,68 +1,12 @@
 {
-  "updated_at": "2026-11-12T20:46:49.415729+00:00",
+  "updated_at": "2026-11-13T20:27:54.540607+00:00",
   "government": [
     {
-      "title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Public Rights",
-      "short_title": "An Examination of Government Methods for Compensating Damage Resulting from Infringement of Pu\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.258",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The Legal Foundations for the Evolving Role of Oversight Bodies in Combating Corruption in Iraq",
-      "short_title": "The Legal Foundations for the Evolving Role of Oversight Bodies in Combating Corruption in Iraq",
-      "url": "https://doi.org/10.61838/kman.isslp.564",
-      "source": "Interdisciplinary Studies in Society, Law, and Politics",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption in Afghanistan during the Republican Period (2004\u20132021)",
-      "short_title": "Evaluation of the Policymaking System and Institutions for Combating Administrative Corruption\u2026",
-      "url": "https://doi.org/10.61838/jhrlp.383",
-      "source": "Journal of Historical Research, Law and Policy",
-      "published_at": "2027-01-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Prevention of Conflicts of Interest in Integrated Territorial Development in Moscow: Implementation of CSTO Anti-Corruption Standards in Urban Planning Zoning",
-      "short_title": "Prevention of Conflicts of Interest in Integrated Territorial Development in Moscow: Implement\u2026",
-      "url": "https://doi.org/10.18572/2500-0292-2026-4-9-14",
-      "source": "Town-Planning Law",
-      "published_at": "2026-12-24T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, rule of law, and women in parliament",
-      "short_title": "Control of corruption in Emerging Asian Economies: The influence of GDP, freedom and speech, r\u2026",
-      "url": "https://doi.org/10.1016/j.ssaho.2026.103357",
-      "source": "Social Sciences &amp; Humanities Open",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Perceptions of government and health-sector corruption and inappropriate professional conduct during the COVID-19 pandemic among workers in 13 Latin American countries: a multicountry cross-sectional study",
-      "short_title": "Perceptions of government and health-sector corruption and inappropriate professional conduct\u2026",
-      "url": "https://doi.org/10.1016/j.ssaho.2026.103479",
-      "source": "Social Sciences &amp; Humanities Open",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The role of public sector corruption, informal economy and agricultural employment on the load capacity factor: Testing the LCC hypothesis for Ecuador",
-      "short_title": "The role of public sector corruption, informal economy and agricultural employment on the load\u2026",
-      "url": "https://doi.org/10.1016/j.indic.2026.101565",
-      "source": "Environmental and Sustainability Indicators",
-      "published_at": "2026-12-01T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corporate corruption under local government financial stress: The role of land finance in China",
-      "short_title": "Corporate corruption under local government financial stress: The role of land finance in China",
-      "url": "https://doi.org/10.1016/j.jcae.2026.100583",
-      "source": "Journal of Contemporary Accounting &amp; Economics",
-      "published_at": "2026-12-01T00:00:00+00:00",
+      "title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bilan d\u2019une recherche immersive en Police Judiciaire fran\u00e7aise",
+      "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
+      "url": "https://doi.org/10.3917/gmp.pr1.0009",
+      "source": "Gestion et management public",
+      "published_at": "2026-11-13T20:27:52.910686+00:00",
       "sentiment": "negative"
     },
     {
@@ -70,7 +14,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-11-12T20:46:46.256623+00:00",
+      "published_at": "2026-11-13T20:27:52.490801+00:00",
       "sentiment": "positive"
     },
     {
@@ -78,7 +22,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-12T20:46:46.256546+00:00",
+      "published_at": "2026-11-13T20:27:52.490747+00:00",
       "sentiment": "positive"
     },
     {
@@ -86,7 +30,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-12T20:46:46.256483+00:00",
+      "published_at": "2026-11-13T20:27:52.490702+00:00",
       "sentiment": "positive"
     },
     {
@@ -94,7 +38,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-12T20:46:46.256474+00:00",
+      "published_at": "2026-11-13T20:27:52.490696+00:00",
       "sentiment": "positive"
     },
     {
@@ -102,7 +46,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-11-12T20:46:46.256363+00:00",
+      "published_at": "2026-11-13T20:27:52.490615+00:00",
       "sentiment": "negative"
     },
     {
@@ -110,7 +54,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-11-12T20:46:46.256312+00:00",
+      "published_at": "2026-11-13T20:27:52.490581+00:00",
       "sentiment": "negative"
     },
     {
@@ -118,34 +62,9 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-11-12T20:46:46.256233+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Institutional corruption and the architecture of divergence: purpose\u2013outcome misalignment in a Haitian regional public university",
-      "short_title": "Institutional corruption and the architecture of divergence: purpose\u2013outcome misalignment in a\u2026",
-      "url": "https://doi.org/10.1080/23322969.2026.2761356",
-      "source": "Policy Reviews in Higher Education",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Economic Coordination, Political Regime and Sustainability Outcomes: Cross-National Evidence on Corruption, Inflation and Growth",
-      "short_title": "Economic Coordination, Political Regime and Sustainability Outcomes: Cross-National Evidence o\u2026",
-      "url": "https://doi.org/10.3390/su182211488",
-      "source": "Sustainability",
-      "published_at": "2026-11-11T00:00:00+00:00",
+      "published_at": "2026-11-13T20:27:52.490519+00:00",
       "sentiment": "negative"
     }
   ],
-  "nonprofit": [
-    {
-      "title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accountability in critical minerals governance",
-      "short_title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accou\u2026",
-      "url": "https://doi.org/10.1016/j.exis.2026.102098",
-      "source": "The Extractive Industries and Society",
-      "published_at": "2027-03-01T00:00:00+00:00",
-      "sentiment": "positive"
-    }
-  ]
+  "nonprofit": []
 }
