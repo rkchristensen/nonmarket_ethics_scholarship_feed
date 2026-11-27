@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:17:25.463687+00:00",
+  "updated_at": "2026-11-27T21:56:20.776642+00:00",
   "government": [
     {
       "title": "Bridging the Physical\u2013Institutional Gap: Spatiotemporal Evolution of Three-Dimensional Urbanization Coupling Coordination and Differentiated Governance in China\u2019s Shrinking Cities",
@@ -14,7 +14,7 @@
       "short_title": "Le facteur \u00e9motionnel de l\u2019activit\u00e9 : analyser les \u00ab angles morts \u00bb pour am\u00e9liorer la QVCT. Bi\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0009",
       "source": "Gestion et management public",
-      "published_at": "2026-11-26T22:17:24.434741+00:00",
+      "published_at": "2026-11-27T21:56:20.476273+00:00",
       "sentiment": "negative"
     },
     {
@@ -22,7 +22,7 @@
       "short_title": "A blockchain-based digital governance framework for public subsidy reform: a design science ap\u2026",
       "url": "https://doi.org/10.1504/eg.2028.10082535",
       "source": "Electronic Government, an International Journal",
-      "published_at": "2026-11-26T22:17:24.196804+00:00",
+      "published_at": "2026-11-27T21:56:20.284477+00:00",
       "sentiment": "positive"
     },
     {
@@ -30,7 +30,7 @@
       "short_title": "A Policy Analysis of PFAS Regulations in Maine and the US Federal Government",
       "url": "https://doi.org/10.53558/wsmtdy02",
       "source": "Maine Policy Review",
-      "published_at": "2026-11-26T22:17:24.196766+00:00",
+      "published_at": "2026-11-27T21:56:20.284451+00:00",
       "sentiment": "positive"
     },
     {
@@ -38,7 +38,7 @@
       "short_title": "Data Science as a Catalyst for Audit Transformation",
       "url": "https://doi.org/10.56251/clyp9463",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-26T22:17:24.196665+00:00",
+      "published_at": "2026-11-27T21:56:20.284385+00:00",
       "sentiment": "positive"
     },
     {
@@ -46,7 +46,7 @@
       "short_title": "Technology is Advancing Every Day, We Think Oversight Should Too!",
       "url": "https://doi.org/10.56251/tydf1981",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-26T22:17:24.196579+00:00",
+      "published_at": "2026-11-27T21:56:20.284327+00:00",
       "sentiment": "positive"
     },
     {
@@ -54,7 +54,7 @@
       "short_title": "Killer Robots \u2013 A Case for SAIs",
       "url": "https://doi.org/10.56251/ojyp9121",
       "source": "International Journal of Government Auditing",
-      "published_at": "2026-11-26T22:17:24.196566+00:00",
+      "published_at": "2026-11-27T21:56:20.284320+00:00",
       "sentiment": "positive"
     },
     {
@@ -62,7 +62,7 @@
       "short_title": "The dark side of public service motivation : Analysis of noble cause corruption based on the L\u2026",
       "url": "https://doi.org/10.3917/e.gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-11-26T22:17:24.196401+00:00",
+      "published_at": "2026-11-27T21:56:20.284222+00:00",
       "sentiment": "negative"
     },
     {
@@ -70,7 +70,7 @@
       "short_title": "La face sombre de la motivation de service public : Analyse de la corruption pour une cause no\u2026",
       "url": "https://doi.org/10.3917/gmp.pr1.0018",
       "source": "Gestion et management public",
-      "published_at": "2026-11-26T22:17:24.196334+00:00",
+      "published_at": "2026-11-27T21:56:20.284140+00:00",
       "sentiment": "negative"
     },
     {
@@ -78,18 +78,9 @@
       "short_title": "Market Failure or Government Failure? A Response to Jaworski",
       "url": "https://doi.org/10.12747/bejr2013.01.08",
       "source": "Business Ethics Journal Review",
-      "published_at": "2026-11-26T22:17:24.196236+00:00",
+      "published_at": "2026-11-27T21:56:20.284066+00:00",
       "sentiment": "negative"
     }
   ],
-  "nonprofit": [
-    {
-      "title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accountability in critical minerals governance",
-      "short_title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accou\u2026",
-      "url": "https://doi.org/10.1016/j.exis.2026.102098",
-      "source": "The Extractive Industries and Society",
-      "published_at": "2027-03-01T00:00:00+00:00",
-      "sentiment": "positive"
-    }
-  ]
+  "nonprofit": []
 }
